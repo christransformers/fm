@@ -30,7 +30,7 @@ export function Footer() {
           <p className="text-sm text-sc-text-secondary max-w-md mx-auto mb-4">
             Get on FUSEMUSIC to connect with Australian fans, share your sound with other artists, and grow your audience. What are you waiting for?
           </p>
-          <Link href="/upload" className="sc-btn sc-btn-primary inline-flex">
+          <Link href="/fm/upload" className="sc-btn sc-btn-primary inline-flex">
             Upload your music
           </Link>
         </div>

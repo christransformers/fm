@@ -53,12 +53,12 @@ export default function ArtistsPage() {
           {australianArtists.map((artist) => (
             <Link
               key={artist.slug}
-              href={`/artist/${artist.slug}`}
+              href={`/fm/artist/${artist.slug}`}
               className="sc-card group overflow-hidden"
             >
               <div className="relative aspect-square overflow-hidden bg-sc-bg-tertiary">
                 <img
-                  src={`/images/artists/${artist.slug}.svg`}
+                  src={`/fm/images/artists/${artist.slug}.svg`}
                   alt={artist.name}
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"

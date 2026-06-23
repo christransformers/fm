@@ -17,8 +17,8 @@ export default function FeedPage() {
         <div className="flex items-center justify-between mb-8">
           <h1 className="text-2xl font-bold">Your Feed</h1>
           <div className="flex gap-2">
-            <Link href="/discover" className="sc-btn sc-btn-outline text-sm">Discover</Link>
-            <Link href="/library" className="sc-btn sc-btn-outline text-sm">Library</Link>
+            <Link href="/fm/discover" className="sc-btn sc-btn-outline text-sm">Discover</Link>
+            <Link href="/fm/library" className="sc-btn sc-btn-outline text-sm">Library</Link>
           </div>
         </div>
 
@@ -32,7 +32,7 @@ export default function FeedPage() {
               { user: "oliviab", name: "Olivia B.", action: "listened to", track: "Losing It", artist: "Fisher" },
             ].map((act) => (
               <div key={act.user} className="flex items-center gap-3">
-                <img src={`/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />
+                <img src={`/fm/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />
                 <p className="text-xs text-sc-text-secondary">
                   <span className="font-medium text-sc-text-primary">{act.name}</span> {act.action}{" "}
                   <span className="font-medium text-sc-text-primary">{act.track}</span>

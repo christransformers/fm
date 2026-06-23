@@ -53,7 +53,7 @@ export default function DiscoverPage() {
           ].map((chart) => (
             <Link
               key={chart.name}
-              href="/charts"
+              href="/fm/charts"
               className={`${chart.bg} rounded-lg p-6 hover:opacity-90 transition-opacity`}
             >
               <h3 className="text-lg font-bold text-white mb-1">{chart.name}</h3>

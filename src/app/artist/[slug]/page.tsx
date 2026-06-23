@@ -102,7 +102,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
         <div className="flex flex-col md:flex-row gap-8 mb-12">
           <div className="flex-shrink-0">
             <img
-              src={`/images/sc-assets/profiles/${slug}.svg`}
+              src={`/fm/images/sc-assets/profiles/${slug}.svg`}
               alt={artist.name}
               className="w-[200px] h-[200px] rounded-lg object-cover shadow-lg"
             />
@@ -113,7 +113,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
             <p className="text-sm text-sc-text-secondary mb-4">{artist.city}, Australia</p>
             <p className="text-sm text-sc-text-secondary max-w-lg mb-4">{artist.bio}</p>
             <Link
-              href={`/artist/${slug}`}
+              href={`/fm/artist/${slug}`}
               className="sc-btn sc-btn-outline text-sm"
             >
               View full artist page
@@ -152,7 +152,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
           <div className="flex flex-wrap gap-4">
             {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd"].map((user, i) => (
               <div key={user} className="flex items-center gap-2">
-                <img src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
+                <img src={`/fm/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
                 <div>
                   <p className="text-xs font-medium text-sc-text-primary">{["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D."][i]}</p>
                   <p className="text-[10px] text-sc-text-tertiary">Top fan</p>
@@ -163,7 +163,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
         </div>
 
         <div className="mt-8 text-center">
-          <Link href="/artists" className="sc-btn sc-btn-outline text-sm">
+          <Link href="/fm/artists" className="sc-btn sc-btn-outline text-sm">
             ← Back to all artists
           </Link>
         </div>

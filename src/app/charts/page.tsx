@@ -38,7 +38,7 @@ export default function ChartsPage() {
           {chartData.slice(0, 3).map((track) => (
             <div key={track.rank} className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
               <div className="p-4 flex items-center gap-3">
-                <img src={`/images/sc-assets/artworks/album-0${track.rank}.svg`} alt="" className="w-[60px] h-[60px] rounded object-cover flex-shrink-0" />
+                <img src={`/fm/images/sc-assets/artworks/album-0${track.rank}.svg`} alt="" className="w-[60px] h-[60px] rounded object-cover flex-shrink-0" />
                 <div className="min-w-0 flex-1">
                   <span className="text-lg font-extrabold text-sc-text-tertiary">#{track.rank}</span>
                   <p className="text-sm font-semibold text-sc-text-primary truncate">{track.title}</p>
