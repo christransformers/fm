@@ -11,8 +11,10 @@ export function MiniPlayer() {
       <div className="max-w-[1440px] mx-auto px-4 h-full flex items-center gap-4">
         {/* Track info */}
         <div className="flex items-center gap-3 min-w-[200px] max-w-[280px]">
-          <div className="w-[40px] h-[40px] rounded bg-sc-gradient-hero flex-shrink-0 flex items-center justify-center">
-            <svg className="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24">
+          <div className="w-[40px] h-[40px] rounded bg-sc-gradient-hero flex-shrink-0 flex items-center justify-center relative overflow-hidden">
+            {/* Waveform background */}
+            <img src="/images/sc-assets/waveforms/wave-01.svg" alt="" className="absolute inset-0 w-full h-full object-cover opacity-30" />
+            <svg className="w-5 h-5 text-white relative z-10" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
             </svg>
           </div>

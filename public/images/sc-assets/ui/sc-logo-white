@@ -1,2 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Access Denied</Message><RequestId>SYVCB15ZKCV85RJQ</RequestId><HostId>0Wmtcrp89yBMygHJhXeo7sAqlpPxF5Rmp3UQpTQ5c4HIEjC0Mvr6FRucci8pQHHFyhefdjBJVyM=</HostId></Error>
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="24" viewBox="0 0 120 24">
+  <text x="0" y="20" font-family="Inter,sans-serif" font-size="20" font-weight="900" fill="white">FUSEMUSIC</text>
+  <circle cx="112" cy="12" r="8" fill="white" opacity="0.9"/>
+  <polygon points="108,8 108,16 116,12" fill="#ff5500"/>
+</svg>

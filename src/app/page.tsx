@@ -35,7 +35,8 @@ export default function Home() {
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 sc-gradient-hero opacity-90" />
         <div className="absolute inset-0 bg-black/30" />
-        
+        {/* Background pattern */}
+        <img src="/images/sc-assets/backgrounds/dots.svg" alt="" className="absolute inset-0 w-full h-full object-cover opacity-[0.04]" />
         <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-sc-accent/20 blur-[120px]" />
         <div className="absolute bottom-0 left-0 w-[400px] h-[400px] rounded-full bg-purple-600/20 blur-[100px]" />
         
@@ -65,6 +66,8 @@ export default function Home() {
       <section className="relative overflow-hidden bg-sc-bg-secondary">
         <div className="absolute inset-0 sc-gradient-purple opacity-50" />
         <div className="absolute inset-0 bg-sc-bg-secondary/60" />
+        {/* Grid background */}
+        <img src="/images/sc-assets/backgrounds/grid.svg" alt="" className="absolute inset-0 w-full h-full object-cover opacity-[0.06]" />
         
         <div className="relative max-w-[1440px] mx-auto px-4 py-24 md:py-32">
           <div className="max-w-[600px]">
@@ -112,6 +115,41 @@ export default function Home() {
               </Link>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Genre Explorer — all genre icons from assets */}
+      <section className="max-w-[1440px] mx-auto px-4 py-12">
+        <h3 className="text-xl font-bold text-sc-text-primary mb-6">Browse by Genre</h3>
+        <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-8 gap-3">
+          {[
+            { name: "Electronic", icon: "electronic" },
+            { name: "Hip-Hop", icon: "hip-hop" },
+            { name: "House", icon: "house" },
+            { name: "Pop", icon: "pop" },
+            { name: "Indie Rock", icon: "indie-rock" },
+            { name: "Dance/EDM", icon: "dance-edm" },
+            { name: "R&B/Soul", icon: "r-b-soul" },
+            { name: "Psychedelic", icon: "psychedelic" },
+            { name: "Jazz", icon: "jazz" },
+            { name: "Latin", icon: "latin" },
+            { name: "Alternative", icon: "alternative" },
+            { name: "Classical", icon: "classical" },
+            { name: "Country", icon: "country" },
+            { name: "Folk", icon: "folk" },
+            { name: "Reggae", icon: "reggae" },
+          ].map((genre) => (
+            <Link
+              key={genre.icon}
+              href={`/discover`}
+              className="flex flex-col items-center gap-2 p-3 rounded-lg bg-sc-bg-secondary border border-sc-border hover:border-sc-accent hover:bg-sc-bg-tertiary transition-all group"
+            >
+              <div className="w-12 h-12 rounded-lg bg-sc-bg-tertiary flex items-center justify-center group-hover:bg-sc-accent/10 transition-colors">
+                <img src={`/images/sc-assets/genres/${genre.icon}.svg`} alt={genre.name} className="w-8 h-8" />
+              </div>
+              <span className="text-[10px] font-medium text-sc-text-secondary group-hover:text-sc-text-primary text-center leading-tight">{genre.name}</span>
+            </Link>
+          ))}
         </div>
       </section>
 
@@ -174,8 +212,16 @@ export default function Home() {
         <div className="bg-sc-bg-secondary rounded-lg p-6 border border-sc-border">
           <h3 className="text-sm font-semibold text-sc-text-primary mb-4">🎧 Recently played by</h3>
           <div className="flex flex-wrap items-center gap-3">
-            {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd","avam","williamb","isabellac","ethanw","sophiah","lucasy","harperg"].map((user, i) => (
-              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D.","Ava M.","Will B.","Isabella C.","Ethan W.","Sophia H.","Lucas Y.","Harper G."][i]} />
+            {[
+              "emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd","avam","williamb",
+              "isabellac","ethanw","sophiah","lucasy","harperg","sarahm","tommyb","dj_alex","mia_k",
+              "lucasr","rubyj","oscarp","avaw","noahg","ellaf","liamc","sophiad","jamesk"
+            ].map((user, i) => (
+              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[40px] h-[40px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={[
+                "Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D.","Ava M.","Will B.",
+                "Isabella C.","Ethan W.","Sophia H.","Lucas Y.","Harper G.","Sarah M.","Tommy B.","DJ Alex","Mia K.",
+                "Lucas R.","Ruby J.","Oscar P.","Ava W.","Noah G.","Ella F.","Liam C.","Sophia D.","James K."
+              ][i]} />
             ))}
             <span className="text-xs text-sc-text-secondary ml-2">+ 1,247 others</span>
           </div>
