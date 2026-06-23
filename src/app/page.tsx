@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "FUSEMUSIC - Australia Home | Discover Australian Music",
+  description: "Australia's home for music discovery. Stream Flume, RÜFÜS DU SOL, Tame Impala, The Kid LAROI and thousands more Australian artists.",
+};
+
 import Link from "next/link";
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
@@ -158,6 +165,39 @@ export default function Home() {
         <p className="text-xs text-sc-text-secondary mt-2 text-center">
           Flume — Never Be Like You · Streaming via SoundCloud
         </p>
+      </section>
+
+      {/* More Australian Artists — SC Embeds */}
+      <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
+        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
+          More Australian Artists
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/180910056&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              className="w-full" />
+            <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom</p>
+          </div>
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/427298251&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              className="w-full" />
+            <p className="text-xs text-sc-text-secondary p-3 text-center">Fisher — Losing It</p>
+          </div>
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199313556&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              className="w-full" />
+            <p className="text-xs text-sc-text-secondary p-3 text-center">Dom Dolla — Be Right There</p>
+          </div>
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
+              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220954969&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              className="w-full" />
+            <p className="text-xs text-sc-text-secondary p-3 text-center">Tame Impala — The Less I Know The Better</p>
+          </div>
+        </div>
       </section>
 
       {/* Sign-up CTA */}

@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About FUSEMUSIC | Australia's Music Discovery Platform",
+  description: "Learn about FUSEMUSIC — Australia's independent music discovery platform connecting artists and fans.",
+};
+
 import Link from "next/link";
 import { Footer } from "@/components/Footer";
 

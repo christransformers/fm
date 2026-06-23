@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Your Library | FUSEMUSIC",
+  description: "Your FUSEMUSIC library — liked tracks, playlists, albums, and artists you follow.",
+};
+
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
 import { trendingTracks } from "@/data/tracks";

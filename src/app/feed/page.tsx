@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Your Feed | FUSEMUSIC",
+  description: "Your personalised Australian music feed. Trending tracks, new releases, and artists you follow.",
+};
+
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
 import { trendingTracks } from "@/data/tracks";

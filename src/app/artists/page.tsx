@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Australian Artists Directory | FUSEMUSIC",
+  description: "Browse Australia's most exciting musicians — Flume, Tame Impala, The Kid LAROI, Sampa the Great, Mallrat, and more.",
+};
+
 import Link from "next/link";
 import { Footer } from "@/components/Footer";
 

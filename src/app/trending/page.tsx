@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Trending Australian Music | FUSEMUSIC",
+  description: "The hottest tracks trending across the Australian music scene right now. Updated daily.",
+};
+
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
 import { trendingTracks } from "@/data/tracks";

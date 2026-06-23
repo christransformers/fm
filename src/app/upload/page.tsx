@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Upload Your Music | FUSEMUSIC",
+  description: "Upload your tracks and get discovered. FUSEMUSIC showcases Australian artists to the world.",
+};
+
 import { Footer } from "@/components/Footer";
 
 export default function UploadPage() {

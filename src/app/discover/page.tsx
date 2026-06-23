@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Discover Australian Music | FUSEMUSIC",
+  description: "Explore Australian music by genre — electronic, hip-hop, indie, house, pop, and more.",
+};
+
 import Link from "next/link";
 
 export default function DiscoverPage() {

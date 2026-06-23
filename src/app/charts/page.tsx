@@ -1,3 +1,10 @@
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Australian Top 50 Charts | FUSEMUSIC",
+  description: "The most played Australian tracks this week. Top 50 chart featuring Flume, Fisher, RÜFÜS DU SOL, and more.",
+};
+
 import Link from "next/link";
 import { Footer } from "@/components/Footer";
 

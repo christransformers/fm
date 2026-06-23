@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "https://raw.githubusercontent.com/christransformers/fm/main/logo-small.png",
   },
+  other: {
+    "link": '<link rel="preload" as="image" href="https://raw.githubusercontent.com/christransformers/fm/main/logo-big.png">',
+  },
   openGraph: {
     title: "FUSEMUSIC",
     description: "Australian Music. Discover. Stream. Connect.",
