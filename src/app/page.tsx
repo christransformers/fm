@@ -8,6 +8,7 @@ export const metadata: Metadata = {
 import Link from "next/link";
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
+import { UnifiedPlayers } from "@/components/UnifiedPlayers";
 import { trendingTracks } from "@/data/tracks";
 
 export default function Home() {
@@ -146,89 +147,26 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured Australian Track */}
+      {/* Unified Players — SoundCloud + YouTube, all thumbnails visible, one plays at a time */}
       <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
-        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
-          Featured Australian Artist
-        </h3>
-        <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-          <iframe
-            width="100%"
-            height="166"
-            scrolling="no"
-            frameBorder="no"
-            allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fnever-be-like-you&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&amp;buying=false&amp;sharing=false"
-            className="w-full"
-          />
-        </div>
-        <p className="text-xs text-sc-text-secondary mt-2 text-center">
-          Flume — Never Be Like You · Streaming via SoundCloud
-        </p>
-      </section>
-
-      {/* More Australian Artists — SC Embeds */}
-      <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
-        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
-          More Australian Artists
-        </h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Frufusdusol%2Finnerbloom&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
-              className="w-full" />
-            <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Ffishm8%2Flosing-it&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
-              className="w-full" />
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Fisher — Losing It</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fdomdolla%2Fbe-right-there&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
-              className="w-full" />
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Dom Dolla — Be Right There</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Ftameimpala%2Fthe-less-i-know-the-better&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
-              className="w-full" />
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Tame Impala — The Less I Know The Better</p>
-          </div>
-        </div>
-      </section>
-
-      {/* Video Embeds — Australian Artist Music Videos */}
-      <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
-        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
-          Watch Australian Music Videos
-        </h3>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full" 
-                src="https://www.youtube.com/embed/Ly7uj0JwgKg"
-                title="Flume - Never Be Like You ft. Kai"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Flume — Never Be Like You (Official Video)</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/w7WisxVxQJ4"
-                title="RÜFÜS DU SOL - Innerbloom"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom (Official Video)</p>
-          </div>
-        </div>
+        <UnifiedPlayers
+          scTracks={[
+            { title: "Never Be Like You ft. Kai", artist: "Flume", scUrl: "https://soundcloud.com/flume/never-be-like-you" },
+            { title: "Innerbloom", artist: "RÜFÜS DU SOL", scUrl: "https://soundcloud.com/rufusdusol/innerbloom" },
+            { title: "Losing It", artist: "Fisher", scUrl: "https://soundcloud.com/fishm8/losing-it" },
+            { title: "Be Right There", artist: "Dom Dolla", scUrl: "https://soundcloud.com/domdolla/be-right-there" },
+            { title: "The Less I Know The Better", artist: "Tame Impala", scUrl: "https://soundcloud.com/tameimpala/the-less-i-know-the-better" },
+            { title: "STAY", artist: "The Kid LAROI", scUrl: "https://soundcloud.com/thekidlaroi/stay" },
+          ]}
+          ytVideos={[
+            { title: "Never Be Like You (Official Video)", artist: "Flume ft. Kai", ytId: "Ly7uj0JwgKg" },
+            { title: "Innerbloom (Official Video)", artist: "RÜFÜS DU SOL", ytId: "dM57m31VjJQ" },
+            { title: "The Less I Know The Better", artist: "Tame Impala", ytId: "sBzrzS1Ag_g" },
+            { title: "Losing It (Official Video)", artist: "Fisher", ytId: "u31thuMehjM" },
+            { title: "Be Right There (Official Video)", artist: "Dom Dolla", ytId: "OvW5y3lZ7rc" },
+            { title: "STAY (Official Video)", artist: "The Kid LAROI", ytId: "kTJczUoc26U" },
+          ]}
+        />
       </section>
 
       {/* Recently Played By — Avatars Row */}
