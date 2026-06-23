@@ -158,7 +158,7 @@ export default function Home() {
             scrolling="no"
             frameBorder="no"
             allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242537124&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/flume/never-be-like-you&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
             className="w-full"
           />
         </div>
@@ -175,25 +175,25 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
             <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/180910056&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rufusdusol/innerbloom&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
               className="w-full" />
             <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom</p>
           </div>
           <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
             <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/427298251&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/fishm8/losing-it&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
               className="w-full" />
             <p className="text-xs text-sc-text-secondary p-3 text-center">Fisher — Losing It</p>
           </div>
           <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
             <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199313556&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/domdolla/be-right-there&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
               className="w-full" />
             <p className="text-xs text-sc-text-secondary p-3 text-center">Dom Dolla — Be Right There</p>
           </div>
           <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
             <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220954969&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+              src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/tameimpala/the-less-i-know-the-better&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
               className="w-full" />
             <p className="text-xs text-sc-text-secondary p-3 text-center">Tame Impala — The Less I Know The Better</p>
           </div>
@@ -231,29 +231,29 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Recently Played By — Avatars Row */}
+      {/* Recently Played By — Mia T.tars Row */}
       <section className="max-w-[1440px] mx-auto px-4 py-8 mb-8">
         <div className="bg-sc-bg-secondary rounded-lg p-6 border border-sc-border">
           <h3 className="text-sm font-semibold text-sc-text-primary mb-4">🎧 Recently played by</h3>
           <div className="flex flex-wrap items-center gap-3">
-            {["sarahm","tommyb","mia_k","lucasc","rubyj","oscarp","avaw","noahg","ellaf","liamc","sophiad","jamesk","islam","chrish","zaran"].map((user, i) => (
-              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Sarah","Tommy","Mia","Lucas","Ruby","Oscar","Ava","Noah","Ella","Liam","Sophia","James","Isla","Chris","Zara"][i]} />
+            {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd","avam","williamb","isabellac","ethanw","sophiah","lucasy","harperg"].map((user, i) => (
+              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Emma W.","Jack T.","Olivia B.","Oliver D. W.","Charlotte S.","Will B. J.","Mia T.","Oliver D.","Ava M.","Will B.","Isabella C.","Ethan W.","Sophia H.","Lucas Y.","Harper G."][i]} />
             ))}
             <span className="text-xs text-sc-text-secondary ml-2">+ 1,247 others</span>
           </div>
         </div>
       </section>
 
-      {/* Community Section — Social Proof with User Avatars */}
+      {/* Community Section — Social Proof with User Mia T.tars */}
       <section className="max-w-[1440px] mx-auto px-4 py-12 mb-8">
         <h3 className="text-xl font-bold text-sc-text-primary mb-6">
           Australian Music Community
         </h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {[
-            { user: "sarahm", name: "Sarah M.", text: "FUSEMUSIC is my go-to for discovering new Australian artists. Found my new favourite band here!", track: "Listening to Flume" },
-            { user: "tommyb", name: "Tommy B.", text: "The curated Aussie playlists are incredible. Way better than algorithms telling me what to hear.", track: "Just discovered Tame Impala" },
-            { user: "mia_k", name: "Mia K.", text: "As an independent artist, FUSEMUSIC actually showcases my music. Real community, real listeners.", track: "Streaming RÜFÜS DU SOL" },
+            { user: "emmaw", name: "Emma W. M.", text: "FUSEMUSIC is my go-to for discovering new Australian artists. Found my new favourite band here!", track: "Listening to Flume" },
+            { user: "jackt", name: "Jack T. B.", text: "The curated Aussie playlists are incredible. Way better than algorithms telling me what to hear.", track: "Just discovered Tame Impala" },
+            { user: "oliviab", name: "Olivia B. K.", text: "As an independent artist, FUSEMUSIC actually showcases my music. Real community, real listeners.", track: "Streaming RÜFÜS DU SOL" },
           ].map((comment) => (
             <div key={comment.user} className="bg-sc-bg-secondary rounded-lg p-4 border border-sc-border">
               <div className="flex items-center gap-3 mb-3">

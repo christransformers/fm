@@ -19,7 +19,7 @@ const australianArtists = [
   { slug: "domdolla", name: "Dom Dolla", genre: "House / Electronic", city: "Melbourne", image: "/artists/domdolla.jpg", tracks: 16, followers: "2.3M", scUrl: "https://soundcloud.com/domdolla" },
   { slug: "goldenfeatures", name: "Golden Features", genre: "Electronic", city: "Sydney", image: "/artists/golden.jpg", tracks: 25, followers: "980K", scUrl: "https://soundcloud.com/goldenfeatures" },
   { slug: "whatsonot", name: "What So Not", genre: "Electronic / Trap", city: "Sydney", image: "/artists/whatsonot.jpg", tracks: 31, followers: "1.4M", scUrl: "https://soundcloud.com/whatsonot" },
-  { slug: "haydenjames", name: "Hayden James", genre: "Electronic / Pop", city: "Sydney", image: "/artists/hayden.jpg", tracks: 20, followers: "760K", scUrl: "https://soundcloud.com/haydenjames" },
+  { slug: "haydenjames", name: "Hayden Ethan W.", genre: "Electronic / Pop", city: "Sydney", image: "/artists/hayden.jpg", tracks: 20, followers: "760K", scUrl: "https://soundcloud.com/haydenjames" },
   { slug: "tkaymaidza", name: "Tkay Maidza", genre: "Hip-Hop / Pop", city: "Adelaide", image: "/artists/tkay.jpg", tracks: 27, followers: "650K", scUrl: "https://soundcloud.com/tkaymaidza" },
 ];
 

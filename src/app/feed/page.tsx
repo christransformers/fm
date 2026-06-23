@@ -27,9 +27,9 @@ export default function FeedPage() {
           <h3 className="text-xs font-semibold uppercase tracking-wider text-sc-text-tertiary mb-3">Friends Activity</h3>
           <div className="space-y-3">
             {[
-              { user: "sarahm", name: "Sarah", action: "liked", track: "Never Be Like You", artist: "Flume" },
-              { user: "tommyb", name: "Tommy", action: "reposted", track: "Innerbloom", artist: "RÜFÜS DU SOL" },
-              { user: "mia_k", name: "Mia", action: "listened to", track: "Losing It", artist: "Fisher" },
+              { user: "emmaw", name: "Emma W.", action: "liked", track: "Never Be Like You", artist: "Flume" },
+              { user: "jackt", name: "Jack T.", action: "reposted", track: "Innerbloom", artist: "RÜFÜS DU SOL" },
+              { user: "oliviab", name: "Olivia B.", action: "listened to", track: "Losing It", artist: "Fisher" },
             ].map((act) => (
               <div key={act.user} className="flex items-center gap-3">
                 <img src={`/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />

@@ -10,11 +10,10 @@ const artists = {
     city: "Sydney",
     bio: "Flume is the alias of Australian electronic musician and producer Harley Streten. His self-titled debut album redefined electronic music and put Australian future bass on the global map.",
     scUrl: "https://soundcloud.com/flume",
-    scId: "242537124",
     tracks: [
-      { title: "Never Be Like You ft. Kai", scId: "242537124" },
-      { title: "Hyperreal ft. Kučka", scId: "315254426" },
-      { title: "Say It ft. Tove Lo", scId: "228987563" },
+      { title: "Never Be Like You ft. Kai", scUrl: "https://soundcloud.com/flume/never-be-like-you" },
+      { title: "Hyperreal ft. Kučka", scUrl: "https://soundcloud.com/flume/hyperreal" },
+      { title: "Say It ft. Tove Lo", scUrl: "https://soundcloud.com/flume/say-it" },
     ],
   },
   rufusdusol: {
@@ -23,11 +22,11 @@ const artists = {
     city: "Sydney",
     bio: "Grammy-winning Australian electronic trio. Known for their immersive live shows and atmospheric productions that blend deep house with indie sensibilities.",
     scUrl: "https://soundcloud.com/rufusdusol",
-    scId: "180910056",
+    
     tracks: [
-      { title: "Innerbloom", scId: "180910056" },
-      { title: "On My Knees", scId: "891136132" },
-      { title: "Alive", scId: "395527949" },
+      { title: "Innerbloom", scUrl: "https://soundcloud.com/rufusdusol/innerbloom" },
+      { title: "On My Knees", scUrl: "https://soundcloud.com/rufusdusol/on-my-knees" },
+      { title: "Alive", scUrl: "https://soundcloud.com/rufusdusol/alive" },
     ],
   },
   tameimpala: {
@@ -36,10 +35,10 @@ const artists = {
     city: "Perth",
     bio: "Kevin Parker's project that evolved from psychedelic rock into one of the most influential pop acts of the decade. Multiple ARIA and Grammy awards.",
     scUrl: "https://soundcloud.com/tameimpala",
-    scId: "220954969",
+    
     tracks: [
-      { title: "The Less I Know The Better", scId: "220954969" },
-      { title: "Let It Happen", scId: "192640179" },
+      { title: "The Less I Know The Better", scUrl: "https://soundcloud.com/tameimpala/the-less-i-know-the-better" },
+      { title: "Let It Happen", scUrl: "https://soundcloud.com/tameimpala/let-it-happen" },
     ],
   },
   thekidlaroi: {
@@ -48,9 +47,9 @@ const artists = {
     city: "Sydney",
     bio: "Australian rapper and singer who went from SoundCloud uploads to global chart dominance. One of Australia's biggest musical exports.",
     scUrl: "https://soundcloud.com/thekidlaroi",
-    scId: "707512434",
+    
     tracks: [
-      { title: "HIGHEST IN THE ROOM", scId: "707512434" },
+      { title: "HIGHEST IN THE ROOM", scUrl: "https://soundcloud.com/thekidlaroi" },
     ],
   },
   fisher: {
@@ -59,9 +58,9 @@ const artists = {
     city: "Gold Coast",
     bio: "Australian DJ and producer whose infectious tech house anthems have dominated dance floors worldwide. Grammy-nominated for 'Losing It'.",
     scUrl: "https://soundcloud.com/fishm8",
-    scId: "427298251",
+    
     tracks: [
-      { title: "Losing It", scId: "427298251" },
+      { title: "Losing It", scUrl: "https://soundcloud.com/fishm8/losing-it" },
     ],
   },
   domdolla: {
@@ -70,9 +69,9 @@ const artists = {
     city: "Melbourne",
     bio: "Melbourne-born DJ and producer riding the global house music wave. Multiple platinum records and ARIA nominations.",
     scUrl: "https://soundcloud.com/domdolla",
-    scId: "199313556",
+    
     tracks: [
-      { title: "Be Right There", scId: "199313556" },
+      { title: "Be Right There", scUrl: "https://soundcloud.com/domdolla/be-right-there" },
     ],
   },
 };
@@ -128,7 +127,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
         <h2 className="text-xl font-bold mb-6">Top Tracks</h2>
         <div className="space-y-4">
           {artist.tracks.map((track) => (
-            <div key={track.scId} className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <div key={track.scUrl} className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
               <div className="p-4 pb-0">
                 <p className="text-sm font-medium text-sc-text-primary">{track.title}</p>
                 <p className="text-xs text-sc-text-secondary">{artist.name}</p>
@@ -139,7 +138,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
                 scrolling="no"
                 frameBorder="no"
                 allow="autoplay"
-                src={`https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${track.scId}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false`}
+                src={`https://w.soundcloud.com/player/?url=${encodeURIComponent(track.scUrl)}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false`}
                 className="w-full"
               />
             </div>
@@ -153,11 +152,11 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
             Top Listeners
           </h3>
           <div className="flex flex-wrap gap-4">
-            {["sarahm","tommyb","mia_k","lucasc","rubyj","oscarp","avaw","noahg"].map((user, i) => (
+            {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd"].map((user, i) => (
               <div key={user} className="flex items-center gap-2">
                 <img src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
                 <div>
-                  <p className="text-xs font-medium text-sc-text-primary">{["Sarah","Tommy","Mia","Lucas","Ruby","Oscar","Ava","Noah"][i]}</p>
+                  <p className="text-xs font-medium text-sc-text-primary">{["Emma W.","Jack T.","Olivia B.","Oliver D. W.","Charlotte S.","Will B. J.","Mia T.","Oliver D."][i]}</p>
                   <p className="text-[10px] text-sc-text-tertiary">Top fan</p>
                 </div>
               </div>
