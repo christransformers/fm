@@ -23,10 +23,10 @@ export default function TrendingPage() {
           <h2 className="text-lg font-semibold mb-4">Top tracks this week</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {[
-              "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/flume/never-be-like-you&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
-              "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/rufusdusol/sets/innerbloom&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
-              "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/fishm8/losing-it&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
-              "https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/domdolla/be-right-there&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+              "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fnever-be-like-you&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+              "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Frufusdusol%2Fsets%2Finnerbloom&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+              "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Ffishm8%2Flosing-it&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+              "https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fdomdolla%2Fbe-right-there&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
             ].map((src, i) => (
               <div key={i} className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
                 <iframe
