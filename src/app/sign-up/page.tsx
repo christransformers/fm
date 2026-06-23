@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Footer } from "@/components/Footer";
 
 export default function SignUpPage() {
   return (
@@ -96,6 +97,7 @@ export default function SignUpPage() {
           </Link>
         </p>
       </div>
+      <Footer />
     </div>
   );
 }

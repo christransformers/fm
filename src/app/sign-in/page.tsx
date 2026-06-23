@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Footer } from "@/components/Footer";
 
 export default function SignInPage() {
   return (
@@ -88,6 +89,7 @@ export default function SignInPage() {
           </Link>
         </p>
       </div>
+      <Footer />
     </div>
   );
 }

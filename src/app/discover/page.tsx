@@ -6,6 +6,7 @@ export const metadata: Metadata = {
 };
 
 import Link from "next/link";
+import { Footer } from "@/components/Footer";
 
 export default function DiscoverPage() {
   return (
@@ -61,6 +62,7 @@ export default function DiscoverPage() {
           ))}
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

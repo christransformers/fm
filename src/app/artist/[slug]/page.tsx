@@ -154,7 +154,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
               <div key={user} className="flex items-center gap-2">
                 <img src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
                 <div>
-                  <p className="text-xs font-medium text-sc-text-primary">{["Emma W.","Jack T.","Olivia B.","Oliver D. W.","Charlotte S.","Will B. J.","Mia T.","Oliver D."][i]}</p>
+                  <p className="text-xs font-medium text-sc-text-primary">{["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D."][i]}</p>
                   <p className="text-[10px] text-sc-text-tertiary">Top fan</p>
                 </div>
               </div>
