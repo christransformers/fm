@@ -39,7 +39,7 @@ export default function DiscoverPage() {
         <h2 className="text-lg font-semibold mb-4">Popular charts</h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
           {[
-            { name: "SoundCloud Top 50", desc: "The most played tracks on SoundCloud", bg: "sc-gradient-hero" },
+            { name: "FUSEMUSIC Top 50", desc: "The most played tracks on FUSEMUSIC", bg: "sc-gradient-hero" },
             { name: "New & Hot", desc: "Fresh tracks blowing up right now", bg: "sc-gradient-purple" },
             { name: "Underground Gems", desc: "Hidden tracks waiting to be discovered", bg: "sc-gradient-blue" },
           ].map((chart) => (

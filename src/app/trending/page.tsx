@@ -8,10 +8,10 @@ export default function TrendingPage() {
       <div className="max-w-[1440px] mx-auto px-4 py-8">
         <h1 className="text-2xl font-bold mb-2">Trending playlists</h1>
         <p className="text-sm text-sc-text-secondary mb-8">
-          The hottest tracks and playlists on SoundCloud right now
+          The hottest tracks and playlists on FUSEMUSIC right now
         </p>
 
-        {/* SoundCloud Widget Embeds */}
+        {/* FUSEMUSIC Widget Embeds */}
         <div className="space-y-4 mb-12">
           <h2 className="text-lg font-semibold mb-4">Top tracks this week</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

@@ -7,7 +7,7 @@ export default function SignInPage() {
     <div className="pt-[50px] min-h-screen flex items-center justify-center">
       <div className="w-full max-w-[400px] mx-auto px-4 py-16">
         <div className="text-center mb-8">
-          <h1 className="text-2xl font-bold mb-2">Sign in to SoundCloud</h1>
+          <h1 className="text-2xl font-bold mb-2">Sign in to FUSEMUSIC</h1>
           <p className="text-sm text-sc-text-secondary">
             Welcome back to the world&apos;s largest music community
           </p>

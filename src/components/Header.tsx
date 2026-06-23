@@ -3,23 +3,28 @@
 import Link from "next/link";
 import { useState } from "react";
 
+const LOGO_SMALL = "https://raw.githubusercontent.com/christransformers/fm/main/logo-small.png";
+const LOGO_BIG = "https://raw.githubusercontent.com/christransformers/fm/main/logo-big.png";
+
 export function Header() {
   const [searchQuery, setSearchQuery] = useState("");
+  const [logoSrc, setLogoSrc] = useState(LOGO_SMALL);
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-sc-bg-primary/95 backdrop-blur-sm border-b border-sc-border">
       <div className="max-w-[1440px] mx-auto px-4 h-[50px] flex items-center gap-4">
-        {/* Logo */}
-        <Link href="/" className="flex-shrink-0">
-          <svg width="48" height="24" viewBox="0 0 48 24" fill="none">
-            <path d="M4.8 13.2L2.4 3.6H0L3.6 16.8H6L9.6 3.6H7.2L4.8 13.2Z" fill="#FF5500"/>
-            <path d="M12 6L10.8 3.6H8.4L10.8 8.4V16.8H13.2V8.4L15.6 3.6H13.2L12 6Z" fill="#FF5500"/>
-            <path d="M16.8 3.6V16.8H19.2V3.6H16.8Z" fill="white"/>
-            <path d="M22.8 16.8L26.4 3.6H24L21.6 13.2L19.2 3.6H16.8L21.6 16.8H22.8Z" fill="white"/>
-            <circle cx="34" cy="10" r="2" fill="#FF5500"/>
-            <circle cx="40" cy="12" r="3" fill="#FF5500"/>
-            <circle cx="46" cy="8" r="1.5" fill="#FF5500"/>
-          </svg>
+        {/* Logo — small default, big on hover */}
+        <Link
+          href="/"
+          className="flex-shrink-0"
+          onMouseEnter={() => setLogoSrc(LOGO_BIG)}
+          onMouseLeave={() => setLogoSrc(LOGO_SMALL)}
+        >
+          <img
+            src={logoSrc}
+            alt="FUSEMUSIC"
+            className="h-[28px] w-auto transition-all duration-200"
+          />
         </Link>
 
         {/* Nav Links */}
@@ -45,7 +50,7 @@ export function Header() {
               type="search"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search for tracks, artists, playlists..."
+              placeholder="Search tracks, artists, playlists..."
               className="w-full h-[34px] pl-9 pr-3 bg-sc-bg-tertiary text-sm text-sc-text-primary placeholder-sc-text-tertiary rounded border border-sc-border focus:border-sc-accent focus:outline-none transition-colors"
             />
           </div>

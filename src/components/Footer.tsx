@@ -18,20 +18,20 @@ export function Footer() {
             </div>
           </div>
           <p className="text-sm text-sc-text-secondary max-w-md mx-auto">
-            SoundCloud is available on Web, iOS, Android, Sonos, Chromecast, and Xbox One.
+            FUSEMUSIC is available on Web, iOS, Android, Sonos, Chromecast, and Xbox One.
           </p>
         </div>
 
         {/* Creator CTA */}
         <div className="bg-sc-bg-tertiary rounded-lg p-8 text-center mb-12">
           <p className="text-xs font-semibold uppercase tracking-wider text-sc-text-secondary mb-2">
-            CALLING ALL CREATORS
+            CALLING ALL AUSTRALIAN ARTISTS
           </p>
           <p className="text-sm text-sc-text-secondary max-w-md mx-auto mb-4">
-            Get on SoundCloud to connect with fans directly, share your sound with other artists, and grow your audience. What are you waiting for?
+            Get on FUSEMUSIC to connect with Australian fans, share your sound with other artists, and grow your audience. What are you waiting for?
           </p>
           <Link href="/upload" className="sc-btn sc-btn-primary inline-flex">
-            Find out more
+            Upload your music
           </Link>
         </div>
 
@@ -53,7 +53,7 @@ export function Footer() {
             <svg className="w-3.5 h-3.5 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
-            English (US)
+            Australia (English)
           </button>
         </div>
 
@@ -75,8 +75,8 @@ export function Footer() {
 
         {/* Copyright */}
         <p className="text-center text-[11px] text-sc-text-tertiary">
-          © {new Date().getFullYear()} SoundCloud Clone — Built for demonstration. 
-          All audio content embedded from SoundCloud. Not affiliated with SoundCloud Global Limited & Co. KG.
+          © {new Date().getFullYear()} FUSEMUSIC — Australia's home for music. 
+          All audio content streamed via SoundCloud. Not affiliated with SoundCloud Global Limited & Co. KG.
         </p>
       </div>
     </footer>

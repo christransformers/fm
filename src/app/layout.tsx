@@ -11,15 +11,15 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SoundCloud - Stream and listen to music online for free",
-  description: "Discover and stream music online for free with SoundCloud. The world's largest music library with over 4X the catalog of every major platform.",
+  title: "FUSEMUSIC - Australian Music. Discover. Stream. Connect.",
+  description: "Discover Australia's best music on FUSEMUSIC. Stream tracks from Flume, RÜFÜS DU SOL, Tame Impala, and more. The home of Australian sound.",
   icons: {
-    icon: "https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico",
+    icon: "https://raw.githubusercontent.com/christransformers/fm/main/logo-small.png",
   },
   openGraph: {
-    title: "SoundCloud",
-    description: "Stream and listen to music online for free",
-    siteName: "SoundCloud",
+    title: "FUSEMUSIC",
+    description: "Australian Music. Discover. Stream. Connect.",
+    siteName: "FUSEMUSIC",
     type: "website",
   },
 };

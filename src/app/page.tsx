@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { TrackCard } from "@/components/TrackCard";
 import { Footer } from "@/components/Footer";
-import { trendingTracks, featuredArtists } from "@/data/tracks";
+import { trendingTracks } from "@/data/tracks";
 
 export default function Home() {
   return (
@@ -10,9 +10,9 @@ export default function Home() {
       <div className="bg-sc-gradient-hero text-white">
         <div className="max-w-[1440px] mx-auto px-4 py-2 flex items-center justify-between gap-4">
           <p className="text-sm font-medium">
-            <strong>Keep flowing:</strong> Skip the ads, keep the beats flowing with Go+.{" "}
-            <Link href="/go-plus" className="underline font-semibold hover:no-underline">
-              Start Free Trial
+            <strong>G'day, Australia:</strong> stream the best local music, no ads, no limits.{" "}
+            <Link href="/sign-up" className="underline font-semibold hover:no-underline">
+              Join free
             </Link>
           </p>
           <button className="text-white/70 hover:text-white transition-colors flex-shrink-0">
@@ -28,26 +28,25 @@ export default function Home() {
         <div className="absolute inset-0 sc-gradient-hero opacity-90" />
         <div className="absolute inset-0 bg-black/30" />
         
-        {/* Abstract background shapes */}
         <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-sc-accent/20 blur-[120px]" />
         <div className="absolute bottom-0 left-0 w-[400px] h-[400px] rounded-full bg-purple-600/20 blur-[100px]" />
         
         <div className="relative max-w-[1440px] mx-auto px-4 py-24 md:py-32">
           <div className="max-w-[600px]">
             <h1 className="text-5xl md:text-7xl font-extrabold text-white leading-[1.05] mb-6">
-              DISCOVER.
+              AUSTRALIA'S
               <br />
-              GET DISCOVERED.
+              SOUND. AMPLIFIED.
             </h1>
             <p className="text-lg text-white/80 mb-8 max-w-md">
-              Discover your next obsession, or become someone else&apos;s. SoundCloud is the only community where fans and artists come together to discover and connect through music.
+              FUSEMUSIC brings together Australia's biggest artists and freshest underground talent. Stream Flume, RÜFÜS DU SOL, Tame Impala, and thousands more.
             </p>
             <div className="flex items-center gap-3">
               <Link href="/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
                 Get started
               </Link>
-              <Link href="/dc-the-don" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
-                DC the Don <span className="text-white/50">· SoundCloud Artist Pro</span>
+              <Link href="/discover" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+                Explore artists
               </Link>
             </div>
           </div>
@@ -62,24 +61,21 @@ export default function Home() {
         <div className="relative max-w-[1440px] mx-auto px-4 py-24 md:py-32">
           <div className="max-w-[600px]">
             <h2 className="text-5xl md:text-7xl font-extrabold text-white leading-[1.05] mb-6">
-              IT ALL STARTS WITH
+              AUSTRALIAN ARTISTS.
               <br />
-              AN UPLOAD.
+              UPLOAD. GET HEARD.
             </h2>
             <p className="text-lg text-white/80 mb-8 max-w-md">
-              SoundCloud is where you define what&apos;s next in music. Just hit upload.
+              FUSEMUSIC is where Australian artists connect directly with fans. Upload your tracks and join a community that celebrates local sound.
             </p>
             <div className="flex items-center gap-3">
               <Link href="/upload" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
-                Upload
+                Upload your music
               </Link>
-              <Link href="/artist-pro" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
-                Explore Artist Pro
+              <Link href="/for-artists" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+                Artist resources
               </Link>
             </div>
-            <p className="mt-4 text-sm text-white/60">
-              1900Rugrat · Ascending Artist
-            </p>
           </div>
         </div>
       </section>
@@ -92,24 +88,21 @@ export default function Home() {
         <div className="relative max-w-[1440px] mx-auto px-4 py-24 md:py-32">
           <div className="max-w-[700px]">
             <h2 className="text-5xl md:text-7xl font-extrabold text-white leading-[1.05] mb-6">
-              EVERY SCENE
+              EVERY SOUND.
               <br />
-              LIVES HERE.
+              AUSTRALIAN MADE.
             </h2>
             <p className="text-lg text-white/80 mb-8 max-w-lg">
-              Discover the world&apos;s largest music library, with over 4X the catalog of every major platform: every chart topper you know, plus demos, secret tracks, remixes, and DJ sets you can&apos;t find anywhere else.
+              From Sydney's electronic underground to Melbourne's hip-hop scene, from Perth's indie rock to Brisbane's future bass — FUSEMUSIC has every Australian genre, every hidden gem, every chart-topper.
             </p>
             <div className="flex items-center gap-3">
-              <Link href="/upload" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
-                Upload
+              <Link href="/discover" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+                Discover music
               </Link>
-              <Link href="/go-plus" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
-                Explore Go+
+              <Link href="/trending" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+                Trending now
               </Link>
             </div>
-            <p className="mt-4 text-sm text-white/60">
-              IDEMI · Ascending Artist
-            </p>
           </div>
         </div>
       </section>
@@ -119,21 +112,20 @@ export default function Home() {
         <div className="flex items-center justify-between mb-8">
           <div>
             <h3 className="text-2xl font-bold text-sc-text-primary mb-1">
-              Hear what&apos;s trending
+              Australia's trending right now
             </h3>
             <p className="text-sm text-sc-text-secondary">
-              The most played tracks on SoundCloud right now
+              The tracks blowing up across the Australian music scene
             </p>
           </div>
           <Link 
             href="/trending" 
             className="sc-btn sc-btn-outline text-sm hidden sm:inline-flex"
           >
-            Explore trending playlists
+            Explore trending
           </Link>
         </div>
 
-        {/* Track Grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
           {trendingTracks.map((track) => (
             <TrackCard key={track.id} track={track} />
@@ -142,15 +134,15 @@ export default function Home() {
 
         <div className="mt-8 text-center sm:hidden">
           <Link href="/trending" className="sc-btn sc-btn-outline text-sm">
-            Explore trending playlists
+            Explore trending
           </Link>
         </div>
       </section>
 
-      {/* SoundCloud Player Embed Demo */}
+      {/* Featured Australian Track */}
       <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
         <h3 className="text-xl font-bold text-sc-text-primary mb-6">
-          Featured Track
+          Featured Australian Artist
         </h3>
         <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
           <iframe
@@ -159,27 +151,30 @@ export default function Home() {
             scrolling="no"
             frameBorder="no"
             allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242537124&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
             className="w-full"
           />
         </div>
+        <p className="text-xs text-sc-text-secondary mt-2 text-center">
+          Flume — Never Be Like You · Streaming via SoundCloud
+        </p>
       </section>
 
       {/* Sign-up CTA */}
       <section className="bg-sc-bg-secondary border-t border-sc-border">
         <div className="max-w-[1440px] mx-auto px-4 py-16 text-center">
           <h2 className="text-3xl md:text-5xl font-extrabold text-sc-text-primary mb-4">
-            SoundCloud
+            FUSEMUSIC
           </h2>
-          <p className="text-sc-text-secondary mb-8">
-            Join the world&apos;s largest music community
+          <p className="text-sc-text-secondary mb-8 text-lg">
+            Australia's home for music discovery
           </p>
           <div className="flex items-center justify-center gap-3">
             <Link href="/sign-in" className="sc-btn sc-btn-ghost text-sm">
               Sign in
             </Link>
             <Link href="/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
-              Create a SoundCloud account
+              Create a FUSEMUSIC account
             </Link>
           </div>
           <div className="mt-6">

@@ -18,7 +18,7 @@ export function MiniPlayer() {
           </div>
           <div className="min-w-0">
             <p className="text-xs font-medium text-sc-text-primary truncate">Select a track to play</p>
-            <p className="text-[11px] text-sc-text-tertiary truncate">SoundCloud Player</p>
+            <p className="text-[11px] text-sc-text-tertiary truncate">FUSEMUSIC Player</p>
           </div>
           <button className="text-sc-text-secondary hover:text-sc-accent transition-colors flex-shrink-0">
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
@@ -60,7 +60,6 @@ export function MiniPlayer() {
               </svg>
             </button>
           </div>
-          {/* Progress bar */}
           <div className="w-full flex items-center gap-2">
             <span className="text-[10px] text-sc-text-tertiary w-8 text-right">0:00</span>
             <div className="flex-1 h-1 bg-sc-bg-elevated rounded-full overflow-hidden">

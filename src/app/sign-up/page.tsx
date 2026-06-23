@@ -7,9 +7,9 @@ export default function SignUpPage() {
     <div className="pt-[50px] min-h-screen flex items-center justify-center">
       <div className="w-full max-w-[400px] mx-auto px-4 py-16">
         <div className="text-center mb-8">
-          <h1 className="text-2xl font-bold mb-2">Create your SoundCloud account</h1>
+          <h1 className="text-2xl font-bold mb-2">Create your FUSEMUSIC account</h1>
           <p className="text-sm text-sc-text-secondary">
-            Join the world&apos;s largest music community
+            Join Australia&apos;s largest music community
           </p>
         </div>
 
@@ -83,7 +83,7 @@ export default function SignUpPage() {
         </form>
 
         <p className="text-xs text-sc-text-tertiary mt-4 text-center">
-          By creating an account, you agree to SoundCloud&apos;s{" "}
+          By creating an account, you agree to FUSEMUSIC&apos;s{" "}
           <Link href="/terms" className="text-sc-accent hover:underline">Terms of Use</Link>{" "}
           and{" "}
           <Link href="/privacy" className="text-sc-accent hover:underline">Privacy Policy</Link>.
