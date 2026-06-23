@@ -27,6 +27,9 @@ const thumbMap: Record<string, string> = {
   "rufusdusol/alive": "rufus-alive",
   "flume/say-it": "flume-sayit",
   "tameimpala/let-it-happen": "tame-letithappen",
+  "thekidlaroi/highest-in-the-room": "laroi-highest",
+  "sampathegreat/final-form": "sampa-finalform",
+  "mallrat/ghost": "mallrat-ghost",
 };
 
 function getThumbSlug(scUrl: string): string {
