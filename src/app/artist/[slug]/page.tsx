@@ -113,12 +113,10 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
             <p className="text-sm text-sc-text-secondary mb-4">{artist.city}, Australia</p>
             <p className="text-sm text-sc-text-secondary max-w-lg mb-4">{artist.bio}</p>
             <Link
-              href={artist.scUrl}
-              target="_blank"
-              rel="noopener noreferrer"
+              href={`/artist/${slug}`}
               className="sc-btn sc-btn-outline text-sm"
             >
-              Open in SoundCloud ↗
+              View full artist page
             </Link>
           </div>
         </div>

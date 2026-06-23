@@ -1,4 +1,4 @@
-:HL["/fm/_next/static/chunks/3smsap0yme8m6.css","style"]
+:HL["/fm/_next/static/chunks/1lub0wee-_r5_.css","style"]
 :HL["/fm/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/sc-assets/profiles/rufusdusol.svg","image"]
 :HL["/images/sc-assets/users/emmaw.svg","image"]
@@ -9,4 +9,4 @@
 :HL["/images/sc-assets/users/liamj.svg","image"]
 :HL["/images/sc-assets/users/miat.svg","image"]
 :HL["/images/sc-assets/users/oliverd.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rufusdusol","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Bdli1vDNmCMygow3_EekO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"rufusdusol","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"2xqph_yx8t_4GP8raj4Mh"}
