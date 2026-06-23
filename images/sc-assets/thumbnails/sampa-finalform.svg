@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00CC66"/><stop offset="100%" style="stop-color:#0066FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="300" fill="url(#g)"/>
+  <circle cx="150" cy="110" r="45" fill="white" opacity="0.12"/>
+  <polygon points="140,90 140,130 170,110" fill="white" opacity="0.5"/>
+  <text x="150" y="210" text-anchor="middle" font-family="Inter,sans-serif" font-size="18" font-weight="700" fill="white" opacity="0.85">Final Form</text>
+  <text x="150" y="235" text-anchor="middle" font-family="Inter,sans-serif" font-size="13" fill="white" opacity="0.5">Sampa the Great</text>
+</svg>

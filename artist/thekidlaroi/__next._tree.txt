@@ -1,6 +1,7 @@
-:HL["/_next/static/chunks/1lub0wee-_r5_.css","style"]
+:HL["/_next/static/chunks/0w_o02iy42ko-.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/sc-assets/profiles/thekidlaroi.svg","image"]
+:HL["/images/sc-assets/thumbnails/laroi-stay.svg","image"]
 :HL["/images/sc-assets/users/emmaw.svg","image"]
 :HL["/images/sc-assets/users/jackt.svg","image"]
 :HL["/images/sc-assets/users/oliviab.svg","image"]
@@ -9,4 +10,4 @@
 :HL["/images/sc-assets/users/liamj.svg","image"]
 :HL["/images/sc-assets/users/miat.svg","image"]
 :HL["/images/sc-assets/users/oliverd.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"thekidlaroi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lYX6ydnuebBtpTbdgpQfo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"thekidlaroi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"PN_TeHwtTugJq_kKPNPDJ"}
