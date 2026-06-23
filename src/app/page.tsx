@@ -18,7 +18,7 @@ export default function Home() {
         <div className="max-w-[1440px] mx-auto px-4 py-2 flex items-center justify-between gap-4">
           <p className="text-sm font-medium">
             <strong>G'day, Australia:</strong> stream the best local music, no ads, no limits.{" "}
-            <Link href="/fm/sign-up" className="underline font-semibold hover:no-underline">
+            <Link href="/sign-up" className="underline font-semibold hover:no-underline">
               Join free
             </Link>
           </p>
@@ -49,10 +49,10 @@ export default function Home() {
               FUSEMUSIC brings together Australia's biggest artists and freshest underground talent. Stream Flume, RÜFÜS DU SOL, Tame Impala, and thousands more.
             </p>
             <div className="flex items-center gap-3">
-              <Link href="/fm/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+              <Link href="/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
                 Get started
               </Link>
-              <Link href="/fm/discover" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+              <Link href="/discover" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
                 Explore artists
               </Link>
             </div>
@@ -76,10 +76,10 @@ export default function Home() {
               FUSEMUSIC is where Australian artists connect directly with fans. Upload your tracks and join a community that celebrates local sound.
             </p>
             <div className="flex items-center gap-3">
-              <Link href="/fm/upload" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+              <Link href="/upload" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
                 Upload your music
               </Link>
-              <Link href="/fm/for-artists" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+              <Link href="/for-artists" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
                 Artist resources
               </Link>
             </div>
@@ -103,10 +103,10 @@ export default function Home() {
               From Sydney's electronic underground to Melbourne's hip-hop scene, from Perth's indie rock to Brisbane's future bass — FUSEMUSIC has every Australian genre, every hidden gem, every chart-topper.
             </p>
             <div className="flex items-center gap-3">
-              <Link href="/fm/discover" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+              <Link href="/discover" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
                 Discover music
               </Link>
-              <Link href="/fm/trending" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
+              <Link href="/trending" className="text-white/80 hover:text-white text-sm font-medium transition-colors">
                 Trending now
               </Link>
             </div>
@@ -126,7 +126,7 @@ export default function Home() {
             </p>
           </div>
           <Link 
-            href="/fm/trending" 
+            href="/trending" 
             className="sc-btn sc-btn-outline text-sm hidden sm:inline-flex"
           >
             Explore trending
@@ -140,7 +140,7 @@ export default function Home() {
         </div>
 
         <div className="mt-8 text-center sm:hidden">
-          <Link href="/fm/trending" className="sc-btn sc-btn-outline text-sm">
+          <Link href="/trending" className="sc-btn sc-btn-outline text-sm">
             Explore trending
           </Link>
         </div>
@@ -279,15 +279,15 @@ export default function Home() {
             Australia's home for music discovery
           </p>
           <div className="flex items-center justify-center gap-3">
-            <Link href="/fm/sign-in" className="sc-btn sc-btn-ghost text-sm">
+            <Link href="/sign-in" className="sc-btn sc-btn-ghost text-sm">
               Sign in
             </Link>
-            <Link href="/fm/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+            <Link href="/sign-up" className="bg-white text-sc-bg-primary px-6 py-3 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
               Create a FUSEMUSIC account
             </Link>
           </div>
           <div className="mt-6">
-            <Link href="/fm/for-artists" className="text-sm text-sc-text-secondary hover:text-sc-text-primary transition-colors">
+            <Link href="/for-artists" className="text-sm text-sc-text-secondary hover:text-sc-text-primary transition-colors">
               For artists
             </Link>
           </div>

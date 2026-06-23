@@ -16,7 +16,7 @@ export default function LibraryPage() {
       <div className="max-w-[1440px] mx-auto px-4 py-8">
         <div className="flex items-center justify-between mb-8">
           <h1 className="text-2xl font-bold">Your Library</h1>
-          <Link href="/fm/upload" className="sc-btn sc-btn-primary text-sm">
+          <Link href="/upload" className="sc-btn sc-btn-primary text-sm">
             <svg className="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
             </svg>
@@ -56,7 +56,7 @@ export default function LibraryPage() {
           <p className="text-sm text-sc-text-secondary mb-4">
             Like tracks and create playlists to build your personal music collection
           </p>
-          <Link href="/fm/sign-up" className="sc-btn sc-btn-primary text-sm">
+          <Link href="/sign-up" className="sc-btn sc-btn-primary text-sm">
             Create account
           </Link>
         </div>

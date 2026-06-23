@@ -1,0 +1,12 @@
+:HL["/fm/_next/static/chunks/1qmisv3_p9m5o.css","style"]
+:HL["/fm/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fm/images/sc-assets/profiles/tkaymaidza.svg","image"]
+:HL["/fm/images/sc-assets/users/emmaw.svg","image"]
+:HL["/fm/images/sc-assets/users/jackt.svg","image"]
+:HL["/fm/images/sc-assets/users/oliviab.svg","image"]
+:HL["/fm/images/sc-assets/users/noahw.svg","image"]
+:HL["/fm/images/sc-assets/users/charlottes.svg","image"]
+:HL["/fm/images/sc-assets/users/liamj.svg","image"]
+:HL["/fm/images/sc-assets/users/miat.svg","image"]
+:HL["/fm/images/sc-assets/users/oliverd.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tkaymaidza","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KJt0KQXHFXBp7gUSYYmPI"}

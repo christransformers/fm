@@ -85,14 +85,14 @@ export default function SignUpPage() {
 
         <p className="text-xs text-sc-text-tertiary mt-4 text-center">
           By creating an account, you agree to FUSEMUSIC&apos;s{" "}
-          <Link href="/fm/terms" className="text-sc-accent hover:underline">Terms of Use</Link>{" "}
+          <Link href="/terms" className="text-sc-accent hover:underline">Terms of Use</Link>{" "}
           and{" "}
-          <Link href="/fm/privacy" className="text-sc-accent hover:underline">Privacy Policy</Link>.
+          <Link href="/privacy" className="text-sc-accent hover:underline">Privacy Policy</Link>.
         </p>
 
         <p className="text-center text-sm text-sc-text-secondary mt-6">
           Already have an account?{" "}
-          <Link href="/fm/sign-in" className="text-sc-accent hover:underline">
+          <Link href="/sign-in" className="text-sc-accent hover:underline">
             Sign in
           </Link>
         </p>

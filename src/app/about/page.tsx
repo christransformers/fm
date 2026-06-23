@@ -57,7 +57,7 @@ export default function AboutPage() {
             <p className="text-white/80 text-sm mb-4">
               Upload your music to SoundCloud and get featured on FUSEMUSIC — Australia's fastest growing music discovery platform.
             </p>
-            <Link href="/fm/upload" className="inline-flex bg-white text-sc-bg-primary px-5 py-2 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
+            <Link href="/upload" className="inline-flex bg-white text-sc-bg-primary px-5 py-2 rounded font-semibold text-sm hover:bg-gray-100 transition-colors">
               Upload your music
             </Link>
           </div>

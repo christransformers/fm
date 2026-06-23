@@ -53,7 +53,7 @@ export default function ArtistsPage() {
           {australianArtists.map((artist) => (
             <Link
               key={artist.slug}
-              href={`/fm/artist/${artist.slug}`}
+              href={`/artist/${artist.slug}`}
               className="sc-card group overflow-hidden"
             >
               <div className="relative aspect-square overflow-hidden bg-sc-bg-tertiary">

@@ -74,6 +74,74 @@ const artists = {
       { title: "Be Right There", scUrl: "https://soundcloud.com/domdolla/be-right-there" },
     ],
   },
+  sampathegreat: {
+    name: "Sampa the Great",
+    genre: "Hip-Hop / Soul",
+    city: "Melbourne",
+    bio: "Zambia-born, Botswana-raised, Melbourne-based artist blending hip-hop, soul, and spoken word into powerful, award-winning music.",
+    scUrl: "https://soundcloud.com/sampathegreat",
+    
+    tracks: [
+      { title: "Final Form", scUrl: "https://soundcloud.com/sampathegreat/final-form" },
+      { title: "Energy", scUrl: "https://soundcloud.com/sampathegreat/energy" },
+    ],
+  },
+  mallrat: {
+    name: "Mallrat",
+    genre: "Indie Pop",
+    city: "Brisbane",
+    bio: "Brisbane indie-pop artist Grace Shaw, aka Mallrat, blends shimmering pop with heartfelt lyrics. One of Australia's brightest young talents.",
+    scUrl: "https://soundcloud.com/mallrat",
+    
+    tracks: [
+      { title: "Ghost", scUrl: "https://soundcloud.com/mallrat/ghost" },
+      { title: "Charlie", scUrl: "https://soundcloud.com/mallrat/charlie" },
+    ],
+  },
+  goldenfeatures: {
+    name: "Golden Features",
+    genre: "Electronic",
+    city: "Sydney",
+    bio: "Mysterious Sydney producer known for dark, driving electronic music that fuses house, techno, and indie influences.",
+    scUrl: "https://soundcloud.com/goldenfeatures",
+    
+    tracks: [
+      { title: "Falling Out", scUrl: "https://soundcloud.com/goldenfeatures/falling-out" },
+    ],
+  },
+  haydenjames: {
+    name: "Hayden James",
+    genre: "Electronic / Pop",
+    city: "Sydney",
+    bio: "Electronic producer crafting dreamy pop-house fusions. Known for his smooth vocals and uplifting productions.",
+    scUrl: "https://soundcloud.com/haydenjames",
+    
+    tracks: [
+      { title: "Something About You", scUrl: "https://soundcloud.com/haydenjames/something-about-you" },
+    ],
+  },
+  whatsonot: {
+    name: "What So Not",
+    genre: "Electronic / Trap",
+    city: "Sydney",
+    bio: "Chris Emerson's solo project that evolved from a duo with Flume into one of Australia's most innovative electronic acts.",
+    scUrl: "https://soundcloud.com/whatsonot",
+    
+    tracks: [
+      { title: "High You Are", scUrl: "https://soundcloud.com/whatsonot/high-you-are" },
+    ],
+  },
+  tkaymaidza: {
+    name: "Tkay Maidza",
+    genre: "Hip-Hop / Pop",
+    city: "Adelaide",
+    bio: "Zimbabwe-born, Adelaide-raised artist blending hip-hop, pop, and electronic into a fierce, unstoppable sound.",
+    scUrl: "https://soundcloud.com/tkaymaidza",
+    
+    tracks: [
+      { title: "Shook", scUrl: "https://soundcloud.com/tkaymaidza/shook" },
+    ],
+  },
 };
 
 export function generateStaticParams() {
@@ -113,7 +181,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
             <p className="text-sm text-sc-text-secondary mb-4">{artist.city}, Australia</p>
             <p className="text-sm text-sc-text-secondary max-w-lg mb-4">{artist.bio}</p>
             <Link
-              href={`/fm/artist/${slug}`}
+              href={`/artist/${slug}`}
               className="sc-btn sc-btn-outline text-sm"
             >
               View full artist page
@@ -163,7 +231,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
         </div>
 
         <div className="mt-8 text-center">
-          <Link href="/fm/artists" className="sc-btn sc-btn-outline text-sm">
+          <Link href="/artists" className="sc-btn sc-btn-outline text-sm">
             ← Back to all artists
           </Link>
         </div>

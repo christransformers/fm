@@ -17,8 +17,8 @@ export default function FeedPage() {
         <div className="flex items-center justify-between mb-8">
           <h1 className="text-2xl font-bold">Your Feed</h1>
           <div className="flex gap-2">
-            <Link href="/fm/discover" className="sc-btn sc-btn-outline text-sm">Discover</Link>
-            <Link href="/fm/library" className="sc-btn sc-btn-outline text-sm">Library</Link>
+            <Link href="/discover" className="sc-btn sc-btn-outline text-sm">Discover</Link>
+            <Link href="/library" className="sc-btn sc-btn-outline text-sm">Library</Link>
           </div>
         </div>
 
