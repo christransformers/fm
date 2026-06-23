@@ -14,6 +14,8 @@ import { trendingTracks } from "@/data/tracks";
 export default function Home() {
   return (
     <div className="pt-[50px]">
+      {/* BUILD: unified-players-v2 */}
+      <div dangerouslySetInnerHTML={{ __html: "<!-- BUILD-MARKER: unified-players-v2 -->" }} />
       {/* Promo Banner */}
       <div className="bg-sc-gradient-hero text-white">
         <div className="max-w-[1440px] mx-auto px-4 py-2 flex items-center justify-between gap-4">
