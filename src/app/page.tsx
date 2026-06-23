@@ -231,6 +231,31 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Community Section — Social Proof with User Avatars */}
+      <section className="max-w-[1440px] mx-auto px-4 py-12 mb-8">
+        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
+          Australian Music Community
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {[
+            { user: "sarahm", name: "Sarah M.", text: "FUSEMUSIC is my go-to for discovering new Australian artists. Found my new favourite band here!", track: "Listening to Flume" },
+            { user: "tommyb", name: "Tommy B.", text: "The curated Aussie playlists are incredible. Way better than algorithms telling me what to hear.", track: "Just discovered Tame Impala" },
+            { user: "mia_k", name: "Mia K.", text: "As an independent artist, FUSEMUSIC actually showcases my music. Real community, real listeners.", track: "Streaming RÜFÜS DU SOL" },
+          ].map((comment) => (
+            <div key={comment.user} className="bg-sc-bg-secondary rounded-lg p-4 border border-sc-border">
+              <div className="flex items-center gap-3 mb-3">
+                <img src={`/images/sc-assets/users/${comment.user}.svg`} alt={comment.name} className="w-[40px] h-[40px] rounded-full" />
+                <div>
+                  <p className="text-sm font-semibold text-sc-text-primary">{comment.name}</p>
+                  <p className="text-[10px] text-sc-text-tertiary">{comment.track}</p>
+                </div>
+              </div>
+              <p className="text-xs text-sc-text-secondary leading-relaxed">{comment.text}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* Sign-up CTA */}
       <section className="bg-sc-bg-secondary border-t border-sc-border">
         <div className="max-w-[1440px] mx-auto px-4 py-16 text-center">
