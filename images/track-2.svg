@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#7B2FF7"/><stop offset="100%" style="stop-color:#FF0055"/>
+  </linearGradient></defs>
+  <rect width="400" height="400" fill="url(#g)"/>
+  <circle cx="200" cy="140" r="45" fill="white" opacity="0.15"/>
+  <polygon points="188,118 188,162 232,140" fill="white" opacity="0.4"/>
+  <text x="200" y="290" text-anchor="middle" font-family="Inter,sans-serif" font-size="24" font-weight="600" fill="white" opacity="0.5">AUSSIE TRACK</text>
+</svg>

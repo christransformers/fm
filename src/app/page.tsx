@@ -200,6 +200,37 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Video Embeds — Australian Artist Music Videos */}
+      <section className="max-w-[1440px] mx-auto px-4 py-8 mb-16">
+        <h3 className="text-xl font-bold text-sc-text-primary mb-6">
+          Watch Australian Music Videos
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <div className="relative pt-[56.25%]">
+              <iframe className="absolute inset-0 w-full h-full" 
+                src="https://www.youtube.com/embed/Ly7uj0JwgKg"
+                title="Flume - Never Be Like You ft. Kai"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            <p className="text-xs text-sc-text-secondary p-3 text-center">Flume — Never Be Like You (Official Video)</p>
+          </div>
+          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
+            <div className="relative pt-[56.25%]">
+              <iframe className="absolute inset-0 w-full h-full"
+                src="https://www.youtube.com/embed/w7WisxVxQJ4"
+                title="RÜFÜS DU SOL - Innerbloom"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            </div>
+            <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom (Official Video)</p>
+          </div>
+        </div>
+      </section>
+
       {/* Sign-up CTA */}
       <section className="bg-sc-bg-secondary border-t border-sc-border">
         <div className="max-w-[1440px] mx-auto px-4 py-16 text-center">

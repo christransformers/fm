@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 
 export interface Track {
   id: string;
@@ -19,10 +18,16 @@ export function TrackCard({ track }: { track: Track }) {
       rel="noopener noreferrer"
       className="sc-card group block overflow-hidden"
     >
-      {/* Artwork */}
-      <div className="relative aspect-square overflow-hidden">
-        <div className="absolute inset-0 bg-sc-gradient-hero opacity-80" />
-        <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors" />
+      {/* Artwork — real image hosted in repo */}
+      <div className="relative aspect-square overflow-hidden bg-sc-bg-tertiary">
+        <img
+          src={track.artwork}
+          alt={track.title}
+          className="absolute inset-0 w-full h-full object-cover"
+          loading="lazy"
+        />
+        {/* Hover overlay */}
+        <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors" />
         {/* Play button overlay */}
         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
           <div className="w-12 h-12 rounded-full bg-sc-accent flex items-center justify-center shadow-lg transform scale-90 group-hover:scale-100 transition-transform">
@@ -31,7 +36,7 @@ export function TrackCard({ track }: { track: Track }) {
             </svg>
           </div>
         </div>
-        {/* Track count */}
+        {/* Play count */}
         <div className="absolute bottom-2 right-2 bg-black/60 backdrop-blur-sm text-[10px] font-medium text-white px-2 py-0.5 rounded">
           ▶ {track.plays}
         </div>

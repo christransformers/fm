@@ -58,14 +58,14 @@ export default function ArtistsPage() {
               rel="noopener noreferrer"
               className="sc-card group overflow-hidden"
             >
-              <div className="relative aspect-square overflow-hidden">
-                <div className="absolute inset-0 bg-sc-gradient-hero opacity-70" />
-                <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors" />
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <p className="text-2xl font-bold text-white opacity-70 group-hover:opacity-100 transition-opacity">
-                    {artist.name.split(" ").map(w => w[0]).join("")}
-                  </p>
-                </div>
+              <div className="relative aspect-square overflow-hidden bg-sc-bg-tertiary">
+                <img
+                  src={`/images/artists/${artist.slug}.svg`}
+                  alt={artist.name}
+                  className="absolute inset-0 w-full h-full object-cover"
+                  loading="lazy"
+                />
+                <div className="absolute inset-0 bg-black/20 group-hover:bg-black/5 transition-colors" />
                 <div className="absolute bottom-2 left-2 right-2">
                   <p className="text-xs font-semibold text-white truncate">{artist.name}</p>
                   <p className="text-[10px] text-white/70">{artist.city}</p>
