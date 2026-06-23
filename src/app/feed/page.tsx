@@ -22,6 +22,27 @@ export default function FeedPage() {
           </div>
         </div>
 
+        {/* Friend Activity */}
+        <div className="mb-8 bg-sc-bg-secondary rounded-lg p-4 border border-sc-border">
+          <h3 className="text-xs font-semibold uppercase tracking-wider text-sc-text-tertiary mb-3">Friends Activity</h3>
+          <div className="space-y-3">
+            {[
+              { user: "sarahm", name: "Sarah", action: "liked", track: "Never Be Like You", artist: "Flume" },
+              { user: "tommyb", name: "Tommy", action: "reposted", track: "Innerbloom", artist: "RÜFÜS DU SOL" },
+              { user: "mia_k", name: "Mia", action: "listened to", track: "Losing It", artist: "Fisher" },
+            ].map((act) => (
+              <div key={act.user} className="flex items-center gap-3">
+                <img src={`/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />
+                <p className="text-xs text-sc-text-secondary">
+                  <span className="font-medium text-sc-text-primary">{act.name}</span> {act.action}{" "}
+                  <span className="font-medium text-sc-text-primary">{act.track}</span>
+                  <span className="text-sc-text-tertiary"> by {act.artist}</span>
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+
         {/* Tabs */}
         <div className="flex gap-4 border-b border-sc-border mb-6">
           {["Trending", "New & hot", "Charts", "Music", "Audio"].map((tab) => (

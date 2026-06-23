@@ -231,6 +231,19 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Recently Played By — Avatars Row */}
+      <section className="max-w-[1440px] mx-auto px-4 py-8 mb-8">
+        <div className="bg-sc-bg-secondary rounded-lg p-6 border border-sc-border">
+          <h3 className="text-sm font-semibold text-sc-text-primary mb-4">🎧 Recently played by</h3>
+          <div className="flex flex-wrap items-center gap-3">
+            {["sarahm","tommyb","mia_k","lucasc","rubyj","oscarp","avaw","noahg","ellaf","liamc","sophiad","jamesk","islam","chrish","zaran"].map((user, i) => (
+              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Sarah","Tommy","Mia","Lucas","Ruby","Oscar","Ava","Noah","Ella","Liam","Sophia","James","Isla","Chris","Zara"][i]} />
+            ))}
+            <span className="text-xs text-sc-text-secondary ml-2">+ 1,247 others</span>
+          </div>
+        </div>
+      </section>
+
       {/* Community Section — Social Proof with User Avatars */}
       <section className="max-w-[1440px] mx-auto px-4 py-12 mb-8">
         <h3 className="text-xl font-bold text-sc-text-primary mb-6">
