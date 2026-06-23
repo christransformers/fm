@@ -1,0 +1,4 @@
+:HL["/fm/_next/static/chunks/14gd75c7yizy5.css","style"]
+:HL["/fm/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/artists/domdolla.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artist","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"domdolla","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WB2Zk_b8lalCgsUtZD6s7"}
