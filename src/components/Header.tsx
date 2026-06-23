@@ -16,14 +16,14 @@ export function Header() {
         {/* Logo — small default, big on hover */}
         <Link
           href="/"
-          className="flex-shrink-0"
+          className="flex-shrink-0 group"
           onMouseEnter={() => setLogoSrc(LOGO_BIG)}
           onMouseLeave={() => setLogoSrc(LOGO_SMALL)}
         >
           <img
             src={logoSrc}
             alt="FUSEMUSIC"
-            className="h-[28px] w-auto transition-all duration-200"
+            className="h-[28px] w-auto transition-all duration-200 group-hover:h-[36px]"
           />
         </Link>
 
@@ -32,8 +32,14 @@ export function Header() {
           <Link href="/" className="px-3 py-1.5 text-sm font-medium text-sc-text-primary hover:text-sc-text-primary rounded hover:bg-sc-bg-hover transition-colors">
             Home
           </Link>
+          <Link href="/charts" className="px-3 py-1.5 text-sm font-medium text-sc-text-secondary hover:text-sc-text-primary rounded hover:bg-sc-bg-hover transition-colors">
+            Charts
+          </Link>
           <Link href="/feed" className="px-3 py-1.5 text-sm font-medium text-sc-text-secondary hover:text-sc-text-primary rounded hover:bg-sc-bg-hover transition-colors">
             Feed
+          </Link>
+          <Link href="/artists" className="px-3 py-1.5 text-sm font-medium text-sc-text-secondary hover:text-sc-text-primary rounded hover:bg-sc-bg-hover transition-colors">
+            Artists
           </Link>
           <Link href="/library" className="px-3 py-1.5 text-sm font-medium text-sc-text-secondary hover:text-sc-text-primary rounded hover:bg-sc-bg-hover transition-colors">
             Library
