@@ -49,7 +49,7 @@ const artists = {
     scUrl: "https://soundcloud.com/thekidlaroi",
     
     tracks: [
-      { title: "HIGHEST IN THE ROOM", scUrl: "https://soundcloud.com/thekidlaroi" },
+      { title: "HIGHEST IN THE ROOM", scUrl: "https://soundcloud.com/thekidlaroi/highest-in-the-room" },
     ],
   },
   fisher: {

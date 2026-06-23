@@ -3,4 +3,4 @@
 :HL["/fm/images/sc-assets/artworks/album-01.svg","image"]
 :HL["/fm/images/sc-assets/artworks/album-02.svg","image"]
 :HL["/fm/images/sc-assets/artworks/album-03.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"charts","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KJt0KQXHFXBp7gUSYYmPI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"charts","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"qbhvV0Tgz5DrYg1eLn4hj"}
