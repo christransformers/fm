@@ -38,7 +38,7 @@ export default function ChartsPage() {
           {chartData.slice(0, 3).map((track) => (
             <div key={track.rank} className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
               <div className="p-4 flex items-center gap-3">
-                <img src={`/fm/images/sc-assets/artworks/album-0${track.rank}.svg`} alt="" className="w-[60px] h-[60px] rounded object-cover flex-shrink-0" />
+                <img src={`/images/sc-assets/artworks/album-0${track.rank}.svg`} alt="" className="w-[60px] h-[60px] rounded object-cover flex-shrink-0" />
                 <div className="min-w-0 flex-1">
                   <span className="text-lg font-extrabold text-sc-text-tertiary">#{track.rank}</span>
                   <p className="text-sm font-semibold text-sc-text-primary truncate">{track.title}</p>
@@ -94,7 +94,7 @@ export default function ChartsPage() {
               scrolling="no"
               frameBorder="no"
               allow="autoplay"
-              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fskin&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+              src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fsets%2F skin&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
               className="w-full"
             />
           </div>

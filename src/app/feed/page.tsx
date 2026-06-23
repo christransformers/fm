@@ -32,7 +32,7 @@ export default function FeedPage() {
               { user: "oliviab", name: "Olivia B.", action: "listened to", track: "Losing It", artist: "Fisher" },
             ].map((act) => (
               <div key={act.user} className="flex items-center gap-3">
-                <img src={`/fm/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />
+                <img src={`/images/sc-assets/users/${act.user}.svg`} alt="" className="w-[32px] h-[32px] rounded-full" />
                 <p className="text-xs text-sc-text-secondary">
                   <span className="font-medium text-sc-text-primary">{act.name}</span> {act.action}{" "}
                   <span className="font-medium text-sc-text-primary">{act.track}</span>

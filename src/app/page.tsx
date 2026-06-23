@@ -158,7 +158,7 @@ export default function Home() {
             scrolling="no"
             frameBorder="no"
             allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fnever-be-like-you&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=true&buying=false&sharing=false"
+            src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fflume%2Fnever-be-like-you&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=true&amp;buying=false&amp;sharing=false"
             className="w-full"
           />
         </div>
@@ -220,57 +220,13 @@ export default function Home() {
           <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
             <div className="relative pt-[56.25%]">
               <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/Tx9zMFodNtA"
+                src="https://www.youtube.com/embed/w7WisxVxQJ4"
                 title="RÜFÜS DU SOL - Innerbloom"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               />
             </div>
             <p className="text-xs text-sc-text-secondary p-3 text-center">RÜFÜS DU SOL — Innerbloom (Official Video)</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/2SUwOgmvzK4"
-                title="Tame Impala - The Less I Know The Better"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Tame Impala — The Less I Know The Better</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/wE8Az1EV6UQ"
-                title="Fisher - Losing It"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Fisher — Losing It (Official Video)</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/kTJczUoc26U"
-                title="The Kid LAROI - STAY"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">The Kid LAROI — STAY (Official Video)</p>
-          </div>
-          <div className="bg-sc-bg-secondary rounded-lg overflow-hidden border border-sc-border">
-            <div className="relative pt-[56.25%]">
-              <iframe className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/H2lvgKDpiSA"
-                title="Sampa The Great - Final Form"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
-            </div>
-            <p className="text-xs text-sc-text-secondary p-3 text-center">Sampa the Great — Final Form (Official Video)</p>
           </div>
         </div>
       </section>
@@ -281,7 +237,7 @@ export default function Home() {
           <h3 className="text-sm font-semibold text-sc-text-primary mb-4">🎧 Recently played by</h3>
           <div className="flex flex-wrap items-center gap-3">
             {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd","avam","williamb","isabellac","ethanw","sophiah","lucasy","harperg"].map((user, i) => (
-              <img key={user} src={`/fm/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D.","Ava M.","Will B.","Isabella C.","Ethan W.","Sophia H.","Lucas Y.","Harper G."][i]} />
+              <img key={user} src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[44px] h-[44px] rounded-full border-2 border-sc-bg-primary hover:border-sc-accent transition-colors cursor-pointer" title={["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D.","Ava M.","Will B.","Isabella C.","Ethan W.","Sophia H.","Lucas Y.","Harper G."][i]} />
             ))}
             <span className="text-xs text-sc-text-secondary ml-2">+ 1,247 others</span>
           </div>
@@ -301,7 +257,7 @@ export default function Home() {
           ].map((comment) => (
             <div key={comment.user} className="bg-sc-bg-secondary rounded-lg p-4 border border-sc-border">
               <div className="flex items-center gap-3 mb-3">
-                <img src={`/fm/images/sc-assets/users/${comment.user}.svg`} alt={comment.name} className="w-[40px] h-[40px] rounded-full" />
+                <img src={`/images/sc-assets/users/${comment.user}.svg`} alt={comment.name} className="w-[40px] h-[40px] rounded-full" />
                 <div>
                   <p className="text-sm font-semibold text-sc-text-primary">{comment.name}</p>
                   <p className="text-[10px] text-sc-text-tertiary">{comment.track}</p>

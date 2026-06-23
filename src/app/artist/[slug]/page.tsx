@@ -49,7 +49,7 @@ const artists = {
     scUrl: "https://soundcloud.com/thekidlaroi",
     
     tracks: [
-      { title: "HIGHEST IN THE ROOM", scUrl: "https://soundcloud.com/thekidlaroi/highest-in-the-room" },
+      { title: "HIGHEST IN THE ROOM", scUrl: "https://soundcloud.com/thekidlaroi" },
     ],
   },
   fisher: {
@@ -72,74 +72,6 @@ const artists = {
     
     tracks: [
       { title: "Be Right There", scUrl: "https://soundcloud.com/domdolla/be-right-there" },
-    ],
-  },
-  sampathegreat: {
-    name: "Sampa the Great",
-    genre: "Hip-Hop / Soul",
-    city: "Melbourne",
-    bio: "Zambia-born, Botswana-raised, Melbourne-based artist blending hip-hop, soul, and spoken word into powerful, award-winning music.",
-    scUrl: "https://soundcloud.com/sampathegreat",
-    
-    tracks: [
-      { title: "Final Form", scUrl: "https://soundcloud.com/sampathegreat/final-form" },
-      { title: "Energy", scUrl: "https://soundcloud.com/sampathegreat/energy" },
-    ],
-  },
-  mallrat: {
-    name: "Mallrat",
-    genre: "Indie Pop",
-    city: "Brisbane",
-    bio: "Brisbane indie-pop artist Grace Shaw, aka Mallrat, blends shimmering pop with heartfelt lyrics. One of Australia's brightest young talents.",
-    scUrl: "https://soundcloud.com/mallrat",
-    
-    tracks: [
-      { title: "Ghost", scUrl: "https://soundcloud.com/mallrat/ghost" },
-      { title: "Charlie", scUrl: "https://soundcloud.com/mallrat/charlie" },
-    ],
-  },
-  goldenfeatures: {
-    name: "Golden Features",
-    genre: "Electronic",
-    city: "Sydney",
-    bio: "Mysterious Sydney producer known for dark, driving electronic music that fuses house, techno, and indie influences.",
-    scUrl: "https://soundcloud.com/goldenfeatures",
-    
-    tracks: [
-      { title: "Falling Out", scUrl: "https://soundcloud.com/goldenfeatures/falling-out" },
-    ],
-  },
-  haydenjames: {
-    name: "Hayden James",
-    genre: "Electronic / Pop",
-    city: "Sydney",
-    bio: "Electronic producer crafting dreamy pop-house fusions. Known for his smooth vocals and uplifting productions.",
-    scUrl: "https://soundcloud.com/haydenjames",
-    
-    tracks: [
-      { title: "Something About You", scUrl: "https://soundcloud.com/haydenjames/something-about-you" },
-    ],
-  },
-  whatsonot: {
-    name: "What So Not",
-    genre: "Electronic / Trap",
-    city: "Sydney",
-    bio: "Chris Emerson's solo project that evolved from a duo with Flume into one of Australia's most innovative electronic acts.",
-    scUrl: "https://soundcloud.com/whatsonot",
-    
-    tracks: [
-      { title: "High You Are", scUrl: "https://soundcloud.com/whatsonot/high-you-are" },
-    ],
-  },
-  tkaymaidza: {
-    name: "Tkay Maidza",
-    genre: "Hip-Hop / Pop",
-    city: "Adelaide",
-    bio: "Zimbabwe-born, Adelaide-raised artist blending hip-hop, pop, and electronic into a fierce, unstoppable sound.",
-    scUrl: "https://soundcloud.com/tkaymaidza",
-    
-    tracks: [
-      { title: "Shook", scUrl: "https://soundcloud.com/tkaymaidza/shook" },
     ],
   },
 };
@@ -170,7 +102,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
         <div className="flex flex-col md:flex-row gap-8 mb-12">
           <div className="flex-shrink-0">
             <img
-              src={`/fm/images/sc-assets/profiles/${slug}.svg`}
+              src={`/images/sc-assets/profiles/${slug}.svg`}
               alt={artist.name}
               className="w-[200px] h-[200px] rounded-lg object-cover shadow-lg"
             />
@@ -220,7 +152,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ slug: s
           <div className="flex flex-wrap gap-4">
             {["emmaw","jackt","oliviab","noahw","charlottes","liamj","miat","oliverd"].map((user, i) => (
               <div key={user} className="flex items-center gap-2">
-                <img src={`/fm/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
+                <img src={`/images/sc-assets/users/${user}.svg`} alt="" className="w-[36px] h-[36px] rounded-full" />
                 <div>
                   <p className="text-xs font-medium text-sc-text-primary">{["Emma W.","Jack T.","Olivia B.","Noah W.","Charlotte S.","Liam J.","Mia T.","Oliver D."][i]}</p>
                   <p className="text-[10px] text-sc-text-tertiary">Top fan</p>

@@ -58,7 +58,7 @@ export default function ArtistsPage() {
             >
               <div className="relative aspect-square overflow-hidden bg-sc-bg-tertiary">
                 <img
-                  src={`/fm/images/artists/${artist.slug}.svg`}
+                  src={`/images/artists/${artist.slug}.svg`}
                   alt={artist.name}
                   className="absolute inset-0 w-full h-full object-cover"
                   loading="lazy"
