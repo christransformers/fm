@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
-  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" style="stop-color:#00CC66;stop-opacity:0.15"/><stop offset="100%" style="stop-color:#121212;stop-opacity:0"/>
-  </linearGradient></defs>
-  <rect width="800" height="400" fill="#121212"/>
-  <rect width="800" height="400" fill="url(#g)"/>
-  <circle cx="369" cy="224" r="44" fill="white" opacity="0.02"/><circle cx="135" cy="81" r="40" fill="white" opacity="0.02"/><circle cx="649" cy="183" r="20" fill="white" opacity="0.02"/><circle cx="298" cy="306" r="53" fill="white" opacity="0.02"/><circle cx="408" cy="213" r="20" fill="white" opacity="0.02"/><circle cx="603" cy="195" r="34" fill="white" opacity="0.02"/><circle cx="516" cy="209" r="22" fill="white" opacity="0.02"/><circle cx="554" cy="302" r="54" fill="white" opacity="0.02"/><circle cx="245" cy="179" r="38" fill="white" opacity="0.02"/><circle cx="519" cy="114" r="33" fill="white" opacity="0.02"/><circle cx="71" cy="108" r="26" fill="white" opacity="0.02"/><circle cx="741" cy="130" r="39" fill="white" opacity="0.02"/><circle cx="558" cy="183" r="55" fill="white" opacity="0.02"/><circle cx="518" cy="278" r="57" fill="white" opacity="0.02"/><circle cx="453" cy="126" r="60" fill="white" opacity="0.02"/>
-</svg>
