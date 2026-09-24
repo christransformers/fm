@@ -6,23 +6,25 @@
 <meta name="description" content="Fuse Music. An independent listening room for instrumental sounds made to move with you. Listen, collect and make your own sets.">
 <link rel="canonical" href="https://www.fusemusic.com.au/"><link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml">
 <meta property="og:title" content="Fuse Music — Sound for the way through"><meta property="og:description" content="A listening room with a pulse. Original instrumentals, your own sets, no noise."><meta property="og:type" content="website"><meta property="og:url" content="https://www.fusemusic.com.au/">
-<link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="community.css"><script src="app.js" defer></script><script src="community.js" defer></script>
 </head>
 <body>
-<a class="skip" href="#main">Skip to music</a>
+<a class="skip" href="#main">Skip to content</a>
 <div class="app">
 <aside class="sidebar" aria-label="Main navigation">
 <a class="brand" href="#home" aria-label="Fuse Music home"><img src="assets/brand/fuse-logo.svg" alt="Fuse Music"></a>
 <div class="brand-rule"></div>
-<p class="side-label">THE LISTENING ROOM <span>01 / 04</span></p>
-<nav aria-label="Sections"><a data-view="home" href="#home"><span>01</span> Listen <b>↗</b></a><a data-view="search" href="#search"><span>02</span> Find a sound <b>↗</b></a><a data-view="library" href="#library"><span>03</span> Your collection <b>↗</b></a><a data-view="queue" href="#queue"><span>04</span> Up next <b>↗</b></a></nav>
+<p class="side-label">THE LISTENING ROOM <span>01 / 06</span></p>
+<nav aria-label="Sections"><a data-view="home" href="#home"><span>01</span> Listen <b>↗</b></a><a data-view="search" href="#search"><span>02</span> Find a sound <b>↗</b></a><a data-view="library" href="#library"><span>03</span> Your collection <b>↗</b></a><a data-view="queue" href="#queue"><span>04</span> Up next <b>↗</b></a><a data-view="artists" href="#artists"><span>05</span> Artists <b>↗</b></a><a data-view="profile" href="#signup" id="communityAccount"><span>06</span> Join / sign in <b>↗</b></a></nav>
 <div class="sidebar-bottom"><p>INDEPENDENT SOUND.<br>SYDNEY, AUSTRALIA.</p><button id="themeToggle" class="text-button" title="Switch colour theme">Light</button><a href="#about" class="side-about">About & contact ↗</a></div>
 </aside>
 <div class="main-wrap">
 <header class="topbar"><div class="status"><span class="pulse"></span> FUSE RADIO / ORIGINAL RECORDINGS</div><div class="top-actions"><button id="shortcutHelp" class="top-link" title="Keyboard shortcuts">SHORTCUTS <kbd>?</kbd></button><a href="#about" class="top-link">SYDNEY / 33.88° S</a></div></header>
 <main id="main">
+<section data-panel="community" class="view community" aria-label="Fuse community"><div id="communityRoot"></div></section>
 <section data-panel="home" class="view active" aria-labelledby="homeTitle">
 <div class="hero"><div class="hero-copy"><p class="eyebrow">A BETTER KIND OF BACKGROUND NOISE <span>— 2026 / VOL. 01</span></p><h1 id="homeTitle">Stay for<br><em>the feeling.</em></h1><p class="hero-intro">Sounds for crossing town, staying late, starting over. Twelve original instrumental cuts from the Fuse listening room. Find your frequency.</p><div class="hero-actions"><button id="playFeatured" class="button-primary">PLAY THE ROOM <span>↗</span></button><button id="shuffleFeatured" class="button-outline">SURPRISE ME <span>⤨</span></button></div></div><div class="hero-art" aria-hidden="true"><div class="disc"><div class="disc-inner"><span>F<br>U<br>S<br>E</span><i></i></div></div><span class="art-number">FM — 001</span><span class="art-caption">SOUND FOR THE WAY THROUGH</span></div></div>
+<section class="community community-teaser" aria-labelledby="communityTeaserTitle"><div class="teaser-heading"><div><p class="eyebrow">INDEPENDENT VOICES / COMMUNITY PREVIEW</p><h2 id="communityTeaserTitle">Meet your next<br><em>favourite.</em></h2></div><a class="button-outline" href="#artists">BROWSE ALL 50 RELEASES ↗</a></div><p class="teaser-disclosure">Fictional release concepts from the uploaded archive · Static cover artwork · Browser-only follows and comments.</p><div id="homeArtistGrid" class="artist-grid"></div><a class="teaser-join" href="#signup">Make yourself at home. Create a listener preview ↗</a></section>
 <div class="section-title"><div><p class="eyebrow">THE RECORD SHELF / 01</p><h2>Fresh out<br>of the room<span>.</span></h2></div><div class="section-aside">NO SKIPS. NO FILLER.<br>JUST THE GOOD STUFF. <span>↓</span></div></div>
 <div id="trackGrid" class="track-grid"></div>
 <div class="closing-line">TAKE THE LONG WAY HOME. <span>↗</span></div>
