@@ -35,3 +35,15 @@
 .player-eq.paused span{animation-play-state:paused;height:30%!important}
 @keyframes eqBounce{0%,100%{height:25%}50%{height:100%}}
 @media(max-width:760px){.about-gallery{grid-template-columns:1fr;gap:16px}.about-gallery img{height:220px}.shelf-filters{padding:0 5vw 20px}.hero-now-badge{bottom:14px;left:14px;font-size:9px}}
+/* Progressive player, collection and routing enhancements. */
+.top-link.active,.side-about.active{color:var(--gold)}
+.library-tools{display:flex;flex-wrap:wrap;gap:9px;padding:28px 4vw 8px}.library-tools .button-primary,.library-tools .button-outline{min-height:42px}.import-label{cursor:pointer}.library-tools input[type=file]{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+.artist-result .result-link{color:var(--gold);font-size:10px;font-weight:800;letter-spacing:.08em;white-space:nowrap}.artist-search-results{padding-bottom:70px}
+.reset-tools{display:flex;gap:25px;flex-wrap:wrap;margin:0 4vw 50px}.reset-tools .reset-button{margin:0}
+.mute-button{border:0;background:none;color:var(--gold);font-size:10px;font-weight:800;letter-spacing:.1em;padding:8px 2px;min-width:42px}
+.global-notice{position:fixed;right:20px;bottom:calc(var(--player) + 18px);z-index:40;max-width:min(390px,calc(100vw - 40px));padding:13px 16px;background:var(--gold);color:var(--ink);font-size:12px;font-weight:800;transform:translateY(16px);opacity:0;pointer-events:none;transition:.2s}.global-notice.show{transform:none;opacity:1}
+#addToSetDialog label{display:block;margin:18px 0 8px;color:var(--gold);font-size:10px;font-weight:800;letter-spacing:.1em}#addToSetDialog select{width:100%;padding:12px;background:var(--bg);color:var(--text);border:1px solid var(--line)}.dialog-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:22px}
+.playlist-head>div{flex-wrap:wrap;justify-content:flex-end}
+@media(max-width:1100px){.top-actions .mobile-about{display:inline}}
+@media(max-width:760px){.sidebar nav{display:flex;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none}.sidebar nav::-webkit-scrollbar{display:none}.sidebar nav a{flex:0 0 82px;white-space:nowrap!important}.library-tools{padding-left:5vw;padding-right:5vw}.player-extra>button{display:inline-flex}.global-notice{bottom:calc(var(--player) + 68px)}.playlist-head>div{justify-content:flex-start}.item-actions{min-width:64px}}
+@media(max-width:460px){.card .row{flex-wrap:wrap}.card .row .primary{flex-basis:55%}.card .row button{flex:1}.artist-result{align-items:flex-start;flex-wrap:wrap}.artist-result .result-link{margin-left:68px}}
