@@ -2,7 +2,7 @@
   {
     "id": "set1-01-velvet-frequency",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Velvet Frequency \u2014 Sunfrost",
+    "title": "Velvet Frequency — Sunfrost",
     "artist": "Velvet Frequency",
     "album": "Nocturnal Signals",
     "year": "2013",
@@ -18,7 +18,7 @@
   {
     "id": "set1-02-pale-horizon",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Pale Horizon \u2014 I\u2019m Gonna Bring It",
+    "title": "Pale Horizon — I’m Gonna Bring It",
     "artist": "Pale Horizon",
     "album": "Chrome Stream",
     "year": "2015",
@@ -34,7 +34,7 @@
   {
     "id": "set1-03-the-broken-glass-union",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Broken Glass Union \u2014 Covert Operation",
+    "title": "The Broken Glass Union — Covert Operation",
     "artist": "The Broken Glass Union",
     "album": "The Law of by Lauruh",
     "year": "2018",
@@ -42,7 +42,7 @@
     "subgenre": "UK Post-Punk / Anti-Austerity",
     "bpm": 100,
     "mood": "Suspenseful, Scary",
-    "description": "A harsh, direct-flash black-and-white photograph of a chaotic, grinning brawl at an English working-class wedding \u2014 torn rental suits, flying lager pints, and bloody noses mid-laughter \u2014 framed by a clean white border with bold hand-stamped crimson stencil letters.",
+    "description": "A harsh, direct-flash black-and-white photograph of a chaotic, grinning brawl at an English working-class wedding — torn rental suits, flying lager pints, and bloody noses mid-laughter — framed by a clean white border with bold hand-stamped crimson stencil letters.",
     "duration": "2:04",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40540/205711-cody-martin-covert-operation-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Covert_Operation_instrumental_2_04.mp3&token=1790806291_4e86e565d96fb5a69a01088e40e9aad2b56e338eca9ed0d12c3a600f8bfcaca8",
     "cover": "assets/covers/03_The_Broken_Glass_Union.jpg"
@@ -50,7 +50,7 @@
   {
     "id": "set1-04-astral-circuit",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Astral Circuit \u2014 Done Deal",
+    "title": "Astral Circuit — Done Deal",
     "artist": "Astral Circuit",
     "album": "Mystic Cortex: Cosmic Frequencies",
     "year": "2016",
@@ -66,7 +66,7 @@
   {
     "id": "set1-05-blackout-canyon",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Blackout Canyon \u2014 Damage Control",
+    "title": "Blackout Canyon — Damage Control",
     "artist": "Blackout Canyon",
     "album": "Desert Drifters: Nightmare Embrace",
     "year": "2013",
@@ -82,7 +82,7 @@
   {
     "id": "set1-06-modern-static",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Modern Static \u2014 Like This",
+    "title": "Modern Static — Like This",
     "artist": "Modern Static",
     "album": "The Sensory Room: Glow",
     "year": "2016",
@@ -98,7 +98,7 @@
   {
     "id": "set1-07-celeste-monet",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Celeste Monet \u2014 Maple Leaf Rag",
+    "title": "Celeste Monet — Maple Leaf Rag",
     "artist": "Celeste Monet",
     "album": "Violet Velvet: Strwbry Dreams",
     "year": "2010",
@@ -114,7 +114,7 @@
   {
     "id": "set1-08-echo-avenue",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Echo Avenue \u2014 Blue Window",
+    "title": "Echo Avenue — Blue Window",
     "artist": "Echo Avenue",
     "album": "The Eastern Youth: Midnight Drift",
     "year": "2012",
@@ -130,7 +130,7 @@
   {
     "id": "set1-09-neon-babylon",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Neon Babylon \u2014 Run It Back",
+    "title": "Neon Babylon — Run It Back",
     "artist": "Neon Babylon",
     "album": "Chromed Void",
     "year": "2011",
@@ -146,7 +146,7 @@
   {
     "id": "set1-10-astrid-frost",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Astrid Frost \u2014 Unreal Engine",
+    "title": "Astrid Frost — Unreal Engine",
     "artist": "Astrid Frost",
     "album": "Electropop",
     "year": "2010",
@@ -162,7 +162,7 @@
   {
     "id": "set1-11-suburbia-district",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Suburbia District \u2014 Every Single One",
+    "title": "Suburbia District — Every Single One",
     "artist": "Suburbia District",
     "album": "The Bay Collective: Pacific High",
     "year": "2017",
@@ -178,7 +178,7 @@
   {
     "id": "set1-12-zone-six-syndicate",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Zone Six Syndicate \u2014 Beautiful Things",
+    "title": "Zone Six Syndicate — Beautiful Things",
     "artist": "Zone Six Syndicate",
     "album": "Blood & Diamonds: The Masked Gang",
     "year": "2017",
@@ -194,7 +194,7 @@
   {
     "id": "set1-13-saint-phantom",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Saint Phantom \u2014 Fearless",
+    "title": "Saint Phantom — Fearless",
     "artist": "Saint Phantom",
     "album": "Zone 6 Nightcap",
     "year": "2015",
@@ -210,7 +210,7 @@
   {
     "id": "set1-14-malachi-crown",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Malachi Crown \u2014 Railways",
+    "title": "Malachi Crown — Railways",
     "artist": "Malachi Crown",
     "album": "We The People's Court",
     "year": "2015",
@@ -221,12 +221,12 @@
     "description": "A gritty, high-contrast monochrome photograph of the rapper surrounded by neighborhood friends and shirtless kids on a sunlit city hall lawn, flashing handfuls of currency in celebration over a fallen gavel, with a single handwritten lyric scrawled across the bottom border in white chalk.",
     "duration": "3:19",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40501/205158-lone-canyon-railways-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Lone_Canyon_Railways_instrumental_3_19.mp3&token=1790795396_06d9fea45fad6e6ba50afe49dd082ea3f1fcb82a0eaa66603c50be99624341b2",
-    "cover": "assets/covers/set1-14-malachi-crown.svg"
+    "cover": "assets/covers/14_Malachi_Crown.jpg"
   },
   {
     "id": "set1-15-clementine-peach",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Clementine Peach \u2014 Abundance",
+    "title": "Clementine Peach — Abundance",
     "artist": "Clementine Peach",
     "album": "Lavender Mansion",
     "year": "2019",
@@ -237,12 +237,12 @@
     "description": "A pastel, Wes Anderson-inspired symmetrical shot of the artist in an oversized pistachio-green suit and platinum bob wig, standing beside a pink vintage bicycle outside a brutalist pastel mansion, with a hand-painted faux-vintage title card centered below.",
     "duration": "2:37",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40366/139866-lone-canyon-abundance-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Lone_Canyon_Abundance_instrumental_2_37.mp3&token=1790792658_0c43f0e3c978fdc54b6c837a353ddd3b0d07fa189b4be205b04725d81a9e4e1f",
-    "cover": "assets/covers/set1-15-clementine-peach.svg"
+    "cover": "assets/covers/15_Clementine_Peach.jpg"
   },
   {
     "id": "set1-16-the-velvet-harmonettes",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Velvet Harmonettes \u2014 Start Over Again",
+    "title": "The Velvet Harmonettes — Start Over Again",
     "artist": "The Velvet Harmonettes",
     "album": "Reflections in Chrome",
     "year": "2016",
@@ -253,12 +253,12 @@
     "description": "A glamorous golden-hour fashion spread of five young women posing statuesque in shimmering bronze and chrome bodysuits along an empty desert highway at dusk, their hair windswept against a turquoise sky.",
     "duration": "3:28",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40430/203965-amherst-start-over-again-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Amherst_Start_Over_Again_lead_vocal_3_28.mp3&token=1790728168_3fa5923d4b2cac5b1e702bc7aa6916fad30012860e79d2c2599243b98cc5ec29",
-    "cover": "assets/covers/set1-16-the-velvet-harmonettes.svg"
+    "cover": "assets/covers/16_The_Velvet_Harmonettes.jpg"
   },
   {
     "id": "set1-17-julian-grey",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Julian Grey \u2014 Dizzy Dissolve",
+    "title": "Julian Grey — Dizzy Dissolve",
     "artist": "Julian Grey",
     "album": "Submerged Light",
     "year": "2016",
@@ -269,12 +269,12 @@
     "description": "An intimate, high-contrast 35mm film still of the singer with a neon-lime cropped buzzcut, leaning over a tiled white shower stall with a hand over his face and a white band-aid on his knuckle, framed by an off-white border with lowercase Futura font.",
     "duration": "1:51",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40346/139742-neon-beach-dizzy-dissolve-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neon_Beach_Dizzy_Dissolve_background_vocals_1_51.mp3&token=1790728165_6bcc3e763d6054bdf31cf3ef08e8158e203f8056b37a279528692eafcc49839b",
-    "cover": "assets/covers/set1-17-julian-grey.svg"
+    "cover": "assets/covers/17_Julian_Grey.jpg"
   },
   {
     "id": "set1-18-queen-solitaire",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Queen Solitaire \u2014 Bandit",
+    "title": "Queen Solitaire — Bandit",
     "artist": "Queen Solitaire",
     "album": "Bayou Majesty",
     "year": "2016",
@@ -285,12 +285,12 @@
     "description": "A cinematic, Southern Gothic tableau of the singer resting her head against the hood of a vintage muscle car in a fur coat, thick blonde braids covering her lowered eyes, set against the humid golden light of a rural bayou.",
     "duration": "2:23",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40473/204721-neon-beach-bandit-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neon_Beach_Bandit_background_vocals_2_23.mp3&token=1790791549_e85be23d0ad6f450be16a872784cffdd4bcbeebd43c49d3b1b108cca04f204d1",
-    "cover": "assets/covers/set1-18-queen-solitaire.svg"
+    "cover": "assets/covers/18_Queen_Solitaire.jpg"
   },
   {
     "id": "set1-19-maya-vance",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Maya Vance \u2014 Curious Orb",
+    "title": "Maya Vance — Curious Orb",
     "artist": "Maya Vance",
     "album": "Ctrl Alt Dream",
     "year": "2017",
@@ -301,12 +301,12 @@
     "description": "An airy, natural-light portrait of the singer sitting cross-legged in an overgrown vacant lot in an oversized thrifted button-down, backed by a monumental wall of discarded CRT computer monitors tangled in ivy.",
     "duration": "3:26",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40356/139810-falls-curious-orb-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Falls_Curious_Orb_background_vocals_3_26.mp3&token=1790784389_5f1373ae63d5a5c90e35899d0f513b7334b04e4b310f0651f5b2c704473ffc5c",
-    "cover": "assets/covers/set1-19-maya-vance.svg"
+    "cover": "assets/covers/19_Maya_Vance.jpg"
   },
   {
     "id": "set1-20-sterling-fox",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Sterling Fox \u2014 Crescent",
+    "title": "Sterling Fox — Crescent",
     "artist": "Sterling Fox",
     "album": "24 Karat Velvet",
     "year": "2016",
@@ -317,12 +317,12 @@
     "description": "A vibrant, retro-futuristic funk portrait of a musician in an opulent silk track jacket, layered gold rope chains, and tinted aviators, winking under warm amber strobe lights while holding a gold-plated rotary telephone.",
     "duration": "3:07",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40344/139731-nu-alkemi-t-crescent-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Nu_Alkemi_t_Crescent_background_vocals_3_07.mp3&token=1790798633_bccfbf20e2be0ed1e014ace3a458ec27bac2f651c8cd0cd6c5d66a0bf49148b5",
-    "cover": "assets/covers/set1-20-sterling-fox.svg"
+    "cover": "assets/covers/20_Sterling_Fox.jpg"
   },
   {
     "id": "set1-21-the-binary-automata",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Binary Automata \u2014 The Shape Of A Dream",
+    "title": "The Binary Automata — The Shape Of A Dream",
     "artist": "The Binary Automata",
     "album": "Infinite Memory",
     "year": "2013",
@@ -330,15 +330,15 @@
     "subgenre": "French Electro / Nu-Disco",
     "bpm": 116,
     "mood": "Hopeful",
-    "description": "A pristine, mirror-polished portrait of two humanoid android helmets merged in profile \u2014 one anodized gold, the other liquid chrome \u2014 wearing tailored Saint Laurent sequined tuxedo collars against an infinite starfield.",
+    "description": "A pristine, mirror-polished portrait of two humanoid android helmets merged in profile — one anodized gold, the other liquid chrome — wearing tailored Saint Laurent sequined tuxedo collars against an infinite starfield.",
     "duration": "3:01",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40468/204597-shimmer-the-shape-of-a-dream-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Shimmer_The_Shape_Of_A_Dream_instrumental_3_01.mp3&token=1790728170_581d8b70bb96fe689b4ba2fff3ce8170ccc561ba70264adc7f299ea8ed95ad57",
-    "cover": "assets/covers/set1-21-the-binary-automata.svg"
+    "cover": "assets/covers/21_The_Binary_Automata.jpg"
   },
   {
     "id": "set1-22-glitch-cherub",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Glitch Cherub \u2014 Take Our Time",
+    "title": "Glitch Cherub — Take Our Time",
     "artist": "Glitch Cherub",
     "album": "Pearlescent Skin",
     "year": "2018",
@@ -349,12 +349,12 @@
     "description": "A surreal, glossy digital render of an ethereal figure floating submerged in a pool of clear gel under a lavender twilight sky, surrounded by melting chrome spheres and liquid latex ribbons.",
     "duration": "2:29",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40512/205230-sci-fy-take-our-time-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_SCi-FY_Take_Our_Time_lead_vocal_2_29.mp3&token=1790792110_857fd2bb1cb2833412585fb534663e4c296686710b9368904ba53f0e76cdfee0",
-    "cover": "assets/covers/set1-22-glitch-cherub.svg"
+    "cover": "assets/covers/22_Glitch_Cherub.jpg"
   },
   {
     "id": "set1-23-voltage-overload",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Voltage Overload \u2014 A Case Of The Boos",
+    "title": "Voltage Overload — A Case Of The Boos",
     "artist": "Voltage Overload",
     "album": "Sonic Shockwave",
     "year": "2011",
@@ -365,12 +365,12 @@
     "description": "A high-contrast, side-lit portrait of a DJ mid-headbang with an asymmetrical shaved undercut and thick horn-rimmed glasses, silhouetted against an explosive lime-green audio waveform graphic with a cracked record-label stamp.",
     "duration": "2:53",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40582/206405-dresden-the-flamingo-a-case-of-the-boos-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Dresden_The_Flamingo_A_Case_Of_The_Boos_instrumental_2_53.mp3&token=1790774843_814df638d7b2ca21e872d4dc76c83d169be68eabcf4f14e7cec37e2f116e691c",
-    "cover": "assets/covers/set1-23-voltage-overload.svg"
+    "cover": "assets/covers/23_Voltage_Overload.jpg"
   },
   {
     "id": "set1-24-zero-horizon",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Zero Horizon \u2014 Captivated",
+    "title": "Zero Horizon — Captivated",
     "artist": "Zero Horizon",
     "album": "Cellular Crystals",
     "year": "2013",
@@ -381,12 +381,12 @@
     "description": "An austere, mesmerizing micro-photograph of chemical crystals blossoming into intricate spires of iridescent cyan, gold, and deep indigo under polarized laboratory light, set within a vast matte-white border.",
     "duration": "2:57",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40479/204761-reveille-captivated-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Captivated_instrumental_2_57.mp3&token=1790803600_49b7a231dc71e8672071fe6d8b2daa9844bce95127e2ea4b218c2ffd0f7eb751",
-    "cover": "assets/covers/set1-24-zero-horizon.svg"
+    "cover": "assets/covers/24_Zero_Horizon.jpg"
   },
   {
     "id": "set1-25-solar-ignition",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Solar Ignition \u2014 Original (ft. Daisha McBride)",
+    "title": "Solar Ignition — Original (ft. Daisha McBride)",
     "artist": "Solar Ignition",
     "album": "Festival Anthem",
     "year": "2013",
@@ -397,12 +397,12 @@
     "description": "A warm, split-tone festival portrait of a smiling young Swedish producer in a backward trucker hat and over-ear headphones, double-exposed with the raw timber grain of an acoustic guitar and neon laser bursts.",
     "duration": "2:09",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40494/205032-kyle-jefferson-original-ft-daisha-mcbride-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Kyle_Jefferson_Original_ft_Daisha_McBride_lead_vocal_2_09.mp3&token=1790804499_89a9f52c2b54ceb78aaf4a67c058e17e8cd679975f44ac5ee881be08267cb2cd",
-    "cover": "assets/covers/set1-25-solar-ignition.svg"
+    "cover": "assets/covers/25_Solar_Ignition.jpg"
   },
   {
     "id": "set1-26-silas-boone",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Silas Boone \u2014 Extreme Dream",
+    "title": "Silas Boone — Extreme Dream",
     "artist": "Silas Boone",
     "album": "Highway Dust",
     "year": "2015",
@@ -413,12 +413,12 @@
     "description": "A rugged, sepia-tinted black-and-white portrait of a wild-bearded singer with an eagle feather tucked into his beat-up Stetson, leaning against the weathered bed of an old pickup truck on a foggy mountain highway.",
     "duration": "2:37",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40506/205190-reveille-extreme-dream-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Extreme_Dream_instrumental_2_37.mp3&token=1790757738_291ff9538b5e3695139ff9658b23fdef81d0147d27732c0df241292d796b008a",
-    "cover": "assets/covers/set1-26-silas-boone.svg"
+    "cover": "assets/covers/26_Silas_Boone.jpg"
   },
   {
     "id": "set1-27-clara-june",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Clara June \u2014 Velvet Empire",
+    "title": "Clara June — Velvet Empire",
     "artist": "Clara June",
     "album": "Summer 1989",
     "year": "2014",
@@ -429,12 +429,12 @@
     "description": "A nostalgic, slightly washed-out Polaroid print cropped just below the singer's eyes, showing a faded baby-blue sweatshirt printed with vintage bird silhouettes, with handwritten black Sharpie text across the white bottom margin.",
     "duration": "2:46",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40503/205170-moments-velvet-empire-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Moments_Velvet_Empire_background_vocals_2_46.mp3&token=1790814628_4a9b20c2d3dc0263c060ffddf8b89c4536388b87c62b8928da581e91042d3bbf",
-    "cover": "assets/covers/set1-27-clara-june.svg"
+    "cover": "assets/covers/27_Clara_June.jpg"
   },
   {
     "id": "set1-28-prairie-opal",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Prairie Opal \u2014 With You",
+    "title": "Prairie Opal — With You",
     "artist": "Prairie Opal",
     "album": "Golden Skylines",
     "year": "2018",
@@ -445,12 +445,12 @@
     "description": "A sun-drenched, saturated 35mm portrait of a singer against an electric-blue summer sky, holding an open rainbow paper fan covering her mouth, bathed in golden Texas dusk light with subtle prism flare.",
     "duration": "3:16",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40465/204570-sola-with-you-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_sola_With_You_lead_vocal_3_16.mp3&token=1790811842_498e38c4db2ad50bef4fe08fb349452b62e6a0d353e1590af22dad139fb8166c",
-    "cover": "assets/covers/set1-28-prairie-opal.svg"
+    "cover": "assets/covers/28_Prairie_Opal.jpg"
   },
   {
     "id": "set1-29-the-mojave-drifters",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Mojave Drifters \u2014 Takin The Cake (ft. Daisha McBride)",
+    "title": "The Mojave Drifters — Takin The Cake (ft. Daisha McBride)",
     "artist": "The Mojave Drifters",
     "album": "Neon Canteen",
     "year": "2017",
@@ -461,12 +461,12 @@
     "description": "A sun-faded 1970s-throwback photograph of three musicians in custom rhinestone-piped suits and feathered cowboy hats leaning against a dusty 1976 El Camino outside a West Texas dive bar.",
     "duration": "2:16",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40493/205020-kyle-jefferson-takin-the-cake-ft-daisha-mcbride-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Kyle_Jefferson_Takin_The_Cake_ft_Daisha_McBride_lead_vocal_2_16.mp3&token=1790788851_8db637568c92948f196e792a741000602db21ab30218bddc09f9cee74811f1f7",
-    "cover": "assets/covers/set1-29-the-mojave-drifters.svg"
+    "cover": "assets/covers/29_The_Mojave_Drifters.jpg"
   },
   {
     "id": "set1-30-caleb-vance---the-rust-belt",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Caleb Vance & The Rust Belt \u2014 Overcrank",
+    "title": "Caleb Vance & The Rust Belt — Overcrank",
     "artist": "Caleb Vance & The Rust Belt",
     "album": "Whiskey & Wire",
     "year": "2013",
@@ -477,12 +477,12 @@
     "description": "A somber, high-contrast monochrome portrait of the songwriter in a frayed denim jacket, clutching an acoustic guitar with heavy belt-buckle wear, standing beside an abandoned brick grain silo.",
     "duration": "1:36",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40348/139758-neurostrike-overcrank-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neurostrike_Overcrank_background_vocals_1_36.mp3&token=1790728165_74cd03eaddec4faa14f267758d20d0cc3200f1596617d87b53ef6dc8f511bf20",
-    "cover": "assets/covers/set1-30-caleb-vance---the-rust-belt.svg"
+    "cover": "assets/covers/30_Caleb_Vance_&_The_Rust_Belt.jpg"
   },
   {
     "id": "set1-31-sol-invictus",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Sol Invictus \u2014 Days Gone By",
+    "title": "Sol Invictus — Days Gone By",
     "artist": "Sol Invictus",
     "album": "Celestial Anthem",
     "year": "2015",
@@ -493,12 +493,12 @@
     "description": "A monumental wide shot of a towering saxophonist in an ornate African wax-print tunic holding his horn toward the sky, standing at the edge of a desert cliff under a cosmic swirl of violet galaxies.",
     "duration": "3:18",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40435/204031-amherst-days-gone-by-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Amherst_Days_Gone_By_lead_vocal_3_18.mp3&token=1790800040_67762656d1476a52ea1196adae5ae8309c560098683f6b7d67ec6b5ceca2d95f",
-    "cover": "assets/covers/set1-31-sol-invictus.svg"
+    "cover": "assets/covers/31_Sol_Invictus.jpg"
   },
   {
     "id": "set1-32-kojo-eclipse",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Kojo Eclipse \u2014 Welcome To The Good Life (ft. Daisha McBride)",
+    "title": "Kojo Eclipse — Welcome To The Good Life (ft. Daisha McBride)",
     "artist": "Kojo Eclipse",
     "album": "Afro-Futurism '17",
     "year": "2017",
@@ -509,12 +509,12 @@
     "description": "A sleek, Afrofuturist studio portrait of a trumpet virtuoso in an intricate hand-beaded ceremonial vest and heavy metallic collar, holding an upward-angled brass horn sliced by minimalist crimson laser beams.",
     "duration": "2:01",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40492/205008-kyle-jefferson-welcome-to-the-good-life-ft-daisha-mcbride-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Kyle_Jefferson_Welcome_To_The_Good_Life_ft_Daisha_McBride_lead_vocal_2_01.mp3&token=1790798715_89215a64f4d849ba37d1e12d51809ea2e8ffaf4250691a3df86b992efb954f0c",
-    "cover": "assets/covers/set1-32-kojo-eclipse.svg"
+    "cover": "assets/covers/32_Kojo_Eclipse.jpg"
   },
   {
     "id": "set1-33-funkzilla",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Funkzilla \u2014 Life Giver",
+    "title": "Funkzilla — Life Giver",
     "artist": "Funkzilla",
     "album": "Poolside Odyssey",
     "year": "2017",
@@ -525,12 +525,12 @@
     "description": "A playful, late-night poolside shot of a bassist submerged to his nostrils in red-lit water, wearing a faux-fur wolf cowl and oversized gold medallions, staring with wide deadpan eyes.",
     "duration": "2:47",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40329/139622-cody-martin-life-giver-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Life_Giver_instrumental_2_47.mp3&token=1790728163_25886e982bb708e1e0b1979ac2ceeeef507e07a49d0a624e745c051ebe2376a6",
-    "cover": "assets/covers/set1-33-funkzilla.svg"
+    "cover": "assets/covers/33_Funkzilla.jpg"
   },
   {
     "id": "set1-34-amina-thorne",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Amina Thorne \u2014 Gimmie A Yeehaw",
+    "title": "Amina Thorne — Gimmie A Yeehaw",
     "artist": "Amina Thorne",
     "album": "Brooklyn Reverie",
     "year": "2012",
@@ -541,12 +541,12 @@
     "description": "A joyful, sunlit portrait of a young prodigy with a voluminous halo afro and round glasses, laughing as she embraces her upright double bass on a Brooklyn brownstone stoop.",
     "duration": "2:54",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40462/204545-matt-wigton-gimmie-a-yeehaw-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Matt_Wigton_Gimmie_A_Yeehaw_background_vocals_2_54.mp3&token=1790814544_91f1b1e7a2cc3be6eadc7967b70fafe5dfe093c25fcfbd438f762f7b54c205a8",
-    "cover": "assets/covers/set1-34-amina-thorne.svg"
+    "cover": "assets/covers/34_Amina_Thorne.jpg"
   },
   {
     "id": "set1-35-the-basement-sessions",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Basement Sessions \u2014 Magic Everywhere",
+    "title": "The Basement Sessions — Magic Everywhere",
     "artist": "The Basement Sessions",
     "album": "Late Night Tape Loops",
     "year": "2016",
@@ -557,12 +557,12 @@
     "description": "A grainy 16mm film capture of four young musicians in oversized thrifted knit sweaters and slacks, sitting quietly among tangled patch cords, a vintage Rhodes piano, and muffled drum kits in a wood-paneled basement.",
     "duration": "3:17",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40433/204006-semigloss-magic-everywhere-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_semigloss_Magic_Everywhere_lead_vocal_3_17.mp3&token=1790794844_3a572435ab02a12d3b5636c3b2d6863e020a4a7598dcef8f0ab684a8c6256869",
-    "cover": "assets/covers/set1-35-the-basement-sessions.svg"
+    "cover": "assets/covers/35_The_Basement_Sessions.jpg"
   },
   {
     "id": "set1-36-order-of-the-black-sun",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Order of the Black Sun \u2014 Panic Protocol",
+    "title": "Order of the Black Sun — Panic Protocol",
     "artist": "Order of the Black Sun",
     "album": "Cathedral of Ash",
     "year": "2015",
@@ -573,12 +573,12 @@
     "description": "A towering, Art Deco cathedral facade rendered in charcoal and burnished bronze, where a skeletal anti-pope in embroidered vestments raises a chalice above a sea of chrome-masked acolytes.",
     "duration": "2:46",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40472/204714-neurostrike-panic-protocol-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neurostrike_Panic_Protocol_background_vocals_2_46.mp3&token=1790746590_c83f43b53e42ac85faec7e92d3cbb778042e30c5ef595c9459ed4f3d1b0aeb9b",
-    "cover": "assets/covers/set1-36-order-of-the-black-sun.svg"
+    "cover": "assets/covers/36_Order_of_the_Black_Sun.jpg"
   },
   {
     "id": "set1-37-titan-rift",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Titan Rift \u2014 Don\u2019t Play With My Heart",
+    "title": "Titan Rift — Don’t Play With My Heart",
     "artist": "Titan Rift",
     "album": "Molten Core",
     "year": "2016",
@@ -589,12 +589,12 @@
     "description": "A stark, minimalist woodblock illustration of a colossal volcanic crag fracturing down the center, shedding a single teardrop of molten gold magma into a bottomless black ocean.",
     "duration": "2:35",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40347/139751-dr-delight-don-t-play-with-my-heart-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Dr_Delight_Don_t_Play_With_My_Heart_background_vocals_2_35.mp3&token=1790801555_3f20f17694817301bbe3a0c6bc1dc7104124a7072d124cbe74715d332e553e10",
-    "cover": "assets/covers/set1-37-titan-rift.svg"
+    "cover": "assets/covers/37_Titan_Rift.jpg"
   },
   {
     "id": "set1-38-sunbleached",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Sunbleached \u2014 The Return Home",
+    "title": "Sunbleached — The Return Home",
     "artist": "Sunbleached",
     "album": "Blinding Horizon",
     "year": "2013",
@@ -605,12 +605,12 @@
     "description": "A blinding, monochromatic field of warm pastel salmon-pink that deliberately defies heavy-metal cliches, overlaid with delicate, widely spaced white serif typography.",
     "duration": "3:53",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40360/139834-shimmer-the-return-home-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Shimmer_The_Return_Home_background_vocals_3_53.mp3&token=1790784746_54c9364aed8f218f5075e650b0feb4b75102235342188a6f7ff0e2e08b59c1d4",
-    "cover": "assets/covers/set1-38-sunbleached.svg"
+    "cover": "assets/covers/38_Sunbleached.jpg"
   },
   {
     "id": "set1-39-liturgy-of-the-frost",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Liturgy of the Frost \u2014 Confessions",
+    "title": "Liturgy of the Frost — Confessions",
     "artist": "Liturgy of the Frost",
     "album": "Blackened Icons",
     "year": "2015",
@@ -621,12 +621,12 @@
     "description": "A distressed, antique wooden panel of an Eastern European icon where the faces of holy figures have been meticulously scraped away into pitch-black silhouettes, surrounded by dripping candle wax and gold leaf.",
     "duration": "5:35",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40447/204346-cody-martin-confessions-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Confessions_background_vocals_5_35.mp3&token=1790786017_076bb0215aeeac157a36d80cd965e6a173b2b62d36257f70f6703dbd88b46ef9",
-    "cover": "assets/covers/set1-39-liturgy-of-the-frost.svg"
+    "cover": "assets/covers/39_Liturgy_of_the_Frost.jpg"
   },
   {
     "id": "set1-40-architects-of-dawn",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Architects of Dawn \u2014 Dance All Night",
+    "title": "Architects of Dawn — Dance All Night",
     "artist": "Architects of Dawn",
     "album": "Sacred Geometry",
     "year": "2013",
@@ -637,12 +637,12 @@
     "description": "A pristine gold foil embossing of the Flower of Life sacred geometry symbol centered against a velvety, matte-black textured sleeve, accented by subtle microscopic gridlines.",
     "duration": "2:27",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40372/139918-anaritzz-dance-all-night-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_anaritzz_Dance_All_Night_lead_vocal_2_27.mp3&token=1790811182_726bf01ee4cc33b0daa8eb9180f8aaabcd30cacb02cddadfa9162440c232e77b",
-    "cover": "assets/covers/set1-40-architects-of-dawn.svg"
+    "cover": "assets/covers/40_Architects_of_Dawn.jpg"
   },
   {
     "id": "set1-41-tobias-crane",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Tobias Crane \u2014 Lucky Duck",
+    "title": "Tobias Crane — Lucky Duck",
     "artist": "Tobias Crane",
     "album": "Sarcastic Pastoral",
     "year": "2015",
@@ -653,12 +653,12 @@
     "description": "A lush, satirical oil painting parodying Baroque church art, showing a bearded singer in a tuxedo kneeling in an alpine meadow nursing an infant with his own adult face, surrounded by haloed woodland animals.",
     "duration": "2:22",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40423/203861-dresden-the-flamingo-lucky-duck-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Dresden_The_Flamingo_Lucky_Duck_instrumental_2_22.mp3&token=1790791655_021bb6ee17885c8b640c619ecbfa02741e87a1d8f6b2e3c3e9a7e5a220be4bb4",
-    "cover": "assets/covers/set1-41-tobias-crane.svg"
+    "cover": "assets/covers/41_Tobias_Crane.jpg"
   },
   {
     "id": "set1-42-pine-needle-cathedral",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Pine Needle Cathedral \u2014 Divine Land",
+    "title": "Pine Needle Cathedral — Divine Land",
     "artist": "Pine Needle Cathedral",
     "album": "33 / Glitch / Hymn",
     "year": "2016",
@@ -669,12 +669,12 @@
     "description": "An esoteric, glitch-art collage of hand-drawn occult sigils, red digital numerology, alchemical diagrams, and distressed photocopy fragments printed on unbleached cardboard stock.",
     "duration": "2:41",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40520/206533-cody-martin-divine-land-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Divine_Land_instrumental_2_41.mp3&token=1790810762_27a6b8d94a01ddf917dde259addb1c2577d9337e61f69878cdada1a4e070e33d",
-    "cover": "assets/covers/set1-42-pine-needle-cathedral.svg"
+    "cover": "assets/covers/42_Pine_Needle_Cathedral.jpg"
   },
   {
     "id": "set1-43-the-juniper-belles",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Juniper Belles \u2014 Tempo",
+    "title": "The Juniper Belles — Tempo",
     "artist": "The Juniper Belles",
     "album": "Nordic Whispers",
     "year": "2012",
@@ -685,12 +685,12 @@
     "description": "A dreamy, natural-light portrait of two sisters in vintage floral prairie dresses and fringed suede jackets, standing shoulder-to-shoulder amid mist-shrouded spruce trees in a Nordic forest.",
     "duration": "2:03",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40510/205206-sci-fy-tempo-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_SCi-FY_Tempo_lead_vocal_2_03.mp3&token=1790811160_22c8927fc47457a091bcb08daf86e3d6c298d728160d1438a2690e332d3678b1",
-    "cover": "assets/covers/set1-43-the-juniper-belles.svg"
+    "cover": "assets/covers/43_The_Juniper_Belles.jpg"
   },
   {
     "id": "set1-44-timber---twine",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Timber & Twine \u2014 Now I'm Here",
+    "title": "Timber & Twine — Now I'm Here",
     "artist": "Timber & Twine",
     "album": "Front Porch Anthems",
     "year": "2012",
@@ -701,12 +701,12 @@
     "description": "A warm, candid black-and-white snapshot of four friends on the wooden porch of an old cabin, holding an upright bass, mandolin, and cello, with a hand-drawn song title and an antique ribbon microphone.",
     "duration": "2:41",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40354/139798-wayfair-now-i-m-here-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Wayfair_Now_I_m_Here_instrumental_2_41.mp3&token=1790795052_14d95c83a96f408dbac372e7a37cc5bc4b35865d57f9827c87604bbc7786dea4",
-    "cover": "assets/covers/set1-44-timber---twine.svg"
+    "cover": "assets/covers/44_Timber_&_Twine.jpg"
   },
   {
     "id": "set1-45-the-cobblestone-troubadours",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "The Cobblestone Troubadours \u2014 Honey",
+    "title": "The Cobblestone Troubadours — Honey",
     "artist": "The Cobblestone Troubadours",
     "album": "Babel Alley",
     "year": "2012",
@@ -717,12 +717,12 @@
     "description": "A sepia-drenched, flash-lit tavern shot of four young men in tweed waistcoats and rolled-up shirtsleeves laughing over wooden tankards, accordion and banjo in hand against an exposed brick wall.",
     "duration": "3:08",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40491/204997-marigolde-honey-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_marigolde_Honey_lead_vocal_3_08.mp3&token=1790807449_c703fc43d34e373261753ce4c7b459d61a9b70b1d9be4f2b69aa5d065eb579c0",
-    "cover": "assets/covers/set1-45-the-cobblestone-troubadours.svg"
+    "cover": "assets/covers/45_The_Cobblestone_Troubadours.jpg"
   },
   {
     "id": "set1-46-solaria",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Solaria \u2014 Level Up",
+    "title": "Solaria — Level Up",
     "artist": "Solaria",
     "album": "Angels of Andalusia",
     "year": "2018",
@@ -733,12 +733,12 @@
     "description": "A surreal, high-art digital portrait of a singer floating weightlessly like an angelic Madonna among golden morning clouds, clad in sheer billowing white chiffon with long crystal-encrusted acrylic claws.",
     "duration": "2:04",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40525/205584-cody-martin-level-up-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Level_Up_instrumental_2_04.mp3&token=1790808282_8c8d2e6fdae81d4cdc1cca1046f0cef8f71c8a8351f8a3fde0510400ece0c2d4",
-    "cover": "assets/covers/set1-46-solaria.svg"
+    "cover": "assets/covers/46_Solaria.jpg"
   },
   {
     "id": "set1-47-el-chico-malo",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "El Chico Malo \u2014 Moonlight",
+    "title": "El Chico Malo — Moonlight",
     "artist": "El Chico Malo",
     "album": "Neon Nostalgia",
     "year": "2018",
@@ -749,12 +749,12 @@
     "description": "A vibrant, neon-pastel cartoon portrait of a Latin trap singer with an inked third eye on his forehead, wearing reflective yellow goggles and a bright buzzcut, surrounded by doodles of sad hearts and melting palm trees.",
     "duration": "3:12",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40425/203869-lone-canyon-moonlight-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Lone_Canyon_Moonlight_background_vocals_3_12.mp3&token=1790798579_0b6abf3e1fb6abc1b431b85f979fa48c156dc5680ed9dae91716106a6552ff83",
-    "cover": "assets/covers/set1-47-el-chico-malo.svg"
+    "cover": "assets/covers/47_El_Chico_Malo.jpg"
   },
   {
     "id": "set1-48-marisol-morales",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Marisol Morales \u2014 Tidal Light",
+    "title": "Marisol Morales — Tidal Light",
     "artist": "Marisol Morales",
     "album": "Colonial Courtyard",
     "year": "2015",
@@ -765,28 +765,28 @@
     "description": "A soft, warm-toned 35mm film photograph of a singer sitting peacefully with an acoustic nylon-string guitar in a sun-drenched colonial Mexican patio filled with terra-cotta pots and blooming bougainvillea.",
     "duration": "3:28",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40476/204745-moments-tidal-light-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Moments_Tidal_Light_background_vocals_3_28.mp3&token=1790814470_7057b0891f7c5fb6d1cd57be988a1e036457bf469d4fc8a8f135dad97ed472e3",
-    "cover": "assets/covers/set1-48-marisol-morales.svg"
+    "cover": "assets/covers/48_Marisol_Morales.jpg"
   },
   {
     "id": "set1-49-mateo-delgado",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Mateo Delgado \u2014 Stronger Than Time",
+    "title": "Mateo Delgado — Stronger Than Time",
     "artist": "Mateo Delgado",
     "album": "Charro de Medianoche",
     "year": "2017",
     "genre": "Latin and Global",
-    "subgenre": "Modern Mariache\u00f1o Prodigy",
+    "subgenre": "Modern Mariacheño Prodigy",
     "bpm": 150,
     "mood": "Reflective, Romantic, Hopeful, Inspiring",
     "description": "A formal, youthful portrait of an eighteen-year-old singer in a tailored black-and-silver embroidered mariachi jacket and wide felt sombrero, holding a guitar under dramatic stadium spotlights against a deep crimson curtain.",
     "duration": "3:34",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40398/203505-scarlett-solo-stronger-than-time-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Scarlett_Solo_Stronger_Than_Time_lead_vocal_3_34.mp3&token=1790791499_91296bc5328d86d1908a09cc76969e3a680fcf22fbb8aa7aec69d8b60dbdff41",
-    "cover": "assets/covers/set1-49-mateo-delgado.svg"
+    "cover": "assets/covers/49_Mateo_Delgado.jpg"
   },
   {
     "id": "set1-50-rey-caribe",
     "set": "Set 1 (2010s Fictional Originals)",
-    "title": "Rey Caribe \u2014 Turns",
+    "title": "Rey Caribe — Turns",
     "artist": "Rey Caribe",
     "album": "Vibra Tropical",
     "year": "2018",
@@ -797,12 +797,12 @@
     "description": "A hyper-vibrant, neon-saturated portrait of a reggaeton artist sporting rainbow-dyed hair and diamond grillz, grinning broadly against a bright yellow background packed with plush Takashi Murakami-style smiling flowers.",
     "duration": "4:29",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40460/204533-shimmer-turns-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Shimmer_Turns_instrumental_4_29.mp3&token=1790798005_7f6d35ecd5412a0f0da83b92a2518c50a97467b73c58e071b8d943854f0e9b25",
-    "cover": "assets/covers/set1-50-rey-caribe.svg"
+    "cover": "assets/covers/50_Rey_Caribe.jpg"
   },
   {
     "id": "set2-01-neon-mirage",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Neon Mirage \u2014 Release The Pressure",
+    "title": "Neon Mirage — Release The Pressure",
     "artist": "Neon Mirage",
     "album": "Desert Oscillations",
     "year": "2014",
@@ -813,12 +813,12 @@
     "description": "A grainy 35mm photograph of four musicians in vintage denim and retro sunglasses standing beside an abandoned turquoise motel pool in Palm Springs, double-exposed with a shimmering iridescent mirage wave.",
     "duration": "4:04",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40467/204589-neon-beach-release-the-pressure-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neon_Beach_Release_The_Pressure_background_vocals_4_04.mp3&token=1790811322_a3dd6ba8ec9abcb6df9e9d075e5b20ccf5879e0f11a55b2192f861d48c140016",
-    "cover": "assets/covers/set2-01-neon-mirage.svg"
+    "cover": "assets/covers/set2-01-neon-mirage.jpg"
   },
   {
     "id": "set2-02-rust---reverie",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Rust & Reverie \u2014 Touch Some Grass",
+    "title": "Rust & Reverie — Touch Some Grass",
     "artist": "Rust & Reverie",
     "album": "Static Highways",
     "year": "2012",
@@ -829,12 +829,12 @@
     "description": "A stark black-and-white landscape of rusted railway lines stretching toward an ominous thunderstorm over an industrial Midwestern river town, framed by a thick white Polaroid border and bold condensed serif font.",
     "duration": "2:56",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40459/204404-reveille-touch-some-grass-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Touch_Some_Grass_instrumental_2_56.mp3&token=1790784184_b5f94ca60f87d9b849edac93fae7305b95ffa3b572b4191ca017edce548f4e48",
-    "cover": "assets/covers/set2-02-rust---reverie.svg"
+    "cover": "assets/covers/set2-02-rust-and-reverie.jpg"
   },
   {
     "id": "set2-03-the-riot-act",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "The Riot Act \u2014 Halo Balance",
+    "title": "The Riot Act — Halo Balance",
     "artist": "The Riot Act",
     "album": "Concrete Youth",
     "year": "2017",
@@ -845,12 +845,12 @@
     "description": "A xerox-distorted, high-contrast collage of torn protest flyers, safety pins, and a roaring singer clutching a taped-up microphone, slashed across the middle with electric-pink spray paint reading 'NO PERMISSION'.",
     "duration": "2:28",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40349/139766-wayfair-halo-balance-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Wayfair_Halo_Balance_instrumental_2_28.mp3&token=1790755571_0ff07cf9e9531c490da78f1ffb537b2eaff95fd6113e01496e57c226eb1bbf0f",
-    "cover": "assets/covers/set2-03-the-riot-act.svg"
+    "cover": "assets/covers/set2-03-the-riot-act.jpg"
   },
   {
     "id": "set2-04-prism-of-andromeda",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Prism of Andromeda \u2014 Endless Motion",
+    "title": "Prism of Andromeda — Endless Motion",
     "artist": "Prism of Andromeda",
     "album": "Starlight Odyssey",
     "year": "2015",
@@ -861,12 +861,12 @@
     "description": "A dazzling vintage sci-fi airbrush illustration of an explorer in an mirrored gold space helmet gazing into an open hyperspace wormhole shaped like an octahedron, floating in emerald and magenta star clusters.",
     "duration": "2:24",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40382/140018-lone-canyon-endless-motion-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Lone_Canyon_Endless_Motion_instrumental_2_24.mp3&token=1790806530_cb602034a53cd3d8b4dac506fb27457fa1547076ac7e9b98a73c07ecea5b760a",
-    "cover": "assets/covers/set2-04-prism-of-andromeda.svg"
+    "cover": "assets/covers/set2-04-prism-of-andromeda.jpg"
   },
   {
     "id": "set2-05-sunken-valleys",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Sunken Valleys \u2014 Padme",
+    "title": "Sunken Valleys — Padme",
     "artist": "Sunken Valleys",
     "album": "Dusk over Calico",
     "year": "2013",
@@ -877,12 +877,12 @@
     "description": "An ominous graphic print of a horned ram skull cast in weathered bronze resting on cracked desert earth under a blood-orange eclipse, textured with coarse sandpaper grit and heavy woodcut typography.",
     "duration": "2:10",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40538/205699-cody-martin-padme-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Padme_background_vocals_2_10.mp3&token=1790804297_2f7e24657d854416387294104a7b784a74f7842378575cddebc6701e1cabe04f",
-    "cover": "assets/covers/set2-05-sunken-valleys.svg"
+    "cover": "assets/covers/set2-05-sunken-valleys.jpg"
   },
   {
     "id": "set2-06-synthetic-heart",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Synthetic Heart \u2014 Wildest Dreams",
+    "title": "Synthetic Heart — Wildest Dreams",
     "artist": "Synthetic Heart",
     "album": "Midnight Hotline",
     "year": "2015",
@@ -893,12 +893,12 @@
     "description": "A gleaming sports car speeding along a palm-lined highway toward a wireframe vector grid sunset, bathed in violet and magenta neon glow with chrome italicized script across the windshield.",
     "duration": "3:11",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40350/139770-shimmer-wildest-dreams-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Shimmer_Wildest_Dreams_instrumental_3_11.mp3&token=1790728165_424d66fd94817a986d1f66357ab63d85416958784fe7f9fc29a1467c83fc9524",
-    "cover": "assets/covers/set2-06-synthetic-heart.svg"
+    "cover": "assets/covers/set2-06-synthetic-heart.jpg"
   },
   {
     "id": "set2-07-princess-glitterbomb",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Princess Glitterbomb \u2014 Leaving Slow",
+    "title": "Princess Glitterbomb — Leaving Slow",
     "artist": "Princess Glitterbomb",
     "album": "Sparkle Renaissance",
     "year": "2011",
@@ -909,12 +909,12 @@
     "description": "A high-fashion bubblegum explosion of iridescent disco balls, pink latex balloons, and a singer in oversized diamond sunglasses holding a bedazzled scepter, with holographic foil lettering.",
     "duration": "4:14",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40370/139891-zanne-mitchell-leaving-slow-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Zanne_Mitchell_Leaving_Slow_lead_vocal_4_14.mp3&token=1790728166_9af012258f978e5e2f5bc64191afa69b5cafb4c9ab9e5cad6504020a9716888a",
-    "cover": "assets/covers/set2-07-princess-glitterbomb.svg"
+    "cover": "assets/covers/set2-07-princess-glitterbomb.jpg"
   },
   {
     "id": "set2-08-northside-boys",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Northside Boys \u2014 Paper Tide",
+    "title": "Northside Boys — Paper Tide",
     "artist": "Northside Boys",
     "album": "Rooftop Confessions",
     "year": "2013",
@@ -925,12 +925,12 @@
     "description": "A golden-hour photograph of four stylish young men in rolled wool beanies, camel coats, and white sneakers laughing on a Brooklyn brownstone rooftop against the hazy Manhattan skyline.",
     "duration": "3:59",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40549/205919-moments-paper-tide-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Moments_Paper_Tide_instrumental_3_59.mp3&token=1790811272_6d43e78e68ba8194b0161ca6078cffc78320cce5b9ffbde6dc8e721212690277",
-    "cover": "assets/covers/set2-08-northside-boys.svg"
+    "cover": "assets/covers/set2-08-northside-boys.jpg"
   },
   {
     "id": "set2-09-automata-queen",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Automata Queen \u2014 Sofa",
+    "title": "Automata Queen — Sofa",
     "artist": "Automata Queen",
     "album": "Cybernetic Love",
     "year": "2012",
@@ -941,12 +941,12 @@
     "description": "A dramatic close-up of a pop diva with porcelain doll skin and silver-plated tears, sporting a towering crown crafted from circuit boards and neon fiber optics against obsidian marble.",
     "duration": "3:30",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40334/139662-a-g-sully-sofa-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_A_G_Sully_Sofa_lead_vocal_3_30.mp3&token=1790791978_088332511a2416e71de4a0ea0c210a0bae9d05600de6230e6d9ff21981ca1572",
-    "cover": "assets/covers/set2-09-automata-queen.svg"
+    "cover": "assets/covers/set2-09-automata-queen.jpg"
   },
   {
     "id": "set2-10-freja-vinter",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Freja Vinter \u2014 Forever After",
+    "title": "Freja Vinter — Forever After",
     "artist": "Freja Vinter",
     "album": "Glacier Echoes",
     "year": "2016",
@@ -957,12 +957,12 @@
     "description": "An austere, minimalist aerial photograph of a lone figure in an oversized crimson parka walking across a vast, cracked azure ice shelf, framed by generous negative white space and razor-thin type.",
     "duration": "2:45",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40523/205484-cody-martin-forever-after-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Forever_After_background_vocals_2_45.mp3&token=1790800453_bfd1924bc647f91a6d1c38c87f357e83ee364d09381080080bce80d44f106fc3",
-    "cover": "assets/covers/set2-10-freja-vinter.svg"
+    "cover": "assets/covers/set2-10-freja-vinter.jpg"
   },
   {
     "id": "set2-11-808-cartel",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "808 Cartel \u2014 Deliverance",
+    "title": "808 Cartel — Deliverance",
     "artist": "808 Cartel",
     "album": "Sub-Zero Royalty",
     "year": "2016",
@@ -973,12 +973,12 @@
     "description": "A heavy, dark-toned 3D rendering of three platinum skulls wearing diamond-encrusted crowns, surrounded by stacks of frozen currency and glowing purple ice cubes with heavy embossed chrome lettering.",
     "duration": "3:12",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40464/204561-cody-martin-deliverance-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Deliverance_background_vocals_3_12.mp3&token=1790801133_464eaffb79bba1789c686d073da3951f4cef39c3b95eb5ccc44b33ddf5255e49",
-    "cover": "assets/covers/set2-11-808-cartel.svg"
+    "cover": "assets/covers/set2-11-808-cartel.jpg"
   },
   {
     "id": "set2-12-apex-predators",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Apex Predators \u2014 Soft Light, Slow Motion",
+    "title": "Apex Predators — Soft Light, Slow Motion",
     "artist": "Apex Predators",
     "album": "Concrete Jungle '15",
     "year": "2015",
@@ -989,12 +989,12 @@
     "description": "A gritty, low-angle night photo taken on an East London estate under flickering yellow sodium lights, four hooded figures in black puffers and balaclavas beside a snarling Rottweiler with red spray-painted graffiti.",
     "duration": "2:49",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40369/139882-strength-to-last-soft-light-slow-motion-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Strength_To_Last_Soft_Light_Slow_Motion_background_vocals_2_49.mp3&token=1790812018_10f2f9f85ec488d233b3ee37855a20fe031311f3c11025326b2a572afdbbbded",
-    "cover": "assets/covers/set2-12-apex-predators.svg"
+    "cover": "assets/covers/set2-12-apex-predators.jpg"
   },
   {
     "id": "set2-13-trap-odyssey",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Trap Odyssey \u2014 Roll With It",
+    "title": "Trap Odyssey — Roll With It",
     "artist": "Trap Odyssey",
     "album": "Saturn V",
     "year": "2017",
@@ -1005,12 +1005,12 @@
     "description": "A surreal purple-and-cyan digital artwork of a rocket booster lifting off from an Atlanta street corner, surrounded by floating diamond rings, drifting Styrofoam cups, and glitch scanlines.",
     "duration": "2:53",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40403/203598-matt-wigton-roll-with-it-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Matt_Wigton_Roll_With_It_background_vocals_2_53.mp3&token=1790811610_d2c5b4c1ff121a6c9bf9fdbbf69f14c7cbf8e100353ab04c78b1945420f17249",
-    "cover": "assets/covers/set2-13-trap-odyssey.svg"
+    "cover": "assets/covers/set2-13-trap-odyssey.jpg"
   },
   {
     "id": "set2-14-the-griot-s-ledger",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "The Griot's Ledger \u2014 Living For",
+    "title": "The Griot's Ledger — Living For",
     "artist": "The Griot's Ledger",
     "album": "Generations",
     "year": "2015",
@@ -1021,12 +1021,12 @@
     "description": "A warm sepia photograph of three generations of family members seated around a kitchen table laden with old photo albums and a brass trumpet, with elegant gold foil serif typography.",
     "duration": "2:31",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40490/204984-marigolde-living-for-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_marigolde_Living_For_lead_vocal_2_31.mp3&token=1790809190_e4c05b5efa6a00fc4ea941c2952b24942d0b1aca95ffe6741fd9e5ef4a74a52c",
-    "cover": "assets/covers/set2-14-the-griot-s-ledger.svg"
+    "cover": "assets/covers/set2-14-the-griot-s-ledger.jpg"
   },
   {
     "id": "set2-15-strawberry-sundown",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Strawberry Sundown \u2014 Red Sand",
+    "title": "Strawberry Sundown — Red Sand",
     "artist": "Strawberry Sundown",
     "album": "Peach Motel",
     "year": "2018",
@@ -1037,12 +1037,12 @@
     "description": "A quirky, Wes Anderson-esque pastel photograph of a vintage 1970s yellow camper van parked beside a field of blooming sunflowers under a peach-pink sky, with hand-drawn comic doodles.",
     "duration": "2:48",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40331/139634-cody-martin-red-sand-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Red_Sand_background_vocals_2_48.mp3&token=1790728164_6c74c894a046934061517df7ed46a672f14606fcf6440161e95cc1d14f193f02",
-    "cover": "assets/covers/set2-15-strawberry-sundown.svg"
+    "cover": "assets/covers/set2-15-strawberry-sundown.jpg"
   },
   {
     "id": "set2-16-the-satin-sirens",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "The Satin Sirens \u2014 Unbreakable",
+    "title": "The Satin Sirens — Unbreakable",
     "artist": "The Satin Sirens",
     "album": "Velvet Harmonies",
     "year": "2014",
@@ -1053,12 +1053,12 @@
     "description": "Four women in emerald satin evening gowns and dramatic side-swept waves posed around a classic chrome studio ribbon microphone under moody cabaret spotlights.",
     "duration": "2:54",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40371/139906-aeris-moon-unbreakable-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Aeris_Moon_Unbreakable_lead_vocal_2_54.mp3&token=1790728166_0732285fedc26551f07bbf5601d93029013740726d5d917e83aa448dfeb651f5",
-    "cover": "assets/covers/set2-16-the-satin-sirens.svg"
+    "cover": "assets/covers/set2-16-the-satin-sirens.jpg"
   },
   {
     "id": "set2-17-dorian-silk",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Dorian Silk \u2014 A Quiet Promise",
+    "title": "Dorian Silk — A Quiet Promise",
     "artist": "Dorian Silk",
     "album": "Lavender Hours",
     "year": "2017",
@@ -1069,12 +1069,12 @@
     "description": "A dreamy, soft-focus portrait of the singer in an unbuttoned lavender silk shirt holding an antique porcelain teacup, bathed in dusty morning bedroom light with understated italic cursive.",
     "duration": "3:31",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40575/206175-moments-a-quiet-promise-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Moments_A_Quiet_Promise_instrumental_3_31.mp3&token=1790813970_89d8f15d1baf3f2a649046a463ea909b0c7756996b6fb3e0289237416eb0f68d",
-    "cover": "assets/covers/set2-17-dorian-silk.svg"
+    "cover": "assets/covers/set2-17-dorian-silk.jpg"
   },
   {
     "id": "set2-18-empress-royale",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Empress Royale \u2014 I'll Be There",
+    "title": "Empress Royale — I'll Be There",
     "artist": "Empress Royale",
     "album": "Golden Throne",
     "year": "2016",
@@ -1085,12 +1085,12 @@
     "description": "A breathtaking high-fashion shot of the singer draped in a 10-foot-long gold velvet cape and towering filigree crown, sitting atop a minimalist obsidian throne with bold geometric gold lettering.",
     "duration": "4:10",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40411/203697-clizzy-houston-i-ll-be-there-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Clizzy_Houston_I_ll_Be_There_lead_vocal_4_10.mp3&token=1790792166_4b106e6d9fa7c22faca7e6da3c3ad5b59c3269d77b144dc87af5854a92e055fc",
-    "cover": "assets/covers/set2-18-empress-royale.svg"
+    "cover": "assets/covers/set2-18-empress-royale.jpg"
   },
   {
     "id": "set2-19-velvet-solitude",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Velvet Solitude \u2014 Go Go Go",
+    "title": "Velvet Solitude — Go Go Go",
     "artist": "Velvet Solitude",
     "album": "Midnight Rain",
     "year": "2015",
@@ -1101,12 +1101,12 @@
     "description": "A moody, cinematic shot through a rain-streaked luxury hotel window overlooking Tokyo at 3 AM, with blurred neon lights reflected across a grand piano and a solitary crystal tumbler.",
     "duration": "1:34",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40489/204972-sparkz-go-go-go-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_SPARKZ_Go_Go_Go_lead_vocal_1_34.mp3&token=1790805012_e0a8d7061bd260ee403f6d0d3988c81508bce5f6599b8cee86234785e117aa57",
-    "cover": "assets/covers/set2-19-velvet-solitude.svg"
+    "cover": "assets/covers/set2-19-velvet-solitude.jpg"
   },
   {
     "id": "set2-20-apollo-groove",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Apollo Groove \u2014 The Churn",
+    "title": "Apollo Groove — The Churn",
     "artist": "Apollo Groove",
     "album": "Electric Disco 1985",
     "year": "2016",
@@ -1117,12 +1117,12 @@
     "description": "A colorful, vibrant illustration of a roller-disco dancer in sequined flared bell-bottoms and roller skates, surrounded by starburst sparkles and 1970s bubble typography in neon orange and gold.",
     "duration": "1:56",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40380/140002-neon-beach-the-churn-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neon_Beach_The_Churn_background_vocals_1_56.mp3&token=1790728166_05ccbad51f7dbe9a6c8e8bcae54b6163e40f0d8cf607194fc776908d74719c57",
-    "cover": "assets/covers/set2-20-apollo-groove.svg"
+    "cover": "assets/covers/set2-20-apollo-groove.jpg"
   },
   {
     "id": "set2-21-digital-phantom",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Digital Phantom \u2014 Where The Wild Things Go",
+    "title": "Digital Phantom — Where The Wild Things Go",
     "artist": "Digital Phantom",
     "album": "Gridrunner",
     "year": "2012",
@@ -1133,12 +1133,12 @@
     "description": "A menacing, luminous neon-cyan Oni mask hovering in the center of a pitch-black server room filled with blinking green data racks and fiber-optic cables.",
     "duration": "3:08",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40391/140071-thomas-ventura-where-the-wild-things-go-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Thomas_Ventura_Where_The_Wild_Things_Go_lead_vocal_3_08.mp3&token=1790806467_c7a2963edef1c2816d56f77571ca565451bc8afcdb48bf4f6627c121dc3ee669",
-    "cover": "assets/covers/set2-21-digital-phantom.svg"
+    "cover": "assets/covers/set2-21-digital-phantom.jpg"
   },
   {
     "id": "set2-22-glitch-goddess",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Glitch Goddess \u2014 Digital Aftershock",
+    "title": "Glitch Goddess — Digital Aftershock",
     "artist": "Glitch Goddess",
     "album": "Synthetic Euphoria",
     "year": "2018",
@@ -1149,12 +1149,12 @@
     "description": "A hyper-rendered glossy digital sculpture of a translucent baby-blue gummy bear melting over a chrome motherboard, with iridescent bubblegum typography and sparkle graphics.",
     "duration": "2:17",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40424/203865-neurostrike-digital-aftershock-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neurostrike_Digital_Aftershock_instrumental_2_17.mp3&token=1790803663_32acec30eaa6abb70904e83abcb44eb19ce51274f2a594fc13d3295aec4c4db6",
-    "cover": "assets/covers/set2-22-glitch-goddess.svg"
+    "cover": "assets/covers/set2-22-glitch-goddess.jpg"
   },
   {
     "id": "set2-23-sub-bass-havoc",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Sub-Bass Havoc \u2014 Assurance",
+    "title": "Sub-Bass Havoc — Assurance",
     "artist": "Sub-Bass Havoc",
     "album": "Earthquake Protocol",
     "year": "2011",
@@ -1165,12 +1165,12 @@
     "description": "A cracked yellow hazard warning sign splitting in half over an apocalyptic crumbling skyscraper, with radioactive neon-green audio soundwaves tearing through the pavement.",
     "duration": "2:18",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40441/204264-reveille-assurance-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Assurance_instrumental_2_18.mp3&token=1790803166_2f2272e961f31b3209c0de63840632600886fbd21f39a95518e6571f5cb77e45",
-    "cover": "assets/covers/set2-23-sub-bass-havoc.svg"
+    "cover": "assets/covers/set2-23-sub-bass-havoc.jpg"
   },
   {
     "id": "set2-24-ethereal-drift",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Ethereal Drift \u2014 Rocket",
+    "title": "Ethereal Drift — Rocket",
     "artist": "Ethereal Drift",
     "album": "Deep Ocean Ambient",
     "year": "2014",
@@ -1181,12 +1181,12 @@
     "description": "A mesmerizing macro photograph of bioluminescent jellyfish drifting through the abyss of the Mariana Trench, glowing in soft turquoise and deep violet within a clean borderless sleeve.",
     "duration": "2:13",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40401/203541-jazzy-tha-rapper-rocket-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Jazzy_Tha_Rapper_Rocket_lead_vocal_2_13.mp3&token=1790728167_5c48a490415be8519a58b07ad431067ef120cb4c5d653cbfa2bc9be55d77654b",
-    "cover": "assets/covers/set2-24-ethereal-drift.svg"
+    "cover": "assets/covers/set2-24-ethereal-drift.jpg"
   },
   {
     "id": "set2-25-pulse-horizon",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Pulse Horizon \u2014 Changing",
+    "title": "Pulse Horizon — Changing",
     "artist": "Pulse Horizon",
     "album": "Sunrise Festival",
     "year": "2013",
@@ -1197,12 +1197,12 @@
     "description": "An epic wide-angle panoramic photo of 80,000 festival-goers with glowsticks raised toward a colossal festival stage erupting in golden fireworks and purple laser beams at sunrise.",
     "duration": "3:08",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40374/139948-marigolde-changing-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_marigolde_Changing_lead_vocal_3_08.mp3&token=1790784159_8926c8cacf74d5f2b9be79f959915e2b720f698d34c55af9629113fe8d89c9c4",
-    "cover": "assets/covers/set2-25-pulse-horizon.svg"
+    "cover": "assets/covers/set2-25-pulse-horizon.jpg"
   },
   {
     "id": "set2-26-tennessee-driftwood",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Tennessee Driftwood \u2014 Starting Over",
+    "title": "Tennessee Driftwood — Starting Over",
     "artist": "Tennessee Driftwood",
     "album": "Old Pine Road",
     "year": "2015",
@@ -1213,12 +1213,12 @@
     "description": "A worn, black-and-white tintype portrait of a weathered singer in a denim vest holding an acoustic guitar with a cracked finish, standing outside an overgrown Appalachian chapel.",
     "duration": "2:46",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40400/203528-case-arnold-starting-over-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Case_Arnold_Starting_Over_lead_vocal_2_46.mp3&token=1790774757_c68e4a477a0a6248c8faacc34117e2c405b776232793074f88ff1057a5cf2dc0",
-    "cover": "assets/covers/set2-26-tennessee-driftwood.svg"
+    "cover": "assets/covers/set2-26-tennessee-driftwood.jpg"
   },
   {
     "id": "set2-27-scarlett-rae",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Scarlett Rae \u2014 Alive At Zero",
+    "title": "Scarlett Rae — Alive At Zero",
     "artist": "Scarlett Rae",
     "album": "Cotton Candy Rodeo",
     "year": "2014",
@@ -1229,12 +1229,12 @@
     "description": "A radiant golden-hour shot of the singer in turquoise cowboy boots and a fringed denim jacket, sitting on the tailgate of a pink vintage Ford pickup in a sprawling Kansas wheatfield.",
     "duration": "2:11",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40469/204602-neurostrike-alive-at-zero-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neurostrike_Alive_At_Zero_background_vocals_2_11.mp3&token=1790728170_af2b726bdeea7e2ac0a3cd2d34fb6133919b91a2d77bf180bb4f5d9c13cab91a",
-    "cover": "assets/covers/set2-27-scarlett-rae.svg"
+    "cover": "assets/covers/set2-27-scarlett-rae.jpg"
   },
   {
     "id": "set2-28-wildflower-bluegrass",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Wildflower Bluegrass \u2014 Hearing Voices",
+    "title": "Wildflower Bluegrass — Hearing Voices",
     "artist": "Wildflower Bluegrass",
     "album": "Smoky Mountain Mist",
     "year": "2016",
@@ -1245,12 +1245,12 @@
     "description": "A crisp, natural-light photo of a polished maple fiddle resting among wild mountain laurel flowers on a moss-covered log in the Great Smoky Mountains, with delicate engraved script.",
     "duration": "2:47",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40449/204356-james-wolf-burkholder-hearing-voices-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_James_Wolf_Burkholder_Hearing_Voices_background_vocals_2_47.mp3&token=1790800285_32390dc5495b1b20d96970ee879f4db8b6111cd80a7af3da34cdbbf542d354c6",
-    "cover": "assets/covers/set2-28-wildflower-bluegrass.svg"
+    "cover": "assets/covers/set2-28-wildflower-bluegrass.jpg"
   },
   {
     "id": "set2-29-canyon-sunset",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Canyon Sunset \u2014 We Were Made For This",
+    "title": "Canyon Sunset — We Were Made For This",
     "artist": "Canyon Sunset",
     "album": "Sedona Highways",
     "year": "2017",
@@ -1261,12 +1261,12 @@
     "description": "A warm, sun-drenched landscape photograph of red sandstone buttes in Sedona glowing under a brilliant magenta and amber sunset, overlaid with vintage Western hand-drawn typography.",
     "duration": "3:17",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40378/139986-alsever-lake-we-were-made-for-this-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Alsever_Lake_We_Were_Made_For_This_instrumental_3_17.mp3&token=1790728166_1331613424a8ba9e6e25ae1779e663ee44aa7050ba4b6e9a1361cad60c9e35fa",
-    "cover": "assets/covers/set2-29-canyon-sunset.svg"
+    "cover": "assets/covers/set2-29-canyon-sunset.jpg"
   },
   {
     "id": "set2-30-red-dirt-revival",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Red Dirt Revival \u2014 Not So Gone",
+    "title": "Red Dirt Revival — Not So Gone",
     "artist": "Red Dirt Revival",
     "album": "Dust & Gasoline",
     "year": "2013",
@@ -1277,12 +1277,12 @@
     "description": "A beat-up leather steering wheel framed against a dusty Oklahoma highway extending into an endless red-dirt horizon, with a faded roadside billboard in the distance.",
     "duration": "3:22",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40436/204058-analog-notes-not-so-gone-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Analog_Notes_Not_So_Gone_lead_vocal_3_22.mp3&token=1790728169_d230a8d03f3546561c23f9c669a444824778793df0550089ad3414f9ed65d329",
-    "cover": "assets/covers/set2-30-red-dirt-revival.svg"
+    "cover": "assets/covers/set2-30-red-dirt-revival.jpg"
   },
   {
     "id": "set2-31-colossus-brass",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Colossus Brass \u2014 Fields of Light",
+    "title": "Colossus Brass — Fields of Light",
     "artist": "Colossus Brass",
     "album": "Spiritual Ascent",
     "year": "2015",
@@ -1293,12 +1293,12 @@
     "description": "A double-exposure portrait of a tenor saxophonist silhouetted against a brilliant solar flare, blending brass horn curves with astronomical sunspots, framed in deep burnished bronze lettering.",
     "duration": "2:54",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40444/204276-reveille-fields-of-light-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Fields_of_Light_instrumental_2_54.mp3&token=1790786312_eeffa13ff56ce16674b0530e00b2eee2ffcd4ee3e7ebcfe8ee1fd41a8a93fdcd",
-    "cover": "assets/covers/set2-31-colossus-brass.svg"
+    "cover": "assets/covers/set2-31-colossus-brass.jpg"
   },
   {
     "id": "set2-32-nu-bop-orbit",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Nu-Bop Orbit \u2014 Skin",
+    "title": "Nu-Bop Orbit — Skin",
     "artist": "Nu-Bop Orbit",
     "album": "Subterranean Bop",
     "year": "2017",
@@ -1309,12 +1309,12 @@
     "description": "A dynamic flash photograph of a sweat-drenched drummer and trumpet player locked in intense improvisation in a cramped, graffiti-covered London basement jazz club.",
     "duration": "2:27",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40521/205465-midnight-daydream-skin-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Midnight_Daydream_Skin_lead_vocal_2_27.mp3&token=1790806107_d81b506609a7fd672e7f70a518ecba7ca6a443fdc82522db5fbee27df821e313",
-    "cover": "assets/covers/set2-32-nu-bop-orbit.svg"
+    "cover": "assets/covers/set2-32-nu-bop-orbit.jpg"
   },
   {
     "id": "set2-33-electric-chameleon",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Electric Chameleon \u2014 Trenches",
+    "title": "Electric Chameleon — Trenches",
     "artist": "Electric Chameleon",
     "album": "Rhodes & Funk",
     "year": "2016",
@@ -1325,12 +1325,12 @@
     "description": "A colorful psychedelic illustration of a kaleidoscopic chameleon playing a Fender Rhodes keyboard in a futuristic jungle of glowing neon ferns and floating synths.",
     "duration": "2:16",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40478/204757-cody-martin-trenches-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Trenches_instrumental_2_16.mp3&token=1790800118_0a58a1313b25b52aaaa371f6357b8e059cd8681349ca2c1865f7c25462d6da95",
-    "cover": "assets/covers/set2-33-electric-chameleon.svg"
+    "cover": "assets/covers/set2-33-electric-chameleon.jpg"
   },
   {
     "id": "set2-34-lady-sings-the-blues",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Lady Sings the Blues \u2014 Burnin",
+    "title": "Lady Sings the Blues — Burnin",
     "artist": "Lady Sings the Blues",
     "album": "Harlem Moonlight",
     "year": "2014",
@@ -1341,12 +1341,12 @@
     "description": "A rich, velvety sepia close-up of a jazz vocalist in a satin turban and pearl drop earrings singing into a vintage Shure 55S microphone, bathed in a single spotlight beam.",
     "duration": "2:02",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40537/205691-midnight-daydream-burnin-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Midnight_Daydream_Burnin_background_vocals_2_02.mp3&token=1790810641_921096447128bf0c72068a1aecca8ef6fc1e0a49e3a534a6ec225d93c32d7202",
-    "cover": "assets/covers/set2-34-lady-sings-the-blues.svg"
+    "cover": "assets/covers/set2-34-lady-sings-the-blues.jpg"
   },
   {
     "id": "set2-35-low-end-theory-quartet",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Low-End Theory Quartet \u2014 Life In The Morning Light",
+    "title": "Low-End Theory Quartet — Life In The Morning Light",
     "artist": "Low-End Theory Quartet",
     "album": "Crate Digger Chronicles",
     "year": "2018",
@@ -1357,12 +1357,12 @@
     "description": "A moody overhead shot of a dusty vinyl crate, an MPC 2000XL drum machine, and a glass of bourbon resting on a worn Persian rug in an analog recording studio.",
     "duration": "2:13",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40453/204380-moments-life-in-the-morning-light-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Moments_Life_In_The_Morning_Light_instrumental_2_13.mp3&token=1790792753_3f4e7d53ccc9323e4ed57b0e6e171ad20c4aa352ecd69846ff3853c7ec91b15b",
-    "cover": "assets/covers/set2-35-low-end-theory-quartet.svg"
+    "cover": "assets/covers/set2-35-low-end-theory-quartet.jpg"
   },
   {
     "id": "set2-36-black-cathedral",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Black Cathedral \u2014 Among The Stars",
+    "title": "Black Cathedral — Among The Stars",
     "artist": "Black Cathedral",
     "album": "Hymns of the Eclipse",
     "year": "2015",
@@ -1373,12 +1373,12 @@
     "description": "An imposing Gothic cathedral silhouette carved into a jagged basalt cliffside against a blood-red moon, with gargoyles weeping molten wax and medieval Blackletter typography.",
     "duration": "3:32",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40414/203742-nom-fabrique-among-the-stars-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Nom_Fabrique_Among_The_Stars_lead_vocal_3_32.mp3&token=1790728194_c3d67f50389212207c3775dcd0ceadca7f5bf9b24d2a8485e01f412b7a8d345c",
-    "cover": "assets/covers/set2-36-black-cathedral.svg"
+    "cover": "assets/covers/set2-36-black-cathedral.jpg"
   },
   {
     "id": "set2-37-magma-core",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Magma Core \u2014 Brookside",
+    "title": "Magma Core — Brookside",
     "artist": "Magma Core",
     "album": "Tectonic Fury",
     "year": "2016",
@@ -1389,12 +1389,12 @@
     "description": "A hyper-detailed 3D digital cross-section of the Earth's crust cracking open to reveal a blazing core of intricate mechanical gears and liquid gold lava.",
     "duration": "2:37",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40443/204272-reveille-brookside-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Brookside_instrumental_2_37.mp3&token=1790808405_f43f1a5223b9a7d4e8c132f2f94ba5e3ffac45968137398018255110d7d4feb9",
-    "cover": "assets/covers/set2-37-magma-core.svg"
+    "cover": "assets/covers/set2-37-magma-core.jpg"
   },
   {
     "id": "set2-38-ethereal-void",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Ethereal Void \u2014 Follow The Leader (ft. Daisha McBride)",
+    "title": "Ethereal Void — Follow The Leader (ft. Daisha McBride)",
     "artist": "Ethereal Void",
     "album": "Shoegaze & Shivers",
     "year": "2014",
@@ -1405,12 +1405,12 @@
     "description": "A soft-focus, dreamlike photograph of a snowy Nordic birch forest bathed in delicate morning lilac and peach mist, contrasted by an unreadable spiky band logo in shimmering silver foil.",
     "duration": "2:07",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40495/205044-kyle-jefferson-follow-the-leader-ft-daisha-mcbride-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Kyle_Jefferson_Follow_The_Leader_ft_Daisha_McBride_lead_vocal_2_07.mp3&token=1790800660_874d602381f467406279434e5266b6ad8f40159dd5e964a1965b6c4815dbd389",
-    "cover": "assets/covers/set2-38-ethereal-void.svg"
+    "cover": "assets/covers/set2-38-ethereal-void.jpg"
   },
   {
     "id": "set2-39-winter-throne",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Winter Throne \u2014 Underdark",
+    "title": "Winter Throne — Underdark",
     "artist": "Winter Throne",
     "album": "Frozen Sepulcher",
     "year": "2012",
@@ -1421,12 +1421,12 @@
     "description": "A grainy black-and-white photograph of a lone medieval warrior in spiked chainmail kneeling in knee-deep snow before a colossal frozen waterfall, framed by ancient Norse runes.",
     "duration": "2:46",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40524/205580-cody-martin-underdark-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Underdark_instrumental_2_46.mp3&token=1790811235_104e8d9f603c1e683425049532fdadffa2ac992be9ecf2e421a3af5bfddc36e6",
-    "cover": "assets/covers/set2-39-winter-throne.svg"
+    "cover": "assets/covers/set2-39-winter-throne.jpg"
   },
   {
     "id": "set2-40-silicon-chainsaw",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Silicon Chainsaw \u2014 Convincing",
+    "title": "Silicon Chainsaw — Convincing",
     "artist": "Silicon Chainsaw",
     "album": "Cybernetica",
     "year": "2013",
@@ -1437,12 +1437,12 @@
     "description": "A gleaming chrome biomechanical skull intertwined with hydraulic hoses and glowing red laser diodes, stamped with an industrial barcode and warning labels.",
     "duration": "2:04",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40343/139726-wayfair-convincing-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Wayfair_Convincing_instrumental_2_04.mp3&token=1790728165_108e98fb481979dfc6a552813a75fac384815a92f19dbae23fd4a57889e39b49",
-    "cover": "assets/covers/set2-40-silicon-chainsaw.svg"
+    "cover": "assets/covers/set2-40-silicon-chainsaw.jpg"
   },
   {
     "id": "set2-41-the-wandering-bard",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "The Wandering Bard \u2014 Floating",
+    "title": "The Wandering Bard — Floating",
     "artist": "The Wandering Bard",
     "album": "Songs from the Fire Escape",
     "year": "2015",
@@ -1453,12 +1453,12 @@
     "description": "A black-and-white photograph of a young singer with an acoustic guitar sitting on an iron fire escape above a rainy New York City avenue, with handwritten lyrics scrawled along the brick wall.",
     "duration": "2:35",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40427/204955-joie-grey-floating-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_JOIE_GREY_Floating_lead_vocal_2_35.mp3&token=1790728168_5a4335a950ceada86e75560dc75a637782cd693b10537876a1a4768c526d8c1c",
-    "cover": "assets/covers/set2-41-the-wandering-bard.svg"
+    "cover": "assets/covers/set2-41-the-wandering-bard.jpg"
   },
   {
     "id": "set2-42-cabin-in-the-pines",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Cabin in the Pines \u2014 Boomin",
+    "title": "Cabin in the Pines — Boomin",
     "artist": "Cabin in the Pines",
     "album": "Fireside Static",
     "year": "2013",
@@ -1469,12 +1469,12 @@
     "description": "A cozy, warm-toned photograph of an old reel-to-reel tape recorder spinning beside an open stone hearth in a cedar log cabin, with light snow falling outside the window.",
     "duration": "2:30",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40470/204609-neon-beach-boomin-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Neon_Beach_Boomin_instrumental_2_30.mp3&token=1790728170_c18e783a9b9650bad208ad3a5d7c7e7936b3506f9a0e7a1063c7f4e5e47c925e",
-    "cover": "assets/covers/set2-42-cabin-in-the-pines.svg"
+    "cover": "assets/covers/set2-42-cabin-in-the-pines.jpg"
   },
   {
     "id": "set2-43-silver---pine",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Silver & Pine \u2014 Forward Motion",
+    "title": "Silver & Pine — Forward Motion",
     "artist": "Silver & Pine",
     "album": "Autumn Hymns",
     "year": "2016",
@@ -1485,12 +1485,12 @@
     "description": "A beautiful golden-hour portrait of a man and woman in hand-knit wool sweaters and tweed trousers sitting on a split-rail fence in Vermont, surrounded by blazing orange maples.",
     "duration": "3:01",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40482/204773-reveille-forward-motion-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Forward_Motion_instrumental_3_01.mp3&token=1790814503_ff008e81336344391d551bf769dd11fb1283474e0df68e62bbee3d6c2c97631c",
-    "cover": "assets/covers/set2-43-silver---pine.svg"
+    "cover": "assets/covers/set2-43-silver-and-pine.jpg"
   },
   {
     "id": "set2-44-porchlight-hymns",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Porchlight Hymns \u2014 Find Your Why",
+    "title": "Porchlight Hymns — Find Your Why",
     "artist": "Porchlight Hymns",
     "album": "Banjo & Stomp",
     "year": "2012",
@@ -1501,12 +1501,12 @@
     "description": "A rustic close-up of worn work boots tapping on weathered wooden porch planks beside a scarred open-back banjo and an overturned washboard.",
     "duration": "1:48",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40364/139858-cody-martin-find-your-why-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Cody_Martin_Find_Your_Why_instrumental_1_48.mp3&token=1790812061_c0a1d3ca6e2c77143cdcd28e30326b5720b7c64c2f4cfab2f1081275c9c694c9",
-    "cover": "assets/covers/set2-44-porchlight-hymns.svg"
+    "cover": "assets/covers/set2-44-porchlight-hymns.jpg"
   },
   {
     "id": "set2-45-the-celtic-hearth",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "The Celtic Hearth \u2014 Weekend Things",
+    "title": "The Celtic Hearth — Weekend Things",
     "artist": "The Celtic Hearth",
     "album": "Across the Irish Sea",
     "year": "2014",
@@ -1517,14 +1517,14 @@
     "description": "A rich, atmospheric painting of a stone cottage interior in Connemara at dusk, with an Irish uilleann pipe and tin whistle resting on a rough-hewn oak table beside a turf fire.",
     "duration": "3:07",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40569/206139-falls-weekend-things-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Falls_Weekend_Things_instrumental_3_07.mp3&token=1790808823_943e62268de7221a8ee3b32ad541eeab8065d7200d57c803c91ee47066c798c9",
-    "cover": "assets/covers/set2-45-the-celtic-hearth.svg"
+    "cover": "assets/covers/set2-45-the-celtic-hearth.jpg"
   },
   {
     "id": "set2-46-fuego-flamenco",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Fuego Flamenco \u2014 Other Worldly",
+    "title": "Fuego Flamenco — Other Worldly",
     "artist": "Fuego Flamenco",
-    "album": "Pasi\u00f3n de Sevilla",
+    "album": "Pasión de Sevilla",
     "year": "2017",
     "genre": "Latin and Global",
     "subgenre": "Modern Flamenco-Pop",
@@ -1533,12 +1533,12 @@
     "description": "A dramatic motion-blur photograph of a flamenco dancer in a cascading scarlet ruffled gown spinning mid-clap, surrounded by swirling dust and dramatic golden stage lights.",
     "duration": "3:15",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40548/205886-falls-other-worldly-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Falls_Other_Worldly_instrumental_3_15.mp3&token=1790810624_16a387063ed65cdf740cc967fefcae30eb451cb725c8b5553ef2f38d4e29b605",
-    "cover": "assets/covers/set2-46-fuego-flamenco.svg"
+    "cover": "assets/covers/set2-46-fuego-flamenco.jpg"
   },
   {
     "id": "set2-47-trap-tropical",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Trap Tropical \u2014 Out Of Body",
+    "title": "Trap Tropical — Out Of Body",
     "artist": "Trap Tropical",
     "album": "San Juan Nights",
     "year": "2018",
@@ -1549,13 +1549,13 @@
     "description": "A vibrant neon-lit street scene in Old San Juan at midnight, featuring a custom matte-purple vintage muscle car under glowing palm trees with fluorescent graffiti lettering.",
     "duration": "3:06",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40483/204777-reveille-out-of-body-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Out_Of_Body_instrumental_3_06.mp3&token=1790795563_fdb209ca51cb4b20c48acb0cc80af47a3609a736e73a0d89f22a8099436dc0ba",
-    "cover": "assets/covers/set2-47-trap-tropical.svg"
+    "cover": "assets/covers/set2-47-trap-tropical.jpg"
   },
   {
-    "id": "set2-48-coraz\u00f3n-de-seda",
+    "id": "set2-48-corazón-de-seda",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Coraz\u00f3n de Seda \u2014 Digital Exploration",
-    "artist": "Coraz\u00f3n de Seda",
+    "title": "Corazón de Seda — Digital Exploration",
+    "artist": "Corazón de Seda",
     "album": "Bossa Nueva",
     "year": "2015",
     "genre": "Latin and Global",
@@ -1565,12 +1565,12 @@
     "description": "A breezy, sun-dappled photograph of a terrace overlooking Ipanema Beach in Rio de Janeiro, with an acoustic guitar, tropical hibiscus flowers, and sea breeze catching sheer white curtains.",
     "duration": "2:24",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40504/205178-reveille-digital-exploration-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Reveille_Digital_Exploration_instrumental_2_24.mp3&token=1790811885_b3e744d0c1da527098df716483387d5ed030ac74d40578ae5d596ded36278ddc",
-    "cover": "assets/covers/set2-48-coraz\u00f3n-de-seda.svg"
+    "cover": "assets/covers/set2-48-coraz-n-de-seda.jpg"
   },
   {
     "id": "set2-49-el-mariachi-dorado",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "El Mariachi Dorado \u2014 Cherry Soda Sunshine",
+    "title": "El Mariachi Dorado — Cherry Soda Sunshine",
     "artist": "El Mariachi Dorado",
     "album": "Guitarras y Sombras",
     "year": "2016",
@@ -1578,17 +1578,17 @@
     "subgenre": "Traditional & Neo-Mariachi",
     "bpm": 125,
     "mood": "Fun, Happy, Quirky",
-    "description": "A regal portrait of five mariachi musicians in black velvet suits heavily embroidered with gold Aztec suns, raising their vihuelas and guitarr\u00f3n under the arches of a Guadalajara hacienda.",
+    "description": "A regal portrait of five mariachi musicians in black velvet suits heavily embroidered with gold Aztec suns, raising their vihuelas and guitarrón under the arches of a Guadalajara hacienda.",
     "duration": "1:50",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40353/139790-strength-to-last-cherry-soda-sunshine-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Strength_To_Last_Cherry_Soda_Sunshine_background_vocals_1_50.mp3&token=1790815619_bfb951c7acc5c2fe15b0a8134d9021a4a5b72e5450d97ec7b95f923b3951a3df",
-    "cover": "assets/covers/set2-49-el-mariachi-dorado.svg"
+    "cover": "assets/covers/set2-49-el-mariachi-dorado.jpg"
   },
   {
     "id": "set2-50-ritmo-global",
     "set": "Set 2 (Brand New 2010s Originals)",
-    "title": "Ritmo Global \u2014 Limbo",
+    "title": "Ritmo Global — Limbo",
     "artist": "Ritmo Global",
-    "album": "Carnaval Electr\u00f3nico",
+    "album": "Carnaval Electrónico",
     "year": "2018",
     "genre": "Latin and Global",
     "subgenre": "Global Moombahton / Reggaeton",
@@ -1597,6 +1597,6 @@
     "description": "An explosion of colorful confetti, neon smoke plumes, and dancers in feathered carnival headdresses dancing before a colossal Mayan temple stage bathed in rainbow strobe lights.",
     "duration": "2:25",
     "src": "https://cdn.soundstripe.com/catalog/v1/soundstripe/released/primary/40488/204902-hannah-miller-limbo-watermarked.mp3?key=a5846e5a-41fc-4367-8b38-93d6eebe7744&response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27watermarked_Hannah_Miller_Limbo_lead_vocal_2_25.mp3&token=1790729603_bfa5bc3cc4dd129688301ef2866905ad62560ef3435742000c332eba90865433",
-    "cover": "assets/covers/set2-50-ritmo-global.svg"
+    "cover": "assets/covers/set2-50-ritmo-global.jpg"
   }
 ]
