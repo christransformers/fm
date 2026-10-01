@@ -1,0 +1,65 @@
+/* Fuse Frequency — Taste DNA panel + Night Drive overlay */
+.freq-toggle{border:1px solid var(--line);background:transparent;color:var(--text);font-size:10px;font-weight:800;letter-spacing:.12em;padding:8px 12px;display:inline-flex;align-items:center;gap:8px}
+.freq-toggle:hover,.freq-toggle.active{border-color:var(--gold);color:var(--gold)}
+.freq-toggle .freq-dot{width:7px;height:7px;border-radius:50%;background:var(--muted)}
+.freq-toggle.active .freq-dot,.night-drive-on .freq-toggle .freq-dot{background:var(--gold);animation:breathe 1.8s infinite}
+
+.freq-panel{position:fixed;top:0;right:0;z-index:35;width:min(420px,100vw);height:calc(100vh - var(--player));background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(16px);border-left:1px solid var(--line);transform:translateX(104%);transition:transform .35s cubic-bezier(.2,.8,.2,1);display:flex;flex-direction:column;padding:28px 24px 24px;overflow:auto}
+.freq-panel.open{transform:none}
+.freq-panel-head{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:18px}
+.freq-panel-head h2{font:800 clamp(34px,5vw,44px) Manrope,sans-serif;letter-spacing:-.06em;margin:8px 0 0;line-height:0.95}
+.freq-panel-head h2 em{font-style:normal;color:var(--gold)}
+.freq-close{border:0;background:none;color:var(--text);font-size:28px;line-height:1;padding:4px 8px}
+.freq-close:hover{color:var(--gold)}
+.freq-disclosure{font-size:12px;line-height:1.55;color:var(--muted);margin:0 0 22px}
+.freq-radar-wrap{display:grid;place-items:center;background:var(--surface);border:1px solid var(--line);padding:18px 10px 8px;margin-bottom:18px}
+#freqRadar{width:240px;height:240px;overflow:visible}
+#freqRadar .freq-ring{fill:none;stroke:var(--line);stroke-width:1}
+#freqRadar .freq-spoke{stroke:var(--line);stroke-width:1}
+#freqRadar .freq-shape{fill:color-mix(in srgb,var(--gold) 32%,transparent);stroke:var(--gold);stroke-width:2}
+#freqRadar .freq-core{fill:var(--acid)}
+#freqRadar .freq-label{fill:var(--muted);font:800 9px 'DM Sans',sans-serif;letter-spacing:.08em;text-anchor:middle;dominant-baseline:middle;text-transform:uppercase}
+
+.freq-stat-row{display:grid;gap:10px;margin-bottom:18px}
+.freq-stat{border-top:1px solid var(--line);padding-top:10px}
+.freq-stat span{display:block;font-size:10px;font-weight:800;letter-spacing:.12em;color:var(--gold);margin-bottom:6px}
+.freq-stat strong{font:700 14px 'DM Sans',sans-serif;color:var(--text);line-height:1.45}
+
+.freq-meters{display:grid;gap:8px;margin-bottom:22px}
+.freq-meter{display:grid;grid-template-columns:64px 1fr 36px;align-items:center;gap:10px;font-size:11px;font-weight:700}
+.freq-meter span{color:var(--muted);letter-spacing:.06em}
+.freq-meter em{font-style:normal;color:var(--gold);text-align:right;font-variant-numeric:tabular-nums}
+.freq-meter-bar{height:6px;background:var(--surface2);border:1px solid var(--line);overflow:hidden}
+.freq-meter-bar i{display:block;height:100%;background:linear-gradient(90deg,var(--acid),var(--gold));width:0;transition:width .35s ease}
+
+.freq-actions{display:grid;gap:10px;margin-top:auto}
+.freq-actions .button-primary,.freq-actions .button-outline{width:100%;justify-content:center}
+.freq-actions .text-button{justify-self:start;margin-top:4px}
+
+.hero-actions .button-night{border-color:var(--acid);color:var(--acid)}
+.hero-actions .button-night:hover,.hero-actions .button-night.active{background:var(--acid);color:var(--ink);border-color:var(--acid)}
+
+.night-drive-overlay{position:fixed;inset:0 var(--sidebar) var(--player) 0;z-index:25;pointer-events:none;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4vw 28px;background:linear-gradient(180deg,transparent 35%,color-mix(in srgb,var(--bg) 88%,transparent) 100%)}
+.night-drive-overlay[hidden]{display:none!important}
+.night-drive-card{pointer-events:auto;max-width:520px;background:color-mix(in srgb,var(--surface) 90%,transparent);border:1px solid var(--gold);backdrop-filter:blur(12px);padding:22px 24px;box-shadow:0 20px 60px #0005}
+.night-drive-card .eyebrow{color:var(--gold);margin:0 0 8px}
+.night-drive-card h3{font:800 28px Manrope,sans-serif;letter-spacing:-.05em;margin:0 0 8px}
+.night-drive-card p{margin:0;color:var(--muted);font-size:13px;line-height:1.5}
+.night-drive-card .night-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.night-drive-card .night-actions button{pointer-events:auto}
+
+.player-freq-chip{display:none;align-items:center;gap:8px;font-size:9px;font-weight:800;letter-spacing:.1em;color:var(--gold);border:1px solid var(--gold);padding:6px 10px;white-space:nowrap}
+.night-drive-on .player-freq-chip{display:inline-flex}
+.player-freq-chip i{width:6px;height:6px;border-radius:50%;background:var(--gold);animation:breathe 1.8s infinite}
+
+body.freq-panel-open{overflow:hidden}
+@media(max-width:760px){
+  .freq-panel{width:100vw;height:calc(100vh - var(--player) - 56px);border-left:0;border-bottom:1px solid var(--line)}
+  .night-drive-overlay{inset:0 0 calc(var(--player) + 56px) 0;padding:0 5vw 20px}
+  .top-actions .freq-toggle span.hide-narrow{display:none}
+  .night-drive-card{max-width:none;width:100%}
+}
+@media(prefers-reduced-motion:reduce){
+  .freq-panel{transition:none}
+  .freq-toggle .freq-dot,.player-freq-chip i{animation:none}
+}
