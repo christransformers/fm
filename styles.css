@@ -47,3 +47,345 @@
 @media(max-width:1100px){.top-actions .mobile-about{display:inline}}
 @media(max-width:760px){.sidebar nav{display:flex;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none}.sidebar nav::-webkit-scrollbar{display:none}.sidebar nav a{flex:0 0 82px;white-space:nowrap!important}.library-tools{padding-left:5vw;padding-right:5vw}.player-extra>button{display:inline-flex}.global-notice{bottom:calc(var(--player) + 68px)}.playlist-head>div{justify-content:flex-start}.item-actions{min-width:64px}}
 @media(max-width:460px){.card .row{flex-wrap:wrap}.card .row .primary{flex-basis:55%}.card .row button{flex:1}.artist-result{align-items:flex-start;flex-wrap:wrap}.artist-result .result-link{margin-left:68px}}
+
+/* --- Advanced Features & Refinements --- */
+.hero-visualizer{position:absolute;width:min(44vw,520px);height:min(44vw,520px);pointer-events:none;z-index:1;opacity:.88;transition:opacity .5s ease}
+.shelf-subfilters{display:flex;flex-wrap:wrap;gap:16px 28px;padding:0 4vw 26px;align-items:center;border-bottom:1px solid var(--line);margin-bottom:28px}
+.filter-group{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.subfilter-label{font-size:9px;font-weight:800;letter-spacing:.12em;color:var(--gold)}
+.subfilter-pills{display:flex;gap:6px;flex-wrap:wrap}
+.filter-pill.pill-sm{padding:5px 12px;font-size:10px;border-radius:18px}
+.queue-actions{display:flex;gap:14px}
+.queue-stats{padding:10px 4vw;color:var(--gold);font-size:11px;font-weight:800;letter-spacing:.08em;background:color-mix(in srgb,var(--surface),var(--gold) 4%);border-bottom:1px solid var(--line)}
+.item.draggable{cursor:grab}
+.item.drag-over{border-top:2px solid var(--gold);background:color-mix(in srgb,var(--gold),transparent 92%)}
+.seek-wrap{position:relative;flex:1;display:flex;align-items:center}
+.seek-wrap input{width:100%}
+.seek-tooltip{position:absolute;bottom:calc(100% + 10px);left:0;transform:translateX(-50%);background:var(--ink);color:var(--gold);border:1px solid var(--gold);font-size:10px;font-weight:800;padding:3px 7px;border-radius:2px;pointer-events:none;opacity:0;transition:opacity .15s ease;font-variant-numeric:tabular-nums;white-space:nowrap;box-shadow:0 4px 12px #0004}
+.seek-tooltip.show{opacity:1}
+.skip-btn{font-size:11px!important;font-weight:800;letter-spacing:.04em;padding:4px 6px!important;color:var(--muted)!important}
+.skip-btn:hover{color:var(--gold)!important}
+.speed-button{background:none;border:1px solid var(--line);color:var(--gold);font-size:10px;font-weight:800;padding:5px 8px;border-radius:2px;transition:border-color .2s,color .2s}
+.speed-button:hover{border-color:var(--gold)}
+.like-button{background:none;border:0;color:var(--muted);font-size:17px;cursor:pointer;padding:4px 6px;line-height:1}
+.like-button.liked{color:var(--gold)!important}
+.now-cover-wrap{position:relative;width:66px;height:66px;flex-shrink:0}
+.now-cover-wrap img{width:100%;height:100%;object-fit:cover}
+.now-info-overlay{position:absolute;top:2px;right:2px;width:20px;height:20px;background:rgba(17,19,15,.88);color:var(--gold);border:1px solid var(--gold);border-radius:50%;font-size:11px;font-weight:800;display:grid;place-items:center;cursor:pointer;opacity:0;transition:opacity .2s;padding:0}
+.now-cover-wrap:hover .now-info-overlay,.now-info-overlay:focus-visible{opacity:1}
+.track-info-dialog{width:min(680px,94vw);max-height:90vh;overflow-y:auto;padding:28px}
+.track-info-layout{display:grid;grid-template-columns:190px minmax(0,1fr);gap:24px;align-items:start;margin-top:14px}
+.track-info-media img{width:100%;aspect-ratio:1;object-fit:cover;border:1px solid var(--line);background:var(--surface2)}
+.track-info-badges{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
+.track-info-badges .badge{font-size:9px;font-weight:800;letter-spacing:.05em;background:var(--surface2);border:1px solid var(--line);padding:3px 7px;color:var(--muted)}
+.track-info-details h2{font:800 clamp(22px,2.8vw,30px)/1.1 Manrope,Arial,sans-serif;letter-spacing:-.04em;margin:4px 0 6px}
+.info-artist-album{color:var(--gold);font-size:13px;font-weight:700;margin-bottom:6px}
+.info-mood{color:var(--muted);font-size:12px;margin-bottom:14px}
+.info-block{margin:16px 0;border-top:1px solid var(--line);padding-top:12px}
+.info-block h3{font-size:10px;font-weight:800;letter-spacing:.12em;color:var(--gold);margin-bottom:6px}
+.info-block p{font-size:13px;line-height:1.6;color:var(--text);margin:0}
+.prompt-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.copy-prompt-btn{font-size:9px!important;padding:5px 10px!important;min-height:auto!important;gap:6px!important}
+.prompt-code{background:var(--bg);border:1px solid var(--line);padding:12px;color:var(--acid);font-family:monospace;font-size:11px;line-height:1.55;white-space:pre-wrap;word-break:break-word;margin:0;border-radius:2px}
+.info-actions{margin-top:22px;display:flex;gap:8px;flex-wrap:wrap}
+.history-actions{display:flex;gap:12px}
+.item-time{font-size:10px;color:var(--muted);font-weight:600;white-space:nowrap;margin-left:auto;padding-right:12px}
+.share-set-btn{background:none;border:1px solid var(--line);color:var(--gold);padding:9px;font-size:10px;font-weight:800;white-space:nowrap}
+.share-set-btn:hover{border-color:var(--gold)}
+
+/* Top Layer Dialog animations (Modern Web Guidance) */
+dialog[open]{opacity:1;transform:scale(1);@starting-style{opacity:0;transform:scale(.95)}}
+dialog{opacity:0;transform:scale(.95);transition-property:opacity,transform,display,overlay;transition-duration:.22s;transition-timing-function:cubic-bezier(.16,1,.3,1);transition-behavior:allow-discrete}
+dialog::backdrop{background-color:rgba(0,0,0,0);transition:display .22s allow-discrete,overlay .22s allow-discrete,background-color .22s ease-out}
+dialog[open]::backdrop{background-color:rgba(0,0,0,.75);@starting-style{background-color:rgba(0,0,0,0)}}
+@media(prefers-reduced-motion:reduce){dialog{transform:none!important;transition-duration:.01ms!important}@starting-style{dialog[open]{transform:none!important}}::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}}
+@media(max-width:600px){.track-info-layout{grid-template-columns:1fr;gap:16px}.track-info-media{max-width:160px}.shelf-subfilters{padding-left:5vw;padding-right:5vw}}
+
+/* --- Cycle 1: Acoustic Engineering & Atmosphere (Features 11-20) --- */
+:root{--ambient-glow:rgba(244,185,66,0.06);--ambient-accent:#f4b942}
+.hero{background:radial-gradient(circle at 75% 50%,var(--ambient-glow),transparent 65%);transition:background 1.2s ease}
+.player{background:linear-gradient(to right,var(--surface),color-mix(in srgb,var(--surface) 90%,var(--ambient-glow) 10%));transition:background 1.2s ease}
+
+/* VU Peak Meter */
+.vu-meter{display:inline-flex;gap:3px;height:16px;align-items:flex-end;margin-left:6px;padding:2px;background:rgba(0,0,0,0.3);border:1px solid var(--line);border-radius:2px}
+.vu-channel{width:4px;height:12px;background:var(--surface2);display:flex;align-items:flex-end;border-radius:1px;overflow:hidden}
+.vu-fill{width:100%;height:0%;background:linear-gradient(to top,var(--acid),var(--gold));transition:height .08s ease}
+
+/* Interactive Waveform Canvas Progress */
+.seek-wrap{position:relative;flex:1;display:flex;align-items:center;height:26px;overflow:hidden;border-radius:2px}
+.waveform-canvas{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1;opacity:0.82}
+.seek-wrap input[type=range]{position:relative;z-index:2;width:100%;height:100%;opacity:0.25;margin:0;cursor:pointer;transition:opacity .2s}
+.seek-wrap input[type=range]:hover{opacity:0.45}
+
+/* Sound Shaping & EQ Dialog */
+.sound-dialog{width:min(620px,94vw);max-height:90vh;overflow-y:auto;padding:28px}
+.sleep-dialog{width:min(480px,92vw);padding:28px}
+.dialog-sub{color:var(--muted);font-size:13px;line-height:1.5;margin:-8px 0 22px}
+.sound-section{margin-bottom:24px;padding-bottom:20px;border-bottom:1px solid var(--line)}
+.sound-section:last-of-type{border-bottom:none;margin-bottom:10px}
+.sound-section h3{font-size:10px;font-weight:800;letter-spacing:.12em;color:var(--gold);margin-bottom:12px}
+.eq-presets{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:16px}
+.eq-presets .filter-pill.active{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+.eq-sliders{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.eq-band{background:var(--surface2);border:1px solid var(--line);padding:12px;border-radius:3px;display:grid;gap:8px}
+.eq-band-meta{display:flex;justify-content:space-between;font-size:10px;font-weight:800;color:var(--muted)}
+.eq-band-meta span:last-child{color:var(--gold)}
+.eq-band input[type=range]{width:100%}
+.toggle-wrap{display:flex;align-items:center;gap:10px;font-size:13px;font-weight:600;cursor:pointer;color:var(--text)}
+.toggle-wrap input[type=checkbox]{accent-color:var(--gold);width:16px;height:16px;cursor:pointer}
+.crackle-vol-wrap{display:flex;align-items:center;gap:12px;margin-top:14px}
+.crackle-vol-wrap input{flex:1}
+.crackle-vol-wrap span{font-size:10px;font-weight:800;color:var(--gold)}
+.crossfade-pills{display:flex;flex-wrap:wrap;gap:8px}
+.crossfade-pills .filter-pill.active{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+
+/* Sleep Timer */
+.sleep-options{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:20px 0}
+.sleep-btn{background:var(--surface2);border:1px solid var(--line);color:var(--text);padding:12px;font-size:11px;font-weight:800;letter-spacing:.08em;text-align:center;border-radius:3px;transition:all .2s;cursor:pointer}
+.sleep-btn:hover{border-color:var(--gold);color:var(--gold)}
+.sleep-btn.active{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+.sleep-status{font-size:11px;font-weight:800;color:var(--acid);letter-spacing:.08em;margin:12px 0 20px}
+.sound-button,.sleep-button{background:none;border:1px solid var(--line);color:var(--gold);font-size:10px;font-weight:800;padding:5px 8px;border-radius:2px;transition:all .2s;white-space:nowrap}
+.sound-button:hover,.sleep-button:hover{border-color:var(--gold);background:rgba(244,185,66,.08)}
+.sleep-button.active{background:var(--gold);color:var(--ink)}
+
+/* Recommendation Resonance Grid */
+.recs-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}
+.rec-card{display:flex;gap:10px;align-items:center;background:var(--surface2);border:1px solid var(--line);padding:8px;border-radius:2px;transition:border-color .2s}
+.rec-card:hover{border-color:var(--gold)}
+.rec-card img{width:46px;height:46px;object-fit:cover;border:1px solid var(--line)}
+.rec-card-info{flex:1;min-width:0}
+.rec-card-info h4{font:800 12px Manrope;margin:0 0 2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rec-card-info p{font-size:10px;color:var(--muted);margin:0 0 2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.rec-card-info span{font-size:9px;color:var(--gold);font-weight:700}
+.rec-card-actions{display:flex;gap:4px}
+.rec-card-actions button{background:none;border:1px solid var(--line);color:var(--gold);font-size:9px;font-weight:800;padding:5px 8px;cursor:pointer}
+.rec-card-actions button:hover{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+
+/* Mobile gestures & Mini-Player Touch cues */
+@media(max-width:760px){
+  .player{touch-action:pan-y;transition:transform .25s ease}
+  .player.swipe-hint{outline:2px solid var(--gold)}
+  .recs-grid{grid-template-columns:1fr}
+  .eq-sliders{grid-template-columns:1fr}
+  .sleep-options{grid-template-columns:1fr}
+}
+
+/* --- Cycle 2: Curation & Generative Tools (Features 21-30) --- */
+
+/* Feature 30: WCAG AAA High-Contrast Accessibility Mode */
+:root[data-contrast=high]{
+  --bg:#000000!important;
+  --surface:#000000!important;
+  --surface2:#121212!important;
+  --line:#ffffff!important;
+  --text:#ffffff!important;
+  --muted:#cccccc!important;
+  --gold:#ffff00!important;
+  --acid:#00ff66!important;
+  --ink:#000000!important;
+}
+:root[data-contrast=high] body{letter-spacing:.02em}
+:root[data-contrast=high] button,:root[data-contrast=high] a,:root[data-contrast=high] input{border-width:2px!important}
+:root[data-contrast=high] button:focus-visible,:root[data-contrast=high] a:focus-visible,:root[data-contrast=high] input:focus-visible{outline:3px solid #ffff00!important;outline-offset:3px}
+:root[data-contrast=high] .player{border-top:3px solid #ffff00!important;background:#000000!important}
+
+/* Feature 21: Curated Generative Radio Stations */
+.hero-stations{margin-top:22px;width:100%}
+.station-pills{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
+.station-pill{background:var(--surface2);border:1px solid var(--line);color:var(--gold);padding:7px 14px;border-radius:20px;font-size:10px;font-weight:800;letter-spacing:.06em;cursor:pointer;transition:all .2s ease}
+.station-pill:hover,.station-pill.active{background:var(--gold);color:var(--ink);border-color:var(--gold);transform:translateY(-1px)}
+
+/* Feature 22: Interactive Sonic Atlas */
+.atlas-section{border-top:1px solid var(--line);margin-top:35px}
+.atlas-container{position:relative;padding:0 4vw 40px}
+.atlas-container canvas{width:100%;height:auto;max-height:420px;background:var(--surface);border:1px solid var(--line);border-radius:3px;display:block;cursor:crosshair}
+.atlas-card{position:absolute;bottom:58px;right:calc(4vw + 24px);background:rgba(17,19,15,.94);border:1px solid var(--gold);padding:18px 22px;max-width:330px;border-radius:3px;backdrop-filter:blur(10px);box-shadow:0 8px 30px #0006}
+.atlas-card h3{font:800 17px Manrope;margin:4px 0 6px}
+.atlas-card p{font-size:11px;color:var(--muted);margin:0 0 12px;line-height:1.55}
+
+/* Feature 26: Vinyl Pitch Bend & Jog Nudge */
+.pitch-controls{background:var(--surface2);border:1px solid var(--line);padding:14px;border-radius:3px}
+.pitch-meta{display:flex;justify-content:space-between;font-size:10px;font-weight:800;color:var(--muted);margin-bottom:8px}
+.pitch-val{color:var(--gold);font-variant-numeric:tabular-nums}
+.pitch-slider-wrap{display:flex;align-items:center;gap:8px}
+.pitch-slider-wrap input{flex:1}
+.nudge-btn{background:none;border:1px solid var(--line);color:var(--gold);font-size:9px;font-weight:800;padding:6px 9px;white-space:nowrap;cursor:pointer;border-radius:2px}
+.nudge-btn:active{background:var(--gold);color:var(--ink)}
+
+/* Feature 28: Batch Operations Toolbar */
+.batch-bar{position:sticky;top:0;z-index:25;background:var(--gold);color:var(--ink);padding:10px 4vw;display:flex;justify-content:space-between;align-items:center;font-weight:800;font-size:11px;gap:12px;box-shadow:0 4px 16px #0003}
+.batch-actions{display:flex;gap:8px;flex-wrap:wrap}
+.batch-actions button{background:var(--ink);color:var(--gold);border:1px solid var(--ink);font-size:10px;font-weight:800;padding:6px 11px;cursor:pointer}
+.batch-actions button:hover{background:#2a2d24}
+.item-select{margin-right:8px;width:16px;height:16px;accent-color:var(--gold);cursor:pointer;flex-shrink:0}
+
+/* Feature 29: Listener Archive & Milestones */
+.stats-card{background:var(--surface);border:1px solid var(--line);margin:0 4vw 34px;padding:24px}
+.stats-head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:18px;gap:14px;flex-wrap:wrap}
+.stats-head h3{font:800 24px Manrope;margin:0}
+.cuts-counter{font-size:11px;font-weight:800;color:var(--gold);letter-spacing:.08em;background:var(--surface2);padding:6px 14px;border:1px solid var(--line);border-radius:2px}
+.milestones-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.milestone-badge{background:var(--surface2);border:1px solid var(--line);padding:14px;border-radius:3px;display:flex;flex-direction:column;align-items:center;text-align:center;gap:5px;opacity:.38;transition:all .3s ease}
+.milestone-badge.unlocked{opacity:1;border-color:var(--gold);box-shadow:0 0 16px rgba(244,185,66,.15)}
+.milestone-badge .badge-icon{font-size:24px}
+.milestone-badge strong{font-size:10px;font-weight:800;letter-spacing:.08em}
+.milestone-badge small{font-size:9px;color:var(--muted)}
+
+/* Feature 24: A/B Compare Dialog */
+.ab-dialog{width:min(660px,94vw);padding:28px}
+.ab-slots{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:22px 0}
+.ab-slot{background:var(--surface2);border:2px solid var(--line);padding:18px;border-radius:3px;transition:all .2s ease}
+.ab-slot.active{border-color:var(--gold);background:color-mix(in srgb,var(--surface2) 88%,var(--gold) 12%)}
+.ab-tag{font-size:9px;font-weight:800;color:var(--gold);letter-spacing:.12em;display:block;margin-bottom:8px}
+.ab-slot h4{font:800 16px Manrope;margin:0 0 4px}
+.ab-slot p{font-size:12px;color:var(--muted);margin:0 0 10px}
+.ab-slot select{width:100%;padding:9px;background:var(--bg);color:var(--text);border:1px solid var(--line);margin-bottom:8px;font-size:11px}
+.ab-actions{display:flex;flex-direction:column;align-items:center;gap:10px;margin:15px 0 25px}
+.ab-toggle-btn{min-width:240px;justify-content:center}
+.ab-status{font-size:11px;font-weight:800;color:var(--acid);letter-spacing:.08em}
+
+/* Feature 25: Smart Set Generator Dialog */
+.smart-set-dialog{width:min(600px,94vw);padding:28px}
+.smart-set-options{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:22px 0}
+.smart-option-btn{background:var(--surface2);border:1px solid var(--line);padding:18px;text-align:left;color:var(--text);cursor:pointer;border-radius:3px;transition:all .2s ease}
+.smart-option-btn:hover{border-color:var(--gold);transform:translateY(-2px)}
+.smart-option-btn strong{display:block;font:800 13px Manrope;margin-bottom:6px;color:var(--gold)}
+.smart-option-btn p{font-size:11px;color:var(--muted);margin:0;line-height:1.5}
+
+/* Feature 23: Liner Notes */
+.liner-notes-dialog{width:min(580px,94vw);padding:28px}
+.liner-notes-dialog textarea{width:100%;padding:14px;background:var(--bg);color:var(--text);border:1px solid var(--line);margin:10px 0 18px;font-family:inherit;font-size:13px;line-height:1.6;border-radius:2px}
+.liner-notes-box{padding:14px 20px;background:var(--surface2);border-top:1px solid var(--line);font-style:italic;font-size:12px;color:var(--muted);line-height:1.6;display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.liner-notes-box p{margin:0}
+
+@media(max-width:760px){
+  .milestones-grid{grid-template-columns:1fr 1fr}
+  .ab-slots{grid-template-columns:1fr}
+  .smart-set-options{grid-template-columns:1fr}
+  .atlas-card{position:static;max-width:100%;margin-top:14px}
+  .atlas-container{padding:0 5vw 30px}
+}
+
+/* Cycle 3 (Features 31-40) Styles */
+
+/* Feature 31: Spotlight Command Palette */
+.command-dialog{width:min(640px,94vw);padding:0;background:var(--surface);border:1px solid var(--line);box-shadow:0 16px 48px rgba(0,0,0,.6);overflow:hidden}
+.command-header{display:flex;align-items:center;padding:16px 20px;border-bottom:1px solid var(--line);gap:12px}
+.command-icon{font-size:18px;color:var(--gold);opacity:.85}
+.command-header input{flex:1;background:none;border:none;color:var(--text);font:700 16px Manrope;outline:none}
+.command-results{max-height:360px;overflow-y:auto;padding:8px}
+.command-item{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-radius:3px;cursor:pointer;transition:background .15s ease}
+.command-item:hover,.command-item.selected{background:var(--surface2)}
+.command-item-main{display:flex;align-items:center;gap:12px}
+.command-item-main img{width:32px;height:32px;object-fit:cover;border-radius:2px}
+.command-item-main strong{font-size:12px;display:block}
+.command-item-main small{font-size:10px;color:var(--muted)}
+.command-category{font-size:9px;font-weight:800;color:var(--gold);letter-spacing:.08em}
+.command-footer{display:flex;justify-content:space-between;padding:10px 20px;background:var(--surface2);border-top:1px solid var(--line);font-size:10px;color:var(--muted)}
+.command-footer kbd{background:var(--bg);border:1px solid var(--line);padding:2px 5px;border-radius:2px;font-size:9px;color:var(--gold)}
+
+/* Feature 32: Cinema Listening Room */
+.cinema-overlay{position:fixed;inset:0;z-index:900;background:#0d0f0b;display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden}
+.cinema-bg{position:absolute;inset:0;opacity:.28;background-size:cover;background-position:center;filter:blur(60px) saturate(1.8);transition:background-image 1s ease}
+.cinema-close-btn{position:absolute;top:24px;right:28px;z-index:10;background:rgba(0,0,0,.45);color:var(--text);border:1px solid var(--line);padding:8px 16px;font:800 11px Manrope;letter-spacing:.08em;cursor:pointer;border-radius:2px}
+.cinema-close-btn:hover{background:var(--gold);color:var(--ink);border-color:var(--gold)}
+.cinema-content{position:relative;z-index:5;display:flex;flex-direction:column;align-items:center;text-align:center;max-width:800px;width:92vw}
+.cinema-disc-wrap{margin-bottom:28px}
+.cinema-disc-wrap .disc{width:min(260px,50vw);height:min(260px,50vw);box-shadow:0 12px 48px rgba(0,0,0,.7)}
+.cinema-meta h2{font:800 clamp(24px,5vw,42px) Manrope;letter-spacing:-.03em;margin:8px 0 6px}
+.cinema-meta p{font-size:14px;color:var(--muted);margin:0 0 20px}
+.cinema-visualizer-wrap{width:100%;max-width:640px;height:70px;margin-bottom:24px}
+.cinema-visualizer-wrap canvas{width:100%;height:100%}
+.cinema-transport{display:flex;align-items:center;justify-content:center;gap:18px}
+.cinema-btn{background:none;border:1px solid var(--line);color:var(--text);padding:10px 18px;font-size:14px;cursor:pointer;border-radius:2px}
+.cinema-btn:hover{background:var(--surface2)}
+.cinema-play-btn{width:56px;height:56px;border-radius:50%;background:var(--gold);color:var(--ink);border:none;font-size:20px;cursor:pointer;display:grid;place-items:center;font-weight:900}
+.cinema-play-btn:hover{transform:scale(1.06)}
+
+/* Feature 36: Offline Cache Vault */
+.vault-dialog{width:min(580px,94vw);padding:28px}
+.vault-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:22px 0 16px}
+.vault-stat{background:var(--surface2);border:1px solid var(--line);padding:14px;text-align:center;border-radius:3px}
+.vault-num{font:800 20px Manrope;color:var(--gold);display:block;margin-bottom:4px}
+.vault-progress-bar{height:6px;background:var(--surface2);border-radius:3px;overflow:hidden;margin-bottom:12px}
+.vault-progress-fill{height:100%;width:0;background:var(--gold);transition:width .2s ease}
+.vault-msg{font-size:11px;color:var(--muted);margin:0 0 22px;line-height:1.5}
+.vault-actions{display:flex;gap:10px;flex-wrap:wrap}
+
+/* Feature 37: Printable J-Card & Vinyl Cue Sheet */
+.cue-card-dialog{width:min(720px,94vw);padding:28px;max-height:90vh;overflow-y:auto}
+.cue-card-print-area{background:#ffffff;color:#111111;padding:28px;margin:18px 0;border:1px solid #ddd;border-radius:3px;font-family:system-ui,-apple-system,sans-serif}
+.cue-card-jcard{display:flex;flex-direction:column;gap:14px;border:2px solid #000;padding:20px}
+.cue-jcard-spine{border-bottom:2px dashed #000;padding-bottom:10px;display:flex;justify-content:space-between;align-items:baseline}
+.cue-jcard-spine strong{font-size:16px;letter-spacing:.05em}
+.cue-jcard-tracks{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:11px}
+.cue-track-item{display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:3px 0}
+@media print{
+  body *{visibility:hidden}
+  #cueCardPrintArea,#cueCardPrintArea *{visibility:visible}
+  #cueCardPrintArea{position:absolute;left:0;top:0;width:100%;margin:0;padding:0;border:none}
+  .cue-card-dialog{position:static;border:none;box-shadow:none;padding:0;max-height:none}
+}
+
+/* Feature 38: Tape Studio Soundbed Drones */
+.soundbed-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:10px}
+.soundbed-item{background:var(--surface2);border:1px solid var(--line);padding:12px;border-radius:2px}
+.soundbed-item .toggle-wrap{margin-bottom:8px}
+
+/* Feature 39: Fast A-Z Alpha Scrubber Rail */
+.alpha-rail{display:flex;gap:4px;flex-wrap:wrap;margin:14px 0 20px;padding:8px 12px;background:var(--surface2);border:1px solid var(--line);border-radius:2px}
+.alpha-btn{background:none;border:none;color:var(--muted);font:800 10px Manrope;padding:3px 6px;cursor:pointer;border-radius:2px}
+.alpha-btn:hover,.alpha-btn.active{color:var(--gold);background:var(--surface)}
+
+/* Feature 40: Audiophile Hardware Diagnostics Card */
+.diag-card{margin-top:20px}
+.diag-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:14px}
+.diag-item{background:var(--surface2);border:1px solid var(--line);padding:14px;border-radius:2px}
+.diag-item strong{display:block;font:800 14px Manrope;color:var(--gold);margin-top:4px}
+
+@media(max-width:760px){
+  .soundbed-grid{grid-template-columns:1fr}
+  .diag-grid{grid-template-columns:1fr 1fr}
+  .vault-stats{grid-template-columns:1fr}
+  .cue-jcard-tracks{grid-template-columns:1fr}
+}
+
+/* Feature 41: Homepage all-songs carousel (every uploaded track) */
+.track-carousel{border-bottom:1px solid var(--line);padding:54px 0 44px;overflow:hidden}
+.carousel-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;padding:0 4vw 26px}
+.carousel-head h2{font:800 clamp(30px,3.2vw,48px)/.98 Manrope;letter-spacing:-.06em;margin:12px 0 0}
+.carousel-head h2 span{color:var(--gold)}
+.carousel-head h2 em{font-style:normal;color:var(--gold)}
+.carousel-controls{display:flex;align-items:center;gap:10px}
+.carousel-count{color:var(--muted);font-size:10px;font-weight:800;letter-spacing:.12em;white-space:nowrap}
+.carousel-nav{width:40px;height:40px;border:1px solid var(--line);background:var(--surface);color:var(--text);font-size:16px;line-height:1;display:grid;place-items:center;transition:border-color .2s,color .2s,transform .2s}
+.carousel-nav:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-2px)}
+.carousel-viewport{overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.carousel-viewport:focus-visible{outline:2px solid var(--gold);outline-offset:-4px}
+.carousel-track{display:flex;gap:16px;padding:4px 4vw 22px;width:max-content}
+.carousel-card{scroll-snap-align:start;flex:0 0 clamp(230px,24vw,300px);background:var(--surface);border:1px solid var(--line);padding:12px;min-width:0;transition:transform .25s,border .25s}
+.carousel-card:hover{transform:translateY(-4px);border-color:var(--gold)}
+.carousel-art{position:relative;display:block}
+.carousel-art img{width:100%;aspect-ratio:1/1;object-fit:cover;display:block;background:var(--surface2)}
+.carousel-index,.carousel-bpm{position:absolute;top:8px;font-size:9px;font-weight:800;letter-spacing:.1em;padding:3px 7px;background:color-mix(in srgb,var(--bg),transparent 22%)}
+.carousel-index{left:8px;color:var(--gold)}
+.carousel-bpm{right:8px;color:var(--text)}
+.carousel-play{position:absolute;right:8px;bottom:8px;width:44px;height:44px;border:0;background:var(--gold);color:#11130f;font-size:15px;display:grid;place-items:center;opacity:0;transform:translateY(6px);transition:opacity .2s,transform .2s}
+.carousel-card:hover .carousel-play,.carousel-card:focus-within .carousel-play{opacity:1;transform:none}
+.carousel-body{padding-top:14px}
+.carousel-meta{color:var(--gold);font-size:9px;font-weight:800;letter-spacing:.1em;margin:0 0 8px}
+.carousel-body h3{font:800 19px/1.15 Manrope;letter-spacing:-.04em;margin:0 0 6px}
+.carousel-artist{color:var(--muted);font-size:11px;margin:0 0 13px;min-height:28px}
+.carousel-row{display:flex;gap:6px;border-top:1px solid var(--line);padding-top:11px}
+.carousel-row button{background:none;color:var(--text);border:1px solid var(--line);padding:9px 11px;font-size:9px;font-weight:800;letter-spacing:.08em}
+.carousel-row button:hover{border-color:var(--gold);color:var(--gold)}
+.carousel-row button.primary{background:var(--gold);border-color:var(--gold);color:#11130f;flex:1}
+.carousel-row button.iconbtn{font-size:14px;line-height:1;padding:6px 10px}
+.carousel-dots{display:flex;gap:6px;flex-wrap:wrap;padding:6px 4vw 0;justify-content:center}
+.carousel-dot{width:7px;height:7px;border-radius:50%;border:0;padding:0;background:var(--line);transition:background .2s,transform .2s}
+.carousel-dot.active{background:var(--gold);transform:scale(1.5)}
+@media(max-width:1100px){.carousel-card{flex-basis:30vw}}
+@media(max-width:760px){.carousel-head,.carousel-track,.carousel-dots{padding-left:5vw;padding-right:5vw}.carousel-card{flex-basis:74vw}.carousel-head{flex-direction:column;align-items:flex-start}}
+
+

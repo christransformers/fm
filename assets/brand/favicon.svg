@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#11130f"/>
+  <!-- Distinctive FUSE "F" letterform in signature warm amber -->
+  <path d="M32 28h52v18H48v16h36v18H48v28H32z" fill="#f4b942"/>
+  <!-- Signature turquoise vinyl dot indicator -->
+  <circle cx="96" cy="80" r="14" fill="#55c7b4"/>
+  <circle cx="96" cy="80" r="5" fill="#11130f"/>
+</svg>
