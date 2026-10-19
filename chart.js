@@ -9,7 +9,7 @@
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[c]));
 
-  fetch('data/au-top50.json?v=20261020-2')
+  fetch('data/au-top50.json?v=20261020-1')
     .then(r => { if (!r.ok) throw new Error('chart data ' + r.status); return r.json(); })
     .then(data => {
       if (meta) meta.textContent = data.chart + ' — week of ' + data.weekOf;
