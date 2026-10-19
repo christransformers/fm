@@ -3511,7 +3511,7 @@ function route() {
     return;
   }
   const communityRoute = /^(artists|artist\/[^/]+|signup|signin|profile|artist-apply|guidelines|privacy)$/.test(target);
-  const view = communityRoute ? 'community' : ['home', 'search', 'library', 'queue', 'about'].includes(target) ? target : 'home';
+  const view = communityRoute ? 'community' : ['home', 'search', 'library', 'queue', 'about', 'charts'].includes(target) ? target : 'home';
 
   function applyView() {
     $$('[data-panel]').forEach(p => p.classList.toggle('active', p.dataset.panel === view));
@@ -4723,6 +4723,7 @@ const COMMAND_ACTIONS = [
   { id: 'nav_library', title: 'Navigate: Your Collection & Playlists', shortcut: '#library', tags: 'goto sets liked history', run: () => { location.hash = 'library'; } },
   { id: 'nav_queue', title: 'Navigate: Up Next / Running Order', shortcut: '#queue', tags: 'goto queue tracks next', run: () => { location.hash = 'queue'; } },
   { id: 'nav_artists', title: 'Navigate: 100 Artist Directory & Profiles', shortcut: '#artists', tags: 'goto artists roster singers bands', run: () => { location.hash = 'artists'; } },
+  { id: 'nav_charts', title: 'Navigate: AU Top 50 (ARIA chart, official videos)', shortcut: '#charts', tags: 'goto charts top 50 australia aria music videos', run: () => { location.hash = 'charts'; } },
   { id: 'nav_about', title: 'Navigate: About & 499 Crown St Lounge', shortcut: '#about', tags: 'goto contact surry hills address info', run: () => { location.hash = 'about'; } }
 ];
 

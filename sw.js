@@ -1,5 +1,5 @@
 // Fuse Music Service Worker — Offline Resilience & App Shell Caching
-const CACHE_NAME = 'fuse-music-v4';
+const CACHE_NAME = 'fuse-music-v5';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -7,7 +7,9 @@ const STATIC_ASSETS = [
   './community.css',
   './app.js',
   './community.js',
+  './chart.js',
   './artists.json',
+  './data/au-top50.json',
   './site.webmanifest',
   './assets/brand/favicon.svg',
   './assets/brand/fuse-logo.svg',

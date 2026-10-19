@@ -1,0 +1,408 @@
+{
+ "chart": "ARIA Top 50 Singles (Australia)",
+ "weekOf": "2026-10-19",
+ "source": "https://www.aria.com.au/charts/singles-chart",
+ "generated": "2026-10-19T22:07:43Z",
+ "entries": [
+  {
+   "rank": 1,
+   "title": "Patient Zero",
+   "artist": "Taylor Swift",
+   "videoId": "mw3kSNIxjqo",
+   "how": "title-match",
+   "ytTitle": "Taylor Swift - Patient Zero (Official Music Video)"
+  },
+  {
+   "rank": 2,
+   "title": "Man I Need",
+   "artist": "Olivia Dean",
+   "videoId": "oIv_Y2RPQ_A",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - Man I Need"
+  },
+  {
+   "rank": 3,
+   "title": "Rein Me In",
+   "artist": "Sam Fender, Olivia Dean",
+   "videoId": "3triLkS0nq4",
+   "how": "title-match",
+   "ytTitle": "Sam Fender, Olivia Dean - Rein Me In (Official Video)"
+  },
+  {
+   "rank": 4,
+   "title": "Choosin' Texas",
+   "artist": "Ella Langley",
+   "videoId": "nUsrYVxrDwI",
+   "how": "title-match",
+   "ytTitle": "Ella Langley - Choosin' Texas (Official Video)"
+  },
+  {
+   "rank": 5,
+   "title": "Nicole Kidman",
+   "artist": "Adéla",
+   "videoId": "3sB4Iv_tM7U",
+   "how": "title-match",
+   "ytTitle": "ADÉLA - Nicole Kidman"
+  },
+  {
+   "rank": 6,
+   "title": "stupid song",
+   "artist": "Olivia Rodrigo",
+   "videoId": "Rt9tW3cMLhI",
+   "how": "title-match",
+   "ytTitle": "Olivia Rodrigo - stupid song (Official Music Video)"
+  },
+  {
+   "rank": 7,
+   "title": "Boston",
+   "artist": "Stella Lefty",
+   "videoId": "Xh0GyxWgKPs",
+   "how": "title-match",
+   "ytTitle": "Stella Lefty - Boston"
+  },
+  {
+   "rank": 8,
+   "title": "Stop The Wedding!",
+   "artist": "Ashe",
+   "videoId": "DLV8FpyxZPQ",
+   "how": "title-match",
+   "ytTitle": "Ashe - Stop The Wedding! (Official Video)"
+  },
+  {
+   "rank": 9,
+   "title": "Ordinary",
+   "artist": "Alex Warren",
+   "videoId": "u2ah9tWTkmk",
+   "how": "title-match",
+   "ytTitle": "Alex Warren - Ordinary (Official Video)"
+  },
+  {
+   "rank": 10,
+   "title": "So Easy (To Fall In Love)",
+   "artist": "Olivia Dean",
+   "videoId": "3sur4BmjQt8",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - So Easy (To Fall In Love)"
+  },
+  {
+   "rank": 11,
+   "title": "Ain't In LA",
+   "artist": "Adéla",
+   "videoId": "0ijm2Xui5N8",
+   "how": "title-match",
+   "ytTitle": "ADÉLA - Ain't In LA"
+  },
+  {
+   "rank": 12,
+   "title": "The Cure",
+   "artist": "Olivia Rodrigo",
+   "videoId": "B402rKl4bUg",
+   "how": "title-match",
+   "ytTitle": "Olivia Rodrigo - the cure (Official Music Video)"
+  },
+  {
+   "rank": 13,
+   "title": "Great Expectation",
+   "artist": "Sienna Spiro",
+   "videoId": "B452TVVco2Q",
+   "how": "title-match",
+   "ytTitle": "SIENNA SPIRO - Great Expectation (Official Music Video)"
+  },
+  {
+   "rank": 14,
+   "title": "Loser",
+   "artist": "Tame Impala",
+   "videoId": "s3a4OQR-10M",
+   "how": "title-match",
+   "ytTitle": "Tame Impala - Loser (Official Video)"
+  },
+  {
+   "rank": 15,
+   "title": "Nice To Each Other",
+   "artist": "Olivia Dean",
+   "videoId": "VI0NDsh2b8k",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - Nice To Each Other"
+  },
+  {
+   "rank": 16,
+   "title": "Earrings",
+   "artist": "Malcolm Todd",
+   "videoId": "a4tdS3IB294",
+   "how": "title-match",
+   "ytTitle": "Malcolm Todd - Earrings (Official Visualizer)"
+  },
+  {
+   "rank": 17,
+   "title": "Love Me Not",
+   "artist": "Ravyn Lenae",
+   "videoId": "cswfR85D7jM",
+   "how": "title-match",
+   "ytTitle": "Ravyn Lenae - Love Me Not (Official Music Video)"
+  },
+  {
+   "rank": 18,
+   "title": "12 to 12",
+   "artist": "sombr",
+   "videoId": "cZgUiR31m-Y",
+   "how": "title-match",
+   "ytTitle": "sombr - 12 to 12 (official video)"
+  },
+  {
+   "rank": 19,
+   "title": "Self Aware",
+   "artist": "Temper City",
+   "videoId": "mh4AQkw4Jjc",
+   "how": "title-match",
+   "ytTitle": "Temper City - Self Aware (Official Video)"
+  },
+  {
+   "rank": 20,
+   "title": "Midnight Sun",
+   "artist": "Zara Larsson",
+   "videoId": "uvY8fdgezLQ",
+   "how": "title-match",
+   "ytTitle": "Zara Larsson - Midnight Sun (Official Music Video)"
+  },
+  {
+   "rank": 21,
+   "title": "Dracula",
+   "artist": "Tame Impala",
+   "videoId": "xnP7qKxwzjg",
+   "how": "title-match",
+   "ytTitle": "Tame Impala - Dracula (Official Video)"
+  },
+  {
+   "rank": 22,
+   "title": "A Couple Minutes",
+   "artist": "Olivia Dean",
+   "videoId": "euYe6W7d-rI",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - A Couple Minutes | A COLORS SHOW"
+  },
+  {
+   "rank": 23,
+   "title": "Where Is My Husband!",
+   "artist": "Raye",
+   "videoId": "rK5TyISxZ_M",
+   "how": "title-match",
+   "ytTitle": "RAYE - WHERE IS MY HUSBAND! (Official Music Video)"
+  },
+  {
+   "rank": 24,
+   "title": "Homewrecker",
+   "artist": "sombr",
+   "videoId": "mQezde_qeXw",
+   "how": "title-match",
+   "ytTitle": "sombr - Homewrecker (official video)"
+  },
+  {
+   "rank": 25,
+   "title": "The Fate of Ophelia",
+   "artist": "Taylor Swift",
+   "videoId": "ko70cExuzZM",
+   "how": "title-match",
+   "ytTitle": "Taylor Swift - The Fate of Ophelia (Official Music Video)"
+  },
+  {
+   "rank": 26,
+   "title": "No Broke Boys",
+   "artist": "Disco Lines, Tinashe",
+   "videoId": "bT9pjCnIA-c",
+   "how": "title-match",
+   "ytTitle": "Tinashe \\u0026 Disco Lines - No Broke Boys (Live from LIV Beach Las Vegas)"
+  },
+  {
+   "rank": 27,
+   "title": "Baby Steps",
+   "artist": "Olivia Dean",
+   "videoId": "6kLEQi0u5rA",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - Baby Steps (Lyric Video)"
+  },
+  {
+   "rank": 28,
+   "title": "My Body Isn't Ready",
+   "artist": "Sombr",
+   "videoId": "ofywN3NgGqY",
+   "how": "title-match",
+   "ytTitle": "sombr - My Body Isn't Ready (official video)"
+  },
+  {
+   "rank": 29,
+   "title": "Back To Friends",
+   "artist": "Sombr",
+   "videoId": "c8zq4kAn_O0",
+   "how": "title-match",
+   "ytTitle": "sombr - back to friends (official video)"
+  },
+  {
+   "rank": 30,
+   "title": "Golden",
+   "artist": "KPop Demon Hunters",
+   "videoId": "yebNIHKAC4A",
+   "how": "title-match",
+   "ytTitle": "“Golden” Official Lyric Video | KPop Demon Hunters | Sony Animation"
+  },
+  {
+   "rank": 31,
+   "title": "Willing and Able",
+   "artist": "Noah Kahan",
+   "videoId": "2f4gu97XWFg",
+   "how": "title-match",
+   "ytTitle": "Noah Kahan - Willing and Able (Official Lyric Video)"
+  },
+  {
+   "rank": 32,
+   "title": "bloodstream",
+   "artist": "Alyssa Grace",
+   "videoId": "FOJ4A4wixDg",
+   "how": "title-match",
+   "ytTitle": "Alyssa Grace - bloodstream (Official Music Video)"
+  },
+  {
+   "rank": 33,
+   "title": "Orbiter",
+   "artist": "Noah Kahan",
+   "videoId": "OFcKm-5jSQE",
+   "how": "title-match",
+   "ytTitle": "Noah Kahan - Orbiter (Official Lyric Video)"
+  },
+  {
+   "rank": 34,
+   "title": "Be Her",
+   "artist": "Ella Langley",
+   "videoId": "Dg47eNL_Usw",
+   "how": "title-match",
+   "ytTitle": "Ella Langley - Be Her (Official Video)"
+  },
+  {
+   "rank": 35,
+   "title": "Babydoll",
+   "artist": "Jamie Miller",
+   "videoId": "8g25GeJgxgs",
+   "how": "title-match",
+   "ytTitle": "Jamie Miller - Babydoll feat. Antonio Cipriano"
+  },
+  {
+   "rank": 36,
+   "title": "Raindance",
+   "artist": "Dave, Tems",
+   "videoId": "SOJpE1KMUbo",
+   "how": "title-match",
+   "ytTitle": "Dave - Raindance (ft. Tems)"
+  },
+  {
+   "rank": 37,
+   "title": "Broken Window Serenade",
+   "artist": "Whiskey Myers",
+   "videoId": "q79gdKUTE0g",
+   "how": "title-match",
+   "ytTitle": "Whiskey Myers - Broken Window Serenade (Lyrics)"
+  },
+  {
+   "rank": 38,
+   "title": "iloveitiloveitiloveit",
+   "artist": "Bella Kay",
+   "videoId": "Y4AgCABdZ3Y",
+   "how": "title-match",
+   "ytTitle": "Bella Kay - iloveitiloveitiloveit"
+  },
+  {
+   "rank": 39,
+   "title": "Movin' To The Sun",
+   "artist": "Hugel, Imael Angel, Ultra Naté",
+   "videoId": "uVIfWn2k6yU",
+   "how": "title-match",
+   "ytTitle": "HUGEL, Imael Angel \\u0026 Ultra Naté - Movin' To The Sun (Extended Lyrics Mix) | Music Video"
+  },
+  {
+   "rank": 40,
+   "title": "hate that i made you love me",
+   "artist": "Ariana Grande",
+   "videoId": "82-jTNka3uc",
+   "how": "title-match",
+   "ytTitle": "Ariana Grande - hate that i made you love me (official music video)"
+  },
+  {
+   "rank": 41,
+   "title": "Die On This Hill",
+   "artist": "Sienna Spiro",
+   "videoId": "5RNy_1odv20",
+   "how": "title-match",
+   "ytTitle": "SIENNA SPIRO - Die On This Hill (Official Music Video)"
+  },
+  {
+   "rank": 42,
+   "title": "Cinderella",
+   "artist": "Mac Miller",
+   "videoId": "FFamEq1PilQ",
+   "how": "title-match",
+   "ytTitle": "Mac Miller - Cinderella (feat. Ty Dolla $ign)"
+  },
+  {
+   "rank": 43,
+   "title": "drop dead",
+   "artist": "Olivia Rodrigo",
+   "videoId": "78wrful9cVU",
+   "how": "title-match",
+   "ytTitle": "Olivia Rodrigo - drop dead (Official Music Video)"
+  },
+  {
+   "rank": 44,
+   "title": "Material Lover",
+   "artist": "Sienna Spiro",
+   "videoId": "EZOiy1-cnxM",
+   "how": "title-match",
+   "ytTitle": "SIENNA SPIRO - Material Lover (The Devil Wears Prada 2)"
+  },
+  {
+   "rank": 45,
+   "title": "Let Alone The One You Love",
+   "artist": "Olivia Dean",
+   "videoId": "uxIjDwmc3uU",
+   "how": "title-match",
+   "ytTitle": "Olivia Dean - Let Alone The One You Love (Lyric Video)"
+  },
+  {
+   "rank": 46,
+   "title": "Daisies",
+   "artist": "Justin Bieber",
+   "videoId": "QyvREl7epGY",
+   "how": "title-match",
+   "ytTitle": "Justin Bieber - DAISIES (Music Video)"
+  },
+  {
+   "rank": 47,
+   "title": "Animal",
+   "artist": "Katseye",
+   "videoId": "kg-2tDkJUCc",
+   "how": "title-match",
+   "ytTitle": "Katseye - Animal (Lyrics)"
+  },
+  {
+   "rank": 48,
+   "title": "Weren't For The Wind",
+   "artist": "Ella Langley",
+   "videoId": "U4NPZi2b0aQ",
+   "how": "title-match",
+   "ytTitle": "Ella Langley - weren't for the wind (Official Video)"
+  },
+  {
+   "rank": 49,
+   "title": "That's So True",
+   "artist": "Gracie Abrams",
+   "videoId": "QWrafQg2zNY",
+   "how": "title-match",
+   "ytTitle": "Gracie Abrams - That's So True (Music Video)"
+  },
+  {
+   "rank": 50,
+   "title": "Victory Lap",
+   "artist": "Fred again.., Skepta",
+   "videoId": "08C987fQEKU",
+   "how": "title-match",
+   "ytTitle": "Fred again.. x Skepta x PlaqueBoyMax - Victory Lap (NYC, 17th June 2025)"
+  }
+ ]
+}
