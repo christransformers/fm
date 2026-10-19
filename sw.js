@@ -1,5 +1,5 @@
 // Fuse Music Service Worker — Offline Resilience & App Shell Caching
-const CACHE_NAME = 'fuse-music-v3';
+const CACHE_NAME = 'fuse-music-v4';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -37,14 +37,8 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
 
-  // Audio streams from Soundstripe CDN: use network-first with cache fallback
-  if (url.hostname.includes('soundstripe.com')) {
-    event.respondWith(
-      fetch(event.request).catch(() => caches.match(event.request))
-    );
-    return;
-  }
-
+  // Catalogue audio is served from this origin (assets/audio), so it is covered
+  // by the same-origin cache-first handler below.
   // App shell and local static assets: Cache first, fall back to network, update cache in background
   if (event.request.method === 'GET' && url.origin === self.location.origin) {
     event.respondWith(
