@@ -2198,5 +2198,1105 @@
     "track_id": "set2-50-ritmo-global",
     "bpm": 140,
     "mood": "Calm, Romantic, Reflective, Happy"
+  },
+  {
+    "id": "adela",
+    "name": "Adéla",
+    "genre": "Pop",
+    "type": "Alternative pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Adéla — Alternative pop. Currently on the ARIA Top 50 Singles with “Nicole Kidman” (AU #5); “Ain't In LA” (AU #11). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Nicole Kidman",
+    "year": 2026,
+    "subgenre": "Alternative pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Adéla — Alternative pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 5,
+        "title": "Nicole Kidman",
+        "videoId": "3sB4Iv_tM7U",
+        "r2Key": "rank-05-nicole-kidman.mp4"
+      },
+      {
+        "rank": 11,
+        "title": "Ain't In LA",
+        "videoId": "0ijm2Xui5N8",
+        "r2Key": "rank-11-ain-t-in-la.mp4"
+      }
+    ],
+    "chartRank": 5,
+    "number": 101,
+    "chartArtist": true
+  },
+  {
+    "id": "alex-warren",
+    "name": "Alex Warren",
+    "genre": "Pop",
+    "type": "Singer-songwriter pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Alex Warren — Singer-songwriter pop. Currently on the ARIA Top 50 Singles with “Ordinary” (AU #9). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Ordinary",
+    "year": 2026,
+    "subgenre": "Singer-songwriter pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Alex Warren — Singer-songwriter pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 9,
+        "title": "Ordinary",
+        "videoId": "A8dH4cKGa6s",
+        "r2Key": "rank-09-ordinary.mp4"
+      }
+    ],
+    "chartRank": 9,
+    "number": 102,
+    "chartArtist": true
+  },
+  {
+    "id": "alyssa-grace",
+    "name": "Alyssa Grace",
+    "genre": "Pop",
+    "type": "Alt-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Alyssa Grace — Alt-pop. Currently on the ARIA Top 50 Singles with “bloodstream” (AU #32). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "bloodstream",
+    "year": 2026,
+    "subgenre": "Alt-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Alyssa Grace — Alt-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 32,
+        "title": "bloodstream",
+        "videoId": "FOJ4A4wixDg",
+        "r2Key": "rank-32-bloodstream.mp4"
+      }
+    ],
+    "chartRank": 32,
+    "number": 103,
+    "chartArtist": true
+  },
+  {
+    "id": "ariana-grande",
+    "name": "Ariana Grande",
+    "genre": "Pop",
+    "type": "Global pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Ariana Grande — Global pop. Currently on the ARIA Top 50 Singles with “hate that i made you love me” (AU #40). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "hate that i made you love me",
+    "year": 2026,
+    "subgenre": "Global pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Ariana Grande — Global pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 40,
+        "title": "hate that i made you love me",
+        "videoId": "82-jTNka3uc",
+        "r2Key": "rank-40-hate-that-i-made-you-love-me.mp4"
+      }
+    ],
+    "chartRank": 40,
+    "number": 104,
+    "chartArtist": true
+  },
+  {
+    "id": "ashe",
+    "name": "Ashe",
+    "genre": "Pop",
+    "type": "California alt-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Ashe — California alt-pop. Currently on the ARIA Top 50 Singles with “Stop The Wedding!” (AU #8). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Stop The Wedding!",
+    "year": 2026,
+    "subgenre": "California alt-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Ashe — California alt-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 8,
+        "title": "Stop The Wedding!",
+        "videoId": "DLV8FpyxZPQ",
+        "r2Key": "rank-08-stop-the-wedding.mp4"
+      }
+    ],
+    "chartRank": 8,
+    "number": 105,
+    "chartArtist": true
+  },
+  {
+    "id": "bella-kay",
+    "name": "Bella Kay",
+    "genre": "Pop",
+    "type": "Alt-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Bella Kay — Alt-pop. Currently on the ARIA Top 50 Singles with “iloveitiloveitiloveit” (AU #38). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "iloveitiloveitiloveit",
+    "year": 2026,
+    "subgenre": "Alt-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Bella Kay — Alt-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 38,
+        "title": "iloveitiloveitiloveit",
+        "videoId": "OqTpNnSnwxQ",
+        "r2Key": "rank-38-iloveitiloveitiloveit.mp4"
+      }
+    ],
+    "chartRank": 38,
+    "number": 106,
+    "chartArtist": true
+  },
+  {
+    "id": "dave",
+    "name": "Dave",
+    "genre": "Hip-Hop",
+    "type": "South London rap",
+    "location": "AU Top 50 · current chart",
+    "bio": "Dave — South London rap. Currently on the ARIA Top 50 Singles with “Raindance” (AU #36). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Raindance",
+    "year": 2026,
+    "subgenre": "South London rap",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Dave — South London rap.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 36,
+        "title": "Raindance",
+        "videoId": "SOJpE1KMUbo",
+        "r2Key": "rank-36-raindance.mp4"
+      }
+    ],
+    "chartRank": 36,
+    "number": 107,
+    "chartArtist": true
+  },
+  {
+    "id": "disco-lines",
+    "name": "Disco Lines",
+    "genre": "Dance",
+    "type": "House producer",
+    "location": "AU Top 50 · current chart",
+    "bio": "Disco Lines — House producer. Currently on the ARIA Top 50 Singles with “No Broke Boys” (AU #26). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "No Broke Boys",
+    "year": 2026,
+    "subgenre": "House producer",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Disco Lines — House producer.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 26,
+        "title": "No Broke Boys",
+        "videoId": "bT9pjCnIA-c",
+        "r2Key": "rank-26-no-broke-boys.mp4"
+      }
+    ],
+    "chartRank": 26,
+    "number": 108,
+    "chartArtist": true
+  },
+  {
+    "id": "ella-langley",
+    "name": "Ella Langley",
+    "genre": "Country",
+    "type": "Alabama country",
+    "location": "AU Top 50 · current chart",
+    "bio": "Ella Langley — Alabama country. Currently on the ARIA Top 50 Singles with “Choosin' Texas” (AU #4); “Be Her” (AU #34); “Weren't For The Wind” (AU #48). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Choosin' Texas",
+    "year": 2026,
+    "subgenre": "Alabama country",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Ella Langley — Alabama country.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 4,
+        "title": "Choosin' Texas",
+        "videoId": "hLOheGDwD_0",
+        "r2Key": "rank-04-choosin-texas.mp4"
+      },
+      {
+        "rank": 34,
+        "title": "Be Her",
+        "videoId": "Dg47eNL_Usw",
+        "r2Key": "rank-34-be-her.mp4"
+      },
+      {
+        "rank": 48,
+        "title": "Weren't For The Wind",
+        "videoId": "U4NPZi2b0aQ",
+        "r2Key": "rank-48-weren-t-for-the-wind.mp4"
+      }
+    ],
+    "chartRank": 4,
+    "number": 109,
+    "chartArtist": true
+  },
+  {
+    "id": "fred-again",
+    "name": "Fred again..",
+    "genre": "Dance",
+    "type": "British producer",
+    "location": "AU Top 50 · current chart",
+    "bio": "Fred again.. — British producer. Currently on the ARIA Top 50 Singles with “Victory Lap” (AU #50). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Victory Lap",
+    "year": 2026,
+    "subgenre": "British producer",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Fred again.. — British producer.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 50,
+        "title": "Victory Lap",
+        "videoId": "08C987fQEKU",
+        "r2Key": "rank-50-victory-lap.mp4"
+      }
+    ],
+    "chartRank": 50,
+    "number": 110,
+    "chartArtist": true
+  },
+  {
+    "id": "gracie-abrams",
+    "name": "Gracie Abrams",
+    "genre": "Pop",
+    "type": "LA singer-songwriter",
+    "location": "AU Top 50 · current chart",
+    "bio": "Gracie Abrams — LA singer-songwriter. Currently on the ARIA Top 50 Singles with “That's So True” (AU #49). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "That's So True",
+    "year": 2026,
+    "subgenre": "LA singer-songwriter",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Gracie Abrams — LA singer-songwriter.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 49,
+        "title": "That's So True",
+        "videoId": "BDHM8cyJQa8",
+        "r2Key": "rank-49-that-s-so-true.mp4"
+      }
+    ],
+    "chartRank": 49,
+    "number": 111,
+    "chartArtist": true
+  },
+  {
+    "id": "hugel",
+    "name": "Hugel",
+    "genre": "Pop",
+    "type": "Chart artist",
+    "location": "AU Top 50 · current chart",
+    "bio": "Hugel — Chart artist. Currently on the ARIA Top 50 Singles with “Movin' To The Sun” (AU #39). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Movin' To The Sun",
+    "year": 2026,
+    "subgenre": "Chart artist",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Hugel — Chart artist.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 39,
+        "title": "Movin' To The Sun",
+        "videoId": "n7QlUH0zrPg",
+        "r2Key": "rank-39-movin-to-the-sun.mp4"
+      }
+    ],
+    "chartRank": 39,
+    "number": 112,
+    "chartArtist": true
+  },
+  {
+    "id": "jamie-miller",
+    "name": "Jamie Miller",
+    "genre": "Pop",
+    "type": "Soul-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Jamie Miller — Soul-pop. Currently on the ARIA Top 50 Singles with “Babydoll” (AU #35). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Babydoll",
+    "year": 2026,
+    "subgenre": "Soul-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Jamie Miller — Soul-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 35,
+        "title": "Babydoll",
+        "videoId": "8g25GeJgxgs",
+        "r2Key": "rank-35-babydoll.mp4"
+      }
+    ],
+    "chartRank": 35,
+    "number": 113,
+    "chartArtist": true
+  },
+  {
+    "id": "justin-bieber",
+    "name": "Justin Bieber",
+    "genre": "Pop",
+    "type": "Canadian pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Justin Bieber — Canadian pop. Currently on the ARIA Top 50 Singles with “Daisies” (AU #46). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Daisies",
+    "year": 2026,
+    "subgenre": "Canadian pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Justin Bieber — Canadian pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 46,
+        "title": "Daisies",
+        "videoId": "QyvREl7epGY",
+        "r2Key": "rank-46-daisies.mp4"
+      }
+    ],
+    "chartRank": 46,
+    "number": 114,
+    "chartArtist": true
+  },
+  {
+    "id": "katseye",
+    "name": "Katseye",
+    "genre": "Pop",
+    "type": "Chart artist",
+    "location": "AU Top 50 · current chart",
+    "bio": "Katseye — Chart artist. Currently on the ARIA Top 50 Singles with “Animal” (AU #47). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Animal",
+    "year": 2026,
+    "subgenre": "Chart artist",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Katseye — Chart artist.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 47,
+        "title": "Animal",
+        "videoId": "m7k9UMcHbr0",
+        "r2Key": "rank-47-animal.mp4"
+      }
+    ],
+    "chartRank": 47,
+    "number": 115,
+    "chartArtist": true
+  },
+  {
+    "id": "mac-miller-feat-ty-dolla-ign",
+    "name": "Mac Miller Feat. Ty Dolla $ign",
+    "genre": "Pop",
+    "type": "Chart artist",
+    "location": "AU Top 50 · current chart",
+    "bio": "Mac Miller Feat. Ty Dolla $ign — Chart artist. Currently on the ARIA Top 50 Singles with “Cinderella” (AU #42). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Cinderella",
+    "year": 2026,
+    "subgenre": "Chart artist",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Mac Miller Feat. Ty Dolla $ign — Chart artist.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 42,
+        "title": "Cinderella",
+        "videoId": "0fcsGS1dEro",
+        "r2Key": "rank-42-cinderella.mp4"
+      }
+    ],
+    "chartRank": 42,
+    "number": 116,
+    "chartArtist": true
+  },
+  {
+    "id": "malcolm-todd",
+    "name": "Malcolm Todd",
+    "genre": "Pop",
+    "type": "Alt-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Malcolm Todd — Alt-pop. Currently on the ARIA Top 50 Singles with “Earrings” (AU #16). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Earrings",
+    "year": 2026,
+    "subgenre": "Alt-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Malcolm Todd — Alt-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 16,
+        "title": "Earrings",
+        "videoId": "a4tdS3IB294",
+        "r2Key": "rank-16-earrings.mp4"
+      }
+    ],
+    "chartRank": 16,
+    "number": 117,
+    "chartArtist": true
+  },
+  {
+    "id": "noah-kahan",
+    "name": "Noah Kahan",
+    "genre": "Folk",
+    "type": "Vermont folk-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Noah Kahan — Vermont folk-pop. Currently on the ARIA Top 50 Singles with “Willing and Able” (AU #31); “Orbiter” (AU #33). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Willing and Able",
+    "year": 2026,
+    "subgenre": "Vermont folk-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Noah Kahan — Vermont folk-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 31,
+        "title": "Willing and Able",
+        "videoId": "2f4gu97XWFg",
+        "r2Key": "rank-31-willing-and-able.mp4"
+      },
+      {
+        "rank": 33,
+        "title": "Orbiter",
+        "videoId": "OFcKm-5jSQE",
+        "r2Key": "rank-33-orbiter.mp4"
+      }
+    ],
+    "chartRank": 31,
+    "number": 118,
+    "chartArtist": true
+  },
+  {
+    "id": "olivia-dean",
+    "name": "Olivia Dean",
+    "genre": "Soul & Pop",
+    "type": "British soul-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Olivia Dean — British soul-pop. Currently on the ARIA Top 50 Singles with “Man I Need” (AU #2); “So Easy (To Fall In Love)” (AU #10); “Nice To Each Other” (AU #15); “A Couple Minutes” (AU #22); “Baby Steps” (AU #27); “Let Alone The One You Love” (AU #45). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Man I Need",
+    "year": 2026,
+    "subgenre": "British soul-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Olivia Dean — British soul-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 2,
+        "title": "Man I Need",
+        "videoId": "oIv_Y2RPQ_A",
+        "r2Key": "rank-02-man-i-need.mp4"
+      },
+      {
+        "rank": 10,
+        "title": "So Easy (To Fall In Love)",
+        "videoId": "3sur4BmjQt8",
+        "r2Key": "rank-10-so-easy-to-fall-in-love.mp4"
+      },
+      {
+        "rank": 15,
+        "title": "Nice To Each Other",
+        "videoId": "VI0NDsh2b8k",
+        "r2Key": "rank-15-nice-to-each-other.mp4"
+      },
+      {
+        "rank": 22,
+        "title": "A Couple Minutes",
+        "videoId": "lrS1LC2cu-U",
+        "r2Key": "rank-22-a-couple-minutes.mp4"
+      },
+      {
+        "rank": 27,
+        "title": "Baby Steps",
+        "videoId": "6kLEQi0u5rA",
+        "r2Key": "rank-27-baby-steps.mp4"
+      },
+      {
+        "rank": 45,
+        "title": "Let Alone The One You Love",
+        "videoId": "uxIjDwmc3uU",
+        "r2Key": "rank-45-let-alone-the-one-you-love.mp4"
+      }
+    ],
+    "chartRank": 2,
+    "number": 119,
+    "chartArtist": true
+  },
+  {
+    "id": "olivia-rodrigo",
+    "name": "Olivia Rodrigo",
+    "genre": "Pop & Rock",
+    "type": "Gen-Z pop-rock",
+    "location": "AU Top 50 · current chart",
+    "bio": "Olivia Rodrigo — Gen-Z pop-rock. Currently on the ARIA Top 50 Singles with “stupid song” (AU #6); “The Cure” (AU #12); “drop dead” (AU #43). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "stupid song",
+    "year": 2026,
+    "subgenre": "Gen-Z pop-rock",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Olivia Rodrigo — Gen-Z pop-rock.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 6,
+        "title": "stupid song",
+        "videoId": "Rt9tW3cMLhI",
+        "r2Key": "rank-06-stupid-song.mp4"
+      },
+      {
+        "rank": 12,
+        "title": "The Cure",
+        "videoId": "B402rKl4bUg",
+        "r2Key": "rank-12-the-cure.mp4"
+      },
+      {
+        "rank": 43,
+        "title": "drop dead",
+        "videoId": "78wrful9cVU",
+        "r2Key": "rank-43-drop-dead.mp4"
+      }
+    ],
+    "chartRank": 6,
+    "number": 120,
+    "chartArtist": true
+  },
+  {
+    "id": "ravyn-lenae",
+    "name": "Ravyn Lenae",
+    "genre": "R&B",
+    "type": "Chicago R&B",
+    "location": "AU Top 50 · current chart",
+    "bio": "Ravyn Lenae — Chicago R&B. Currently on the ARIA Top 50 Singles with “Love Me Not” (AU #17). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Love Me Not",
+    "year": 2026,
+    "subgenre": "Chicago R&B",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Ravyn Lenae — Chicago R&B.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 17,
+        "title": "Love Me Not",
+        "videoId": "cswfR85D7jM",
+        "r2Key": "rank-17-love-me-not.mp4"
+      }
+    ],
+    "chartRank": 17,
+    "number": 121,
+    "chartArtist": true
+  },
+  {
+    "id": "raye",
+    "name": "Raye",
+    "genre": "Pop",
+    "type": "Chart artist",
+    "location": "AU Top 50 · current chart",
+    "bio": "Raye — Chart artist. Currently on the ARIA Top 50 Singles with “Where Is My Husband!” (AU #23). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Where Is My Husband!",
+    "year": 2026,
+    "subgenre": "Chart artist",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Raye — Chart artist.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 23,
+        "title": "Where Is My Husband!",
+        "videoId": "rK5TyISxZ_M",
+        "r2Key": "rank-23-where-is-my-husband.mp4"
+      }
+    ],
+    "chartRank": 23,
+    "number": 122,
+    "chartArtist": true
+  },
+  {
+    "id": "rei-ami",
+    "name": "Rei Ami",
+    "genre": "Pop",
+    "type": "Alt-pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Rei Ami — Alt-pop. Currently on the ARIA Top 50 Singles with “Golden” (AU #30). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Golden",
+    "year": 2026,
+    "subgenre": "Alt-pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Rei Ami — Alt-pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 30,
+        "title": "Golden",
+        "videoId": "yebNIHKAC4A",
+        "r2Key": "rank-30-golden.mp4"
+      }
+    ],
+    "chartRank": 30,
+    "number": 123,
+    "chartArtist": true
+  },
+  {
+    "id": "sam-fender",
+    "name": "Sam Fender",
+    "genre": "Rock & Alternative",
+    "type": "North Shields indie rock",
+    "location": "AU Top 50 · current chart",
+    "bio": "Sam Fender — North Shields indie rock. Currently on the ARIA Top 50 Singles with “Rein Me In” (AU #3). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Rein Me In",
+    "year": 2026,
+    "subgenre": "North Shields indie rock",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Sam Fender — North Shields indie rock.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 3,
+        "title": "Rein Me In",
+        "videoId": "3triLkS0nq4",
+        "r2Key": "rank-03-rein-me-in.mp4"
+      }
+    ],
+    "chartRank": 3,
+    "number": 124,
+    "chartArtist": true
+  },
+  {
+    "id": "sienna-spiro",
+    "name": "Sienna Spiro",
+    "genre": "Soul & Pop",
+    "type": "British soul",
+    "location": "AU Top 50 · current chart",
+    "bio": "Sienna Spiro — British soul. Currently on the ARIA Top 50 Singles with “Great Expectation” (AU #13); “Die On This Hill” (AU #41); “Material Lover” (AU #44). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Great Expectation",
+    "year": 2026,
+    "subgenre": "British soul",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Sienna Spiro — British soul.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 13,
+        "title": "Great Expectation",
+        "videoId": "B452TVVco2Q",
+        "r2Key": "rank-13-great-expectation.mp4"
+      },
+      {
+        "rank": 41,
+        "title": "Die On This Hill",
+        "videoId": "otzXtiodkEE",
+        "r2Key": "rank-41-die-on-this-hill.mp4"
+      },
+      {
+        "rank": 44,
+        "title": "Material Lover",
+        "videoId": "EZOiy1-cnxM",
+        "r2Key": "rank-44-material-lover.mp4"
+      }
+    ],
+    "chartRank": 13,
+    "number": 125,
+    "chartArtist": true
+  },
+  {
+    "id": "sombr",
+    "name": "Sombr",
+    "genre": "Pop",
+    "type": "Chart artist",
+    "location": "AU Top 50 · current chart",
+    "bio": "Sombr — Chart artist. Currently on the ARIA Top 50 Singles with “12 to 12” (AU #18); “Homewrecker” (AU #24); “My Body Isn't Ready” (AU #28); “Back To Friends” (AU #29). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "12 to 12",
+    "year": 2026,
+    "subgenre": "Chart artist",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Sombr — Chart artist.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 18,
+        "title": "12 to 12",
+        "videoId": "cZgUiR31m-Y",
+        "r2Key": "rank-18-12-to-12.mp4"
+      },
+      {
+        "rank": 24,
+        "title": "Homewrecker",
+        "videoId": "mQezde_qeXw",
+        "r2Key": "rank-24-homewrecker.mp4"
+      },
+      {
+        "rank": 28,
+        "title": "My Body Isn't Ready",
+        "videoId": "ofywN3NgGqY",
+        "r2Key": "rank-28-my-body-isn-t-ready.mp4"
+      },
+      {
+        "rank": 29,
+        "title": "Back To Friends",
+        "videoId": "c8zq4kAn_O0",
+        "r2Key": "rank-29-back-to-friends.mp4"
+      }
+    ],
+    "chartRank": 18,
+    "number": 126,
+    "chartArtist": true
+  },
+  {
+    "id": "stella-lefty",
+    "name": "Stella Lefty",
+    "genre": "Indie",
+    "type": "Indie pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Stella Lefty — Indie pop. Currently on the ARIA Top 50 Singles with “Boston” (AU #7). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Boston",
+    "year": 2026,
+    "subgenre": "Indie pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Stella Lefty — Indie pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 7,
+        "title": "Boston",
+        "videoId": "v2ttAph6PhM",
+        "r2Key": "rank-07-boston.mp4"
+      }
+    ],
+    "chartRank": 7,
+    "number": 127,
+    "chartArtist": true
+  },
+  {
+    "id": "tame-impala",
+    "name": "Tame Impala",
+    "genre": "Rock & Alternative",
+    "type": "Perth psych-rock",
+    "location": "AU Top 50 · current chart",
+    "bio": "Tame Impala — Perth psych-rock. Currently on the ARIA Top 50 Singles with “Loser” (AU #14); “Dracula” (AU #21). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Loser",
+    "year": 2026,
+    "subgenre": "Perth psych-rock",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Tame Impala — Perth psych-rock.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 14,
+        "title": "Loser",
+        "videoId": "s3a4OQR-10M",
+        "r2Key": "rank-14-loser.mp4"
+      },
+      {
+        "rank": 21,
+        "title": "Dracula",
+        "videoId": "xnP7qKxwzjg",
+        "r2Key": "rank-21-dracula.mp4"
+      }
+    ],
+    "chartRank": 14,
+    "number": 128,
+    "chartArtist": true
+  },
+  {
+    "id": "taylor-swift",
+    "name": "Taylor Swift",
+    "genre": "Pop",
+    "type": "Global pop songwriter",
+    "location": "AU Top 50 · current chart",
+    "bio": "Taylor Swift — Global pop songwriter. Currently on the ARIA Top 50 Singles with “Patient Zero” (AU #1); “The Fate of Ophelia” (AU #25). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Patient Zero",
+    "year": 2026,
+    "subgenre": "Global pop songwriter",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Taylor Swift — Global pop songwriter.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 1,
+        "title": "Patient Zero",
+        "videoId": "mw3kSNIxjqo",
+        "r2Key": "rank-01-patient-zero.mp4"
+      },
+      {
+        "rank": 25,
+        "title": "The Fate of Ophelia",
+        "videoId": "ko70cExuzZM",
+        "r2Key": "rank-25-the-fate-of-ophelia.mp4"
+      }
+    ],
+    "chartRank": 1,
+    "number": 129,
+    "chartArtist": true
+  },
+  {
+    "id": "temper-city",
+    "name": "Temper City",
+    "genre": "Rock & Alternative",
+    "type": "Indie rock",
+    "location": "AU Top 50 · current chart",
+    "bio": "Temper City — Indie rock. Currently on the ARIA Top 50 Singles with “Self Aware” (AU #19). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Self Aware",
+    "year": 2026,
+    "subgenre": "Indie rock",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Temper City — Indie rock.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 19,
+        "title": "Self Aware",
+        "videoId": "mh4AQkw4Jjc",
+        "r2Key": "rank-19-self-aware.mp4"
+      }
+    ],
+    "chartRank": 19,
+    "number": 130,
+    "chartArtist": true
+  },
+  {
+    "id": "whiskey-myers",
+    "name": "Whiskey Myers",
+    "genre": "Country",
+    "type": "Texas Southern rock",
+    "location": "AU Top 50 · current chart",
+    "bio": "Whiskey Myers — Texas Southern rock. Currently on the ARIA Top 50 Singles with “Broken Window Serenade” (AU #37). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Broken Window Serenade",
+    "year": 2026,
+    "subgenre": "Texas Southern rock",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Whiskey Myers — Texas Southern rock.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 37,
+        "title": "Broken Window Serenade",
+        "videoId": "XOeSwMKYQH4",
+        "r2Key": "rank-37-broken-window-serenade.mp4"
+      }
+    ],
+    "chartRank": 37,
+    "number": 131,
+    "chartArtist": true
+  },
+  {
+    "id": "zara-larsson",
+    "name": "Zara Larsson",
+    "genre": "Pop",
+    "type": "Swedish pop",
+    "location": "AU Top 50 · current chart",
+    "bio": "Zara Larsson — Swedish pop. Currently on the ARIA Top 50 Singles with “Midnight Sun” (AU #20). Video streamed from this site's own media library.",
+    "image": "assets/covers/01_Velvet_Frequency.jpg",
+    "album": "Midnight Sun",
+    "year": 2026,
+    "subgenre": "Swedish pop",
+    "coverBrief": "",
+    "source": "ARIA Top 50 (Australia) — chart import",
+    "album_cover": "assets/brand/favicon.svg",
+    "suno_prompt": "",
+    "sonic_identity": "Zara Larsson — Swedish pop.",
+    "track_id": "",
+    "bpm": 0,
+    "mood": "",
+    "chartSongs": [
+      {
+        "rank": 20,
+        "title": "Midnight Sun",
+        "videoId": "uvY8fdgezLQ",
+        "r2Key": "rank-20-midnight-sun.mp4"
+      }
+    ],
+    "chartRank": 20,
+    "number": 132,
+    "chartArtist": true
   }
 ]

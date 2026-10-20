@@ -1,0 +1,7 @@
+.env
+assets/videos/
+chart-downloads/
+*.bak
+push.log
+chunked_push*.sh
+song_titles.txt

@@ -9,350 +9,651 @@
    "title": "Patient Zero",
    "artist": "Taylor Swift",
    "videoId": "mw3kSNIxjqo",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-01-patient-zero.mp4",
+   "songSlug": "01-patient-zero",
+   "artistSlug": "taylor-swift",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=01-patient-zero",
+   "artistPage": "artist.html?a=taylor-swift"
   },
   {
    "rank": 2,
    "title": "Man I Need",
    "artist": "Olivia Dean",
    "videoId": "oIv_Y2RPQ_A",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-02-man-i-need.mp4",
+   "songSlug": "02-man-i-need",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=02-man-i-need",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 3,
    "title": "Rein Me In",
    "artist": "Sam Fender, Olivia Dean",
    "videoId": "3triLkS0nq4",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-03-rein-me-in.mp4",
+   "songSlug": "03-rein-me-in",
+   "artistSlug": "sam-fender",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=03-rein-me-in",
+   "artistPage": "artist.html?a=sam-fender"
   },
   {
    "rank": 4,
    "title": "Choosin' Texas",
    "artist": "Ella Langley",
    "videoId": "hLOheGDwD_0",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-04-choosin-texas.mp4",
+   "songSlug": "04-choosin-texas",
+   "artistSlug": "ella-langley",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=04-choosin-texas",
+   "artistPage": "artist.html?a=ella-langley"
   },
   {
    "rank": 5,
    "title": "Nicole Kidman",
    "artist": "Adéla",
    "videoId": "3sB4Iv_tM7U",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-05-nicole-kidman.mp4",
+   "songSlug": "05-nicole-kidman",
+   "artistSlug": "adela",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=05-nicole-kidman",
+   "artistPage": "artist.html?a=adela"
   },
   {
    "rank": 6,
    "title": "stupid song",
    "artist": "Olivia Rodrigo",
    "videoId": "Rt9tW3cMLhI",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-06-stupid-song.mp4",
+   "songSlug": "06-stupid-song",
+   "artistSlug": "olivia-rodrigo",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=06-stupid-song",
+   "artistPage": "artist.html?a=olivia-rodrigo"
   },
   {
    "rank": 7,
    "title": "Boston",
    "artist": "Stella Lefty",
    "videoId": "v2ttAph6PhM",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-07-boston.mp4",
+   "songSlug": "07-boston",
+   "artistSlug": "stella-lefty",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=07-boston",
+   "artistPage": "artist.html?a=stella-lefty"
   },
   {
    "rank": 8,
    "title": "Stop The Wedding!",
    "artist": "Ashe",
    "videoId": "DLV8FpyxZPQ",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-08-stop-the-wedding.mp4",
+   "songSlug": "08-stop-the-wedding",
+   "artistSlug": "ashe",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=08-stop-the-wedding",
+   "artistPage": "artist.html?a=ashe"
   },
   {
    "rank": 9,
    "title": "Ordinary",
    "artist": "Alex Warren",
    "videoId": "A8dH4cKGa6s",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-09-ordinary.mp4",
+   "songSlug": "09-ordinary",
+   "artistSlug": "alex-warren",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=09-ordinary",
+   "artistPage": "artist.html?a=alex-warren"
   },
   {
    "rank": 10,
    "title": "So Easy (To Fall In Love)",
    "artist": "Olivia Dean",
    "videoId": "3sur4BmjQt8",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-10-so-easy-to-fall-in-love.mp4",
+   "songSlug": "10-so-easy-to-fall-in-love",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=10-so-easy-to-fall-in-love",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 11,
    "title": "Ain't In LA",
    "artist": "Adéla",
    "videoId": "0ijm2Xui5N8",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-11-ain-t-in-la.mp4",
+   "songSlug": "11-ain-t-in-la",
+   "artistSlug": "adela",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=11-ain-t-in-la",
+   "artistPage": "artist.html?a=adela"
   },
   {
    "rank": 12,
    "title": "The Cure",
    "artist": "Olivia Rodrigo",
    "videoId": "B402rKl4bUg",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-12-the-cure.mp4",
+   "songSlug": "12-the-cure",
+   "artistSlug": "olivia-rodrigo",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=12-the-cure",
+   "artistPage": "artist.html?a=olivia-rodrigo"
   },
   {
    "rank": 13,
    "title": "Great Expectation",
    "artist": "Sienna Spiro",
    "videoId": "B452TVVco2Q",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-13-great-expectation.mp4",
+   "songSlug": "13-great-expectation",
+   "artistSlug": "sienna-spiro",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=13-great-expectation",
+   "artistPage": "artist.html?a=sienna-spiro"
   },
   {
    "rank": 14,
    "title": "Loser",
    "artist": "Tame Impala",
    "videoId": "s3a4OQR-10M",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-14-loser.mp4",
+   "songSlug": "14-loser",
+   "artistSlug": "tame-impala",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=14-loser",
+   "artistPage": "artist.html?a=tame-impala"
   },
   {
    "rank": 15,
    "title": "Nice To Each Other",
    "artist": "Olivia Dean",
    "videoId": "VI0NDsh2b8k",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-15-nice-to-each-other.mp4",
+   "songSlug": "15-nice-to-each-other",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=15-nice-to-each-other",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 16,
    "title": "Earrings",
    "artist": "Malcolm Todd",
    "videoId": "a4tdS3IB294",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-16-earrings.mp4",
+   "songSlug": "16-earrings",
+   "artistSlug": "malcolm-todd",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=16-earrings",
+   "artistPage": "artist.html?a=malcolm-todd"
   },
   {
    "rank": 17,
    "title": "Love Me Not",
    "artist": "Ravyn Lenae",
    "videoId": "cswfR85D7jM",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-17-love-me-not.mp4",
+   "songSlug": "17-love-me-not",
+   "artistSlug": "ravyn-lenae",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=17-love-me-not",
+   "artistPage": "artist.html?a=ravyn-lenae"
   },
   {
    "rank": 18,
    "title": "12 to 12",
    "artist": "sombr",
    "videoId": "cZgUiR31m-Y",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-18-12-to-12.mp4",
+   "songSlug": "18-12-to-12",
+   "artistSlug": "sombr",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=18-12-to-12",
+   "artistPage": "artist.html?a=sombr"
   },
   {
    "rank": 19,
    "title": "Self Aware",
    "artist": "Temper City",
    "videoId": "mh4AQkw4Jjc",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-19-self-aware.mp4",
+   "songSlug": "19-self-aware",
+   "artistSlug": "temper-city",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=19-self-aware",
+   "artistPage": "artist.html?a=temper-city"
   },
   {
    "rank": 20,
    "title": "Midnight Sun",
    "artist": "Zara Larsson",
    "videoId": "uvY8fdgezLQ",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-20-midnight-sun.mp4",
+   "songSlug": "20-midnight-sun",
+   "artistSlug": "zara-larsson",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=20-midnight-sun",
+   "artistPage": "artist.html?a=zara-larsson"
   },
   {
    "rank": 21,
    "title": "Dracula",
    "artist": "Tame Impala",
    "videoId": "xnP7qKxwzjg",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-21-dracula.mp4",
+   "songSlug": "21-dracula",
+   "artistSlug": "tame-impala",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=21-dracula",
+   "artistPage": "artist.html?a=tame-impala"
   },
   {
    "rank": 22,
    "title": "A Couple Minutes",
    "artist": "Olivia Dean",
    "videoId": "lrS1LC2cu-U",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-22-a-couple-minutes.mp4",
+   "songSlug": "22-a-couple-minutes",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=22-a-couple-minutes",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 23,
    "title": "Where Is My Husband!",
    "artist": "Raye",
    "videoId": "rK5TyISxZ_M",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-23-where-is-my-husband.mp4",
+   "songSlug": "23-where-is-my-husband",
+   "artistSlug": "raye",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=23-where-is-my-husband",
+   "artistPage": "artist.html?a=raye"
   },
   {
    "rank": 24,
    "title": "Homewrecker",
    "artist": "sombr",
    "videoId": "mQezde_qeXw",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-24-homewrecker.mp4",
+   "songSlug": "24-homewrecker",
+   "artistSlug": "sombr",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=24-homewrecker",
+   "artistPage": "artist.html?a=sombr"
   },
   {
    "rank": 25,
    "title": "The Fate of Ophelia",
    "artist": "Taylor Swift",
    "videoId": "ko70cExuzZM",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-25-the-fate-of-ophelia.mp4",
+   "songSlug": "25-the-fate-of-ophelia",
+   "artistSlug": "taylor-swift",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=25-the-fate-of-ophelia",
+   "artistPage": "artist.html?a=taylor-swift"
   },
   {
    "rank": 26,
    "title": "No Broke Boys",
    "artist": "Disco Lines, Tinashe",
    "videoId": "bT9pjCnIA-c",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-26-no-broke-boys.mp4",
+   "songSlug": "26-no-broke-boys",
+   "artistSlug": "disco-lines",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=26-no-broke-boys",
+   "artistPage": "artist.html?a=disco-lines"
   },
   {
    "rank": 27,
    "title": "Baby Steps",
    "artist": "Olivia Dean",
    "videoId": "6kLEQi0u5rA",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-27-baby-steps.mp4",
+   "songSlug": "27-baby-steps",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=27-baby-steps",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 28,
    "title": "My Body Isn't Ready",
    "artist": "Sombr",
    "videoId": "ofywN3NgGqY",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-28-my-body-isn-t-ready.mp4",
+   "songSlug": "28-my-body-isn-t-ready",
+   "artistSlug": "sombr",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=28-my-body-isn-t-ready",
+   "artistPage": "artist.html?a=sombr"
   },
   {
    "rank": 29,
    "title": "Back To Friends",
    "artist": "Sombr",
    "videoId": "c8zq4kAn_O0",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-29-back-to-friends.mp4",
+   "songSlug": "29-back-to-friends",
+   "artistSlug": "sombr",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=29-back-to-friends",
+   "artistPage": "artist.html?a=sombr"
   },
   {
    "rank": 30,
    "title": "Golden",
    "artist": "Rei Ami, KPop Demon Hunters Cast, Huntrx, Ejae, Audrey Nuna",
    "videoId": "yebNIHKAC4A",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-30-golden.mp4",
+   "songSlug": "30-golden",
+   "artistSlug": "rei-ami",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=30-golden",
+   "artistPage": "artist.html?a=rei-ami"
   },
   {
    "rank": 31,
    "title": "Willing and Able",
    "artist": "Noah Kahan",
    "videoId": "2f4gu97XWFg",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-31-willing-and-able.mp4",
+   "songSlug": "31-willing-and-able",
+   "artistSlug": "noah-kahan",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=31-willing-and-able",
+   "artistPage": "artist.html?a=noah-kahan"
   },
   {
    "rank": 32,
    "title": "bloodstream",
    "artist": "Alyssa Grace",
    "videoId": "FOJ4A4wixDg",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-32-bloodstream.mp4",
+   "songSlug": "32-bloodstream",
+   "artistSlug": "alyssa-grace",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=32-bloodstream",
+   "artistPage": "artist.html?a=alyssa-grace"
   },
   {
    "rank": 33,
    "title": "Orbiter",
    "artist": "Noah Kahan",
    "videoId": "OFcKm-5jSQE",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-33-orbiter.mp4",
+   "songSlug": "33-orbiter",
+   "artistSlug": "noah-kahan",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=33-orbiter",
+   "artistPage": "artist.html?a=noah-kahan"
   },
   {
    "rank": 34,
    "title": "Be Her",
    "artist": "Ella Langley",
    "videoId": "Dg47eNL_Usw",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-34-be-her.mp4",
+   "songSlug": "34-be-her",
+   "artistSlug": "ella-langley",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=34-be-her",
+   "artistPage": "artist.html?a=ella-langley"
   },
   {
    "rank": 35,
    "title": "Babydoll",
    "artist": "Jamie Miller",
    "videoId": "8g25GeJgxgs",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-35-babydoll.mp4",
+   "songSlug": "35-babydoll",
+   "artistSlug": "jamie-miller",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=35-babydoll",
+   "artistPage": "artist.html?a=jamie-miller"
   },
   {
    "rank": 36,
    "title": "Raindance",
    "artist": "Dave, Tems",
    "videoId": "SOJpE1KMUbo",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-36-raindance.mp4",
+   "songSlug": "36-raindance",
+   "artistSlug": "dave",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=36-raindance",
+   "artistPage": "artist.html?a=dave"
   },
   {
    "rank": 37,
    "title": "Broken Window Serenade",
    "artist": "Whiskey Myers",
    "videoId": "XOeSwMKYQH4",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-37-broken-window-serenade.mp4",
+   "songSlug": "37-broken-window-serenade",
+   "artistSlug": "whiskey-myers",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=37-broken-window-serenade",
+   "artistPage": "artist.html?a=whiskey-myers"
   },
   {
    "rank": 38,
    "title": "iloveitiloveitiloveit",
    "artist": "Bella Kay",
    "videoId": "OqTpNnSnwxQ",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-38-iloveitiloveitiloveit.mp4",
+   "songSlug": "38-iloveitiloveitiloveit",
+   "artistSlug": "bella-kay",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=38-iloveitiloveitiloveit",
+   "artistPage": "artist.html?a=bella-kay"
   },
   {
    "rank": 39,
    "title": "Movin' To The Sun",
    "artist": "Hugel, Imael Angel, Ultra Naté",
    "videoId": "n7QlUH0zrPg",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-39-movin-to-the-sun.mp4",
+   "songSlug": "39-movin-to-the-sun",
+   "artistSlug": "hugel",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=39-movin-to-the-sun",
+   "artistPage": "artist.html?a=hugel"
   },
   {
    "rank": 40,
    "title": "hate that i made you love me",
    "artist": "Ariana Grande",
    "videoId": "82-jTNka3uc",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-40-hate-that-i-made-you-love-me.mp4",
+   "songSlug": "40-hate-that-i-made-you-love-me",
+   "artistSlug": "ariana-grande",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=40-hate-that-i-made-you-love-me",
+   "artistPage": "artist.html?a=ariana-grande"
   },
   {
    "rank": 41,
    "title": "Die On This Hill",
    "artist": "Sienna Spiro",
    "videoId": "otzXtiodkEE",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-41-die-on-this-hill.mp4",
+   "songSlug": "41-die-on-this-hill",
+   "artistSlug": "sienna-spiro",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=41-die-on-this-hill",
+   "artistPage": "artist.html?a=sienna-spiro"
   },
   {
    "rank": 42,
    "title": "Cinderella",
    "artist": "Mac Miller Feat. Ty Dolla $ign",
    "videoId": "0fcsGS1dEro",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-42-cinderella.mp4",
+   "songSlug": "42-cinderella",
+   "artistSlug": "mac-miller-feat-ty-dolla-ign",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=42-cinderella",
+   "artistPage": "artist.html?a=mac-miller-feat-ty-dolla-ign"
   },
   {
    "rank": 43,
    "title": "drop dead",
    "artist": "Olivia Rodrigo",
    "videoId": "78wrful9cVU",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-43-drop-dead.mp4",
+   "songSlug": "43-drop-dead",
+   "artistSlug": "olivia-rodrigo",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=43-drop-dead",
+   "artistPage": "artist.html?a=olivia-rodrigo"
   },
   {
    "rank": 44,
    "title": "Material Lover",
    "artist": "Sienna Spiro",
    "videoId": "EZOiy1-cnxM",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-44-material-lover.mp4",
+   "songSlug": "44-material-lover",
+   "artistSlug": "sienna-spiro",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=44-material-lover",
+   "artistPage": "artist.html?a=sienna-spiro"
   },
   {
    "rank": 45,
    "title": "Let Alone The One You Love",
    "artist": "Olivia Dean",
    "videoId": "uxIjDwmc3uU",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-45-let-alone-the-one-you-love.mp4",
+   "songSlug": "45-let-alone-the-one-you-love",
+   "artistSlug": "olivia-dean",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=45-let-alone-the-one-you-love",
+   "artistPage": "artist.html?a=olivia-dean"
   },
   {
    "rank": 46,
    "title": "Daisies",
    "artist": "Justin Bieber",
    "videoId": "QyvREl7epGY",
-   "how": "yt-search"
+   "how": "yt-search",
+   "r2Key": "rank-46-daisies.mp4",
+   "songSlug": "46-daisies",
+   "artistSlug": "justin-bieber",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=46-daisies",
+   "artistPage": "artist.html?a=justin-bieber"
   },
   {
    "rank": 47,
    "title": "Animal",
    "artist": "Katseye",
    "videoId": "m7k9UMcHbr0",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-47-animal.mp4",
+   "songSlug": "47-animal",
+   "artistSlug": "katseye",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=47-animal",
+   "artistPage": "artist.html?a=katseye"
   },
   {
    "rank": 48,
    "title": "Weren't For The Wind",
    "artist": "Ella Langley",
    "videoId": "U4NPZi2b0aQ",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-48-weren-t-for-the-wind.mp4",
+   "songSlug": "48-weren-t-for-the-wind",
+   "artistSlug": "ella-langley",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=48-weren-t-for-the-wind",
+   "artistPage": "artist.html?a=ella-langley"
   },
   {
    "rank": 49,
    "title": "That's So True",
    "artist": "Gracie Abrams",
    "videoId": "BDHM8cyJQa8",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-49-that-s-so-true.mp4",
+   "songSlug": "49-that-s-so-true",
+   "artistSlug": "gracie-abrams",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=49-that-s-so-true",
+   "artistPage": "artist.html?a=gracie-abrams"
   },
   {
    "rank": 50,
    "title": "Victory Lap",
    "artist": "Fred again.., Skepta, PlaqueBoyMax",
    "videoId": "08C987fQEKU",
-   "how": "aria-direct"
+   "how": "aria-direct",
+   "r2Key": "rank-50-victory-lap.mp4",
+   "songSlug": "50-victory-lap",
+   "artistSlug": "fred-again",
+   "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/",
+   "page": "song.html?s=50-victory-lap",
+   "artistPage": "artist.html?a=fred-again"
   }
- ]
+ ],
+ "mediaBase": "https://pub-5ce055eb6d8740b9900b4a5a4efff489.r2.dev/"
 }
